@@ -1,0 +1,1683 @@
+{
+  "schemaVersion": 1,
+  "catalogueVersion": 3,
+  "generatedAt": "2026-09-10T09:44:31.951Z",
+  "checksum": "0e4929251794abdf5785fdf572bd0ae0272c4769667c61849aed6ad68286e010",
+  "exercises": [
+    {
+      "id": "w_2026_w37_comparative_1_4a53c98948",
+      "title": "The Future of Space Exploration",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w37_comparative_1_4a53c98948_passage_1",
+          "title": "The Robotic Vanguard",
+          "body": "Robotic exploration represents the absolute pinnacle of cost-effective and scientifically rigorous deep-space discovery. Unmanned probes like Voyager and the Mars Perseverance rover traverse hostile alien environments without requiring heavy, complex life-support systems, radiation shielding, or return fuel. This dramatic reduction in payload weight allows space agencies to maximize analytical instrumentation, ensuring a far higher scientific yield per dollar spent. Furthermore, mechanical explorers can endure centuries of deep-space travel, sending back streams of invaluable atmospheric data while preserving precious human lives from lethal cosmic radiation. To insist on sending organic astronauts is an expensive sentimentalism that drains vital resources from broader exploration endeavors. By prioritizing autonomous machines, we can map the farthest reaches of our solar system with unparalleled precision and virtually zero physical risk."
+        },
+        {
+          "id": "w_2026_w37_comparative_1_4a53c98948_passage_2",
+          "title": "The Human Imperative",
+          "body": "While robotic probes yield impressive data, they lack the spontaneous adaptability crucial for true scientific breakthrough. Human astronauts possess cognitive flexibility, allowing them to make split-second decisions, recognize unexpected geological anomalies, and repair damaged equipment on site—tasks that would stymie even the most advanced artificial intelligence. More importantly, the human presence in space serves an evolutionary and inspirational purpose that cold machinery can never replicate. It ignites public imagination, driving global interest in STEM fields and fostering international collaboration. To relegate space exploration entirely to autonomous machines is to deny humanity its natural destiny as pioneers. We must accept the inherent risks of manned missions, for the most profound discoveries require not just cameras and sensors, but human eyes and minds to interpret the wonders of the cosmos."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w37_comparative_1_4a53c98948_question_1",
+          "prompt": "What does the word \"sentimentalism\" mean as used in Passage A?",
+          "options": [
+            "An excessive reliance on emotional appeal rather than practical reasoning",
+            "A nostalgic longing for historical exploration methods",
+            "An advanced scientific theory regarding space travel",
+            "A deliberate effort to minimize financial expenditures"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "This correctly identifies the author's critique of emotional rather than practical priorities.",
+            "The author refers to current emotional biases, not historical nostalgia.",
+            "Sentimentalism is an emotional concept, not a scientific theory.",
+            "Sentimentalism is described as expensive, which is the opposite of minimizing expenditures."
+          ],
+          "skill": "vocabulary",
+          "passageIds": [
+            "w_2026_w37_comparative_1_4a53c98948_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_1_4a53c98948_passage_1",
+              "quote": "To insist on sending organic astronauts is an expensive sentimentalism that drains vital resources from broader exploration endeavors."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_1_4a53c98948_question_2",
+          "prompt": "According to Passage A, what is a primary benefit of the reduction in payload weight for robotic missions?",
+          "options": [
+            "It enables spacecraft to travel faster than the speed of light.",
+            "It allows space agencies to maximize analytical instrumentation.",
+            "It reduces the need for long-term data transmission systems.",
+            "It eliminates the necessity of deep-space navigation algorithms."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Faster-than-light travel is not mentioned or implied in the text.",
+            "This option directly matches the stated benefit of maximizing instrumentation.",
+            "The text mentions sending back streams of data, not reducing transmission needs.",
+            "Navigation algorithms are not discussed in relation to payload weight reduction."
+          ],
+          "skill": "literal",
+          "passageIds": [
+            "w_2026_w37_comparative_1_4a53c98948_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_1_4a53c98948_passage_1",
+              "quote": "This dramatic reduction in payload weight allows space agencies to maximize analytical instrumentation"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_1_4a53c98948_question_3",
+          "prompt": "Based on Passage B, what can be inferred about the author's view of artificial intelligence in space exploration?",
+          "options": [
+            "It will completely replace the need for human scientists within a decade.",
+            "It is far too expensive to develop compared to training human astronauts.",
+            "It is currently incapable of handling unexpected obstacles as effectively as humans.",
+            "It has failed to generate any public interest or inspiration in STEM fields."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "The author advocates against replacing humans, not predicting AI will replace them.",
+            "Cost comparison of AI development versus human training is not discussed.",
+            "The author notes that unexpected anomalies would stymie advanced artificial intelligence.",
+            "Public inspiration is credited to humans, but AI's failure is not inferred here."
+          ],
+          "skill": "inference",
+          "passageIds": [
+            "w_2026_w37_comparative_1_4a53c98948_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_1_4a53c98948_passage_2",
+              "quote": "tasks that would stymie even the most advanced artificial intelligence"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_1_4a53c98948_question_4",
+          "prompt": "Which statement best describes how the two authors view the financial cost of space exploration?",
+          "options": [
+            "Both authors agree that the high financial cost of space exploration makes it unsustainable in the long run.",
+            "Passage A argues that robotic missions are too expensive, whereas Passage B argues they are highly cost-effective.",
+            "Passage A ignores the financial aspects entirely, while Passage B focuses solely on the economic benefits.",
+            "Passage A views high costs as a reason to avoid human missions, while Passage B implies the benefits justify the risks and efforts."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Neither author claims that space exploration is unsustainable in the long run.",
+            "This reverses the actual arguments made by the two authors regarding costs.",
+            "Passage A explicitly discusses cost-effectiveness, and Passage B does not focus solely on economics.",
+            "Passage A criticizes the expense of human missions, while Passage B justifies the endeavor's costs."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w37_comparative_1_4a53c98948_passage_1",
+            "w_2026_w37_comparative_1_4a53c98948_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_1_4a53c98948_passage_1",
+              "quote": "To insist on sending organic astronauts is an expensive sentimentalism"
+            },
+            {
+              "passageId": "w_2026_w37_comparative_1_4a53c98948_passage_2",
+              "quote": "We must accept the inherent risks of manned missions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_comparative_2_40540b9ef0",
+      "title": "The Evolution of Libraries",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w37_comparative_2_40540b9ef0_passage_1",
+          "title": "The Virtual Archive",
+          "body": "The transition from brick-and-mortar libraries to digital archives represents a monumental leap in democratic access to knowledge. Digital libraries eliminate geographical barriers, allowing a student in a remote village to access the same rare manuscripts as a scholar at an elite university. Furthermore, the searchability of digitized text dramatically accelerates academic research, turning hours of manual index-skimming into a millisecond query. From an environmental perspective, digital hosting reduces the ecological footprint associated with paper production, shipping, and climate-controlled physical storage. While traditionalists lament the loss of dusty shelves, the sheer efficiency, scalability, and inclusivity of digital repositories make them the only viable future for global literacy. Maintaining massive physical facilities is an obsolete luxury we can no longer justify in an interconnected world."
+        },
+        {
+          "id": "w_2026_w37_comparative_2_40540b9ef0_passage_2",
+          "title": "The Sanctuary of Stone and Paper",
+          "body": "Physical libraries are not merely storage units for paper; they are vital civic sanctuaries that foster deep cognitive engagement and community cohesion. Research consistently demonstrates that reading printed material enhances comprehension and memory retention compared to scanning backlit screens. The tactile experience of turning pages provides spatial anchors that help the brain map narratives. Beyond cognitive benefits, physical libraries serve as crucial community hubs, offering free public spaces, internet access, and literacy programs for vulnerable populations. The quiet, shared atmosphere of a reading room cultivates a collective intellectual focus that digital platforms cannot replicate. To dismantle these physical institutions in favor of digital-only access is to misunderstand their true value, reducing a rich, multi-sensory human experience to a sterile transaction on a screen."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w37_comparative_2_40540b9ef0_question_1",
+          "prompt": "What is the primary purpose of the author of Passage A?",
+          "options": [
+            "To advocate for the transition to digital archives by highlighting their efficiency and accessibility.",
+            "To provide a historical overview of how physical libraries evolved into digital repositories.",
+            "To critique the academic rigor of students who rely solely on digital search engines.",
+            "To propose a budget plan for converting physical libraries into community computer labs."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "The author systematically argues for the benefits and inevitability of digital archives.",
+            "The passage focuses on current benefits, not a detailed historical overview.",
+            "The author praises the speed of digital research rather than critiquing student academic rigor.",
+            "No specific budget plans or computer lab conversions are proposed in the passage."
+          ],
+          "skill": "author_purpose",
+          "passageIds": [
+            "w_2026_w37_comparative_2_40540b9ef0_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_2_40540b9ef0_passage_1",
+              "quote": "While traditionalists lament the loss of dusty shelves, the sheer efficiency, scalability, and inclusivity of digital repositories make them the only viable future for global literacy."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_2_40540b9ef0_question_2",
+          "prompt": "How does Passage B structure its argument in favor of physical libraries?",
+          "options": [
+            "By comparing the financial operating costs of physical libraries to those of digital databases.",
+            "By presenting cognitive benefits first, followed by social and community advantages.",
+            "By starting with a historical anecdote and ending with a series of scientific statistics.",
+            "By debating a series of opposing arguments before presenting a final, compromise solution."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The passage does not analyze or compare the operating costs of either library format.",
+            "The author first discusses comprehension and memory, then transitions to civic and community benefits.",
+            "There are no historical anecdotes or specific scientific statistics included in the text.",
+            "The author presents a firm stance without offering a compromise or debating opposing views."
+          ],
+          "skill": "structure",
+          "passageIds": [
+            "w_2026_w37_comparative_2_40540b9ef0_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_2_40540b9ef0_passage_2",
+              "quote": "Research consistently demonstrates that reading printed material enhances comprehension and memory retention compared to scanning backlit screens."
+            },
+            {
+              "passageId": "w_2026_w37_comparative_2_40540b9ef0_passage_2",
+              "quote": "Beyond cognitive benefits, physical libraries serve as crucial community hubs"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_2_40540b9ef0_question_3",
+          "prompt": "Based on Passage B, what can be inferred about the author's attitude toward reading on digital screens?",
+          "options": [
+            "They view it as an excellent tool for children but harmful for adult researchers.",
+            "They consider it completely useless for any form of modern educational instruction.",
+            "They believe it is inferior to print reading for deep comprehension and memory retention.",
+            "They believe it will eventually evolve to perfectly mimic the tactile sensation of paper."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "No distinction is made between children and adults regarding screen reading.",
+            "The author criticizes digital screens but does not label them completely useless.",
+            "The author notes research showing print enhances comprehension compared to backlit screens.",
+            "There is no prediction about future technological developments mimicking paper sensations."
+          ],
+          "skill": "inference",
+          "passageIds": [
+            "w_2026_w37_comparative_2_40540b9ef0_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_2_40540b9ef0_passage_2",
+              "quote": "Research consistently demonstrates that reading printed material enhances comprehension and memory retention compared to scanning backlit screens."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_2_40540b9ef0_question_4",
+          "prompt": "On which of the following points would the authors of Passage A and Passage B most likely disagree?",
+          "options": [
+            "The potential for digital archives to increase access to information.",
+            "The importance of reading and literacy in modern society.",
+            "The fact that digital search engines speed up research queries.",
+            "The necessity of maintaining physical library buildings."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Both authors acknowledge digital accessibility, though they value different aspects of reading.",
+            "Both authors clearly value literacy and intellectual engagement highly.",
+            "Neither author disputes that digital search engines speed up the retrieval of information.",
+            "Passage A rejects physical facilities, while Passage B argues they are vital sanctuaries."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w37_comparative_2_40540b9ef0_passage_1",
+            "w_2026_w37_comparative_2_40540b9ef0_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_2_40540b9ef0_passage_1",
+              "quote": "Maintaining massive physical facilities is an obsolete luxury we can no longer justify"
+            },
+            {
+              "passageId": "w_2026_w37_comparative_2_40540b9ef0_passage_2",
+              "quote": "To dismantle these physical institutions in favor of digital-only access is to misunderstand their true value"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_comparative_3_2602d502ba",
+      "title": "Preserving Art: Digital Surrogates vs. Physical Artifacts",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w37_comparative_3_2602d502ba_passage_1",
+          "title": "The Promise of Digital Archiving",
+          "body": "The digitization of historical masterpieces represents a monumental leap in cultural preservation. While physical canvases inevitably decay, falling victim to humidity, light exposure, and the inexorable march of time, high-resolution digital scans remain pristine. These digital surrogates do not merely act as backups; they democratize access. An art student in a remote village can analyze the brushstrokes of Vermeer with the same clarity as a visitor standing in the Louvre. Detractors argue that digital files lack the 'soul' of the physical medium. However, this view overlooks the practical reality: physical artifacts are fragile and inherently exclusive. By prioritizing digital archiving, we ensure that the aesthetic and historical essence of human creativity is permanently safeguarded and universally shareable, independent of geographic and physical limitations."
+        },
+        {
+          "id": "w_2026_w37_comparative_3_2602d502ba_passage_2",
+          "title": "The Irreplaceable Physical Artifact",
+          "body": "No digital rendering, regardless of its pixel density, can truly replicate the experience of standing before an authentic work of art. The physical canvas possesses an irreplaceable material history—the texture of layered paint, the subtle warping of wood, and the organic scent of aged paper. These tangible elements constitute the artwork's authentic aura, which is completely lost in a flat, digital simulation. Furthermore, relying heavily on digital archives introduces dangerous vulnerabilities, such as file corruption, format obsolescence, and systemic cyber threats. To prioritize the digital copy over the physical original is to mistake a shadow for the object casting it. True preservation requires the intensive, hands-on conservation of physical objects, maintaining the direct, sensory link to our ancestors that technology can only hope to mimic."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w37_comparative_3_2602d502ba_question_1",
+          "prompt": "As used in Passage A, the word \"surrogates\" most nearly means",
+          "options": [
+            "substitutes",
+            "improvements",
+            "protectors",
+            "replicas"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "The context refers to digital files acting as stand-ins or substitutes for the original physical artwork.",
+            "The author does not claim digital copies are inherently superior artistic improvements over the original.",
+            "Digital files do not actively guard or protect the physical canvases from decaying.",
+            "While they are copies, 'surrogates' specifically highlights their role as functional substitutes for access."
+          ],
+          "skill": "vocabulary",
+          "passageIds": [
+            "w_2026_w37_comparative_3_2602d502ba_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_3_2602d502ba_passage_1",
+              "quote": "These digital surrogates do not merely act as backups; they democratize access."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_3_2602d502ba_question_2",
+          "prompt": "According to Passage B, what is one technical risk associated with digital archives?",
+          "options": [
+            "The high financial cost of cloud storage systems",
+            "The susceptibility of digital formats to corruption and cyber threats",
+            "The difficulty of training museum staff in digital curation",
+            "The rapid physical decay of electronic storage drives"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Financial costs of cloud storage are not mentioned in Passage B.",
+            "The author explicitly lists file corruption and cyber threats as dangerous vulnerabilities.",
+            "Staff training difficulties are not discussed in the text.",
+            "The text mentions format obsolescence, not the physical decay of the drives themselves."
+          ],
+          "skill": "literal",
+          "passageIds": [
+            "w_2026_w37_comparative_3_2602d502ba_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_3_2602d502ba_passage_2",
+              "quote": "Furthermore, relying heavily on digital archives introduces dangerous vulnerabilities, such as file corruption, format obsolescence, and systemic cyber threats."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_3_2602d502ba_question_3",
+          "prompt": "Which statement best describes how the authors of Passage A and Passage B differ on the accessibility of art?",
+          "options": [
+            "Passage A advocates for destroying physical art, while Passage B argues for keeping it in private collections.",
+            "Passage A believes digital art is harder to access, while Passage B claims physical museums are universally free.",
+            "Passage A values universal digital access, while Passage B emphasizes the exclusive, authentic physical encounter.",
+            "Passage A focuses on the financial cost of art, while Passage B focuses on its educational value."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Passage A does not advocate for the destruction of physical art.",
+            "Passage A argues digital art is easier to access, contradicting this option.",
+            "Passage A celebrates global digital availability, whereas Passage B prioritizes the unique, authentic physical connection.",
+            "Neither passage focuses primarily on financial costs or monetary transactions."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w37_comparative_3_2602d502ba_passage_1",
+            "w_2026_w37_comparative_3_2602d502ba_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_3_2602d502ba_passage_1",
+              "quote": "By prioritizing digital archiving, we ensure that the aesthetic and historical essence of human creativity is permanently safeguarded and universally shareable, independent of geographic and physical limitations."
+            },
+            {
+              "passageId": "w_2026_w37_comparative_3_2602d502ba_passage_2",
+              "quote": "True preservation requires the intensive, hands-on conservation of physical objects, maintaining the direct, sensory link to our ancestors that technology can only hope to mimic."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_3_2602d502ba_question_4",
+          "prompt": "Based on Passage B, the author would most likely view Passage A's claim that digital archives preserve the \"essence\" of art as",
+          "options": [
+            "a valid compromise for modern museums.",
+            "a highly innovative solution to global inequality.",
+            "an accurate assessment of future technological capabilities.",
+            "an oversimplification that ignores the sensory dimensions of art."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "The author of Passage B rejects digital copies as a true compromise for preservation.",
+            "Passage B is critical of digital prioritization and does not praise it as an innovative solution.",
+            "Passage B views technology as unable to truly mimic the authentic sensory link.",
+            "Passage B argues that the sensory, physical details are completely lost in digital simulations."
+          ],
+          "skill": "inference",
+          "passageIds": [
+            "w_2026_w37_comparative_3_2602d502ba_passage_1",
+            "w_2026_w37_comparative_3_2602d502ba_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_3_2602d502ba_passage_2",
+              "quote": "These tangible elements constitute the artwork's authentic aura, which is completely lost in a flat, digital simulation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_comparative_4_93298edbf8",
+      "title": "Creative Mediums: Digital vs. Analog",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w37_comparative_4_93298edbf8_passage_1",
+          "title": "The Digital Canvas",
+          "body": "In the digital age, the screen represents an infinite, dynamic canvas for the modern writer. Typing allows thoughts to flow at the speed of cognition, bypassing the physical lag of pen on paper. With cloud synchronization, a sudden spark of inspiration in a coffee shop can be captured instantly on a phone and later polished on a desktop. Digital archives are searchable, instantly editable, and completely immune to physical degradation. While skeptics argue that screens invite distraction, modern minimalist word processors offer immersive, distraction-free modes that block notifications entirely. To insist on paper is to cling to an inefficient relic of the past when modern software provides unparalleled flexibility, organization, and permanent preservation for one's creative output. Embracing digital tools is not merely a preference; it is a necessary evolution for serious creators."
+        },
+        {
+          "id": "w_2026_w37_comparative_4_93298edbf8_passage_2",
+          "title": "The Mindful Pen",
+          "body": "There is an irreplaceable cognitive intimacy in the act of writing by hand. When a pen meets paper, a complex neural pathway is activated, anchoring the writer's focus in a way that tapping on plastic keys simply cannot replicate. The physical constraints of a notebook—the finite page, the permanent ink—force a deliberate, mindful pace of composition. Mistakes cannot be effortlessly deleted; instead, they remain on the page, serving as a record of the creative struggle and evolution. Furthermore, a physical notebook is a sanctuary free from the digital noise of notifications and the temptation of tabs. It demands presence. While digital files risk vanishing into the void of forgotten hard drives, a handbound journal remains a tangible, enduring testament to the writer's lived experience."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w37_comparative_4_93298edbf8_question_1",
+          "prompt": "As used in Passage A, the word \"relic\" most nearly means:",
+          "options": [
+            "An outdated remnant",
+            "A sacred artifact",
+            "A fragile collectible",
+            "A valuable instrument"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "This option correctly identifies 'relic' as an outdated remnant in this context.",
+            "This is incorrect because the author views paper negatively, not as sacred.",
+            "This is incorrect because 'relic' refers to obsolescence rather than physical fragility.",
+            "This is incorrect because the author argues paper is inefficient and obsolete."
+          ],
+          "skill": "vocabulary",
+          "passageIds": [
+            "w_2026_w37_comparative_4_93298edbf8_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_4_93298edbf8_passage_1",
+              "quote": "To insist on paper is to cling to an inefficient relic of the past"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_4_93298edbf8_question_2",
+          "prompt": "Based on Passage B, what does the author imply about mistakes made during the writing process?",
+          "options": [
+            "They should be avoided at all costs to preserve paper.",
+            "They possess value as markers of the writer's creative growth.",
+            "They are easily corrected with the right writing tools.",
+            "They distract the writer from maintaining a mindful pace."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "This is incorrect because the author values mistakes rather than avoiding them.",
+            "This option correctly identifies that mistakes show the writer's creative evolution.",
+            "This is incorrect because the text emphasizes that mistakes cannot be easily deleted.",
+            "This is incorrect because mistakes are described as part of the mindful process."
+          ],
+          "skill": "inference",
+          "passageIds": [
+            "w_2026_w37_comparative_4_93298edbf8_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_4_93298edbf8_passage_2",
+              "quote": "Mistakes cannot be effortlessly deleted; instead, they remain on the page, serving as a record of the creative struggle and evolution."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_4_93298edbf8_question_3",
+          "prompt": "How do the authors of Passage A and Passage B differ in their assessment of potential distractions?",
+          "options": [
+            "Passage A ignores the issue of distraction, whereas Passage B addresses it directly.",
+            "Passage A warns against the danger of notifications, while Passage B embraces digital notifications.",
+            "Passage A claims technology can eliminate distractions, while Passage B argues true focus requires physical paper.",
+            "Passage A views paper as highly distracting, while Passage B views screens as inherently focused."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "This is incorrect because Passage A explicitly addresses distractions using minimalist software.",
+            "This is incorrect because Passage B rejects, rather than embraces, digital notifications.",
+            "This option correctly contrasts the two authors' solutions to digital distractions.",
+            "This is incorrect because Passage A views paper as inefficient, not distracting."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w37_comparative_4_93298edbf8_passage_1",
+            "w_2026_w37_comparative_4_93298edbf8_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_4_93298edbf8_passage_1",
+              "quote": "modern minimalist word processors offer immersive, distraction-free modes that block notifications entirely."
+            },
+            {
+              "passageId": "w_2026_w37_comparative_4_93298edbf8_passage_2",
+              "quote": "a physical notebook is a sanctuary free from the digital noise of notifications and the temptation of tabs."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_4_93298edbf8_question_4",
+          "prompt": "What is the primary purpose of Passage A?",
+          "options": [
+            "To explain how cloud synchronization works for creative writers.",
+            "To analyze the history of minimalist word processors.",
+            "To criticize writers who refuse to write in public spaces.",
+            "To persuade writers to adopt digital tools over traditional paper."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "This is incorrect because cloud synchronization is merely a supporting detail.",
+            "This is incorrect because the passage does not provide a historical analysis.",
+            "This is incorrect because writing in public is not the main focus.",
+            "This option correctly identifies the persuasive intent of Passage A."
+          ],
+          "skill": "author_purpose",
+          "passageIds": [
+            "w_2026_w37_comparative_4_93298edbf8_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_4_93298edbf8_passage_1",
+              "quote": "Embracing digital tools is not merely a preference; it is a necessary evolution for serious creators."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_comparative_5_e9bc93894c",
+      "title": "Analog vs. Digital Note-Taking",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w37_comparative_5_e9bc93894c_passage_1",
+          "title": "The Cognitive Power of Paper",
+          "body": "The physical act of putting pen to paper remains an irreplaceable cognitive anchor in our digital age. When we guide a pen across a page, the tactile feedback engages the brain's motor cortex, creating a unique neural pathway that significantly enhances memory retention. Unlike digital typing, which relies on uniform, repetitive keystrokes, handwriting requires diverse and deliberate physical strokes. This micro-effort forces the mind to process information actively, summarizing and synthesizing concepts rather than passively transcribing them verbatim. Furthermore, a paper notebook offers a sanctuary from the relentless barrage of digital notifications. In a world dominated by screens, the analog page provides a distraction-free environment that fosters deep, uninterrupted contemplation. To abandon paper is to sacrifice cognitive depth for mere convenience."
+        },
+        {
+          "id": "w_2026_w37_comparative_5_e9bc93894c_passage_2",
+          "title": "The Digital Efficiency Evolution",
+          "body": "While the romantic appeal of paper is undeniable, it is an obsolete medium for managing modern information. Digital note-taking applications offer unparalleled efficiency, searchability, and flexibility that physical notebooks simply cannot match. With a single keyword search, a user can instantly locate a fleeting thought recorded months ago, bypassing the tedious flipping of paper pages. Furthermore, digital notes are infinitely malleable; they can be reorganized, tagged, and synchronized across multiple devices instantaneously. This adaptability is crucial for navigating today's complex, fast-paced academic and professional landscapes. Cloud storage also ensures that ideas are permanently preserved, immune to the physical vulnerabilities of fire, water, or simple misplacement. Embracing digital platforms is not a compromise of intellect, but a necessary evolution in cognitive organization."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w37_comparative_5_e9bc93894c_question_1",
+          "prompt": "As used in Passage A, the word \"anchor\" most nearly means",
+          "options": [
+            "stabilizing force",
+            "heavy weight",
+            "reliable source",
+            "temporary hold"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "An anchor stabilizes the mind, which aligns with the cognitive benefits described.",
+            "This literal definition does not fit the cognitive context of the passage.",
+            "While anchors are reliable, the term here emphasizes stabilization and memory retention.",
+            "A temporary hold contradicts the passage's emphasis on long-term memory retention."
+          ],
+          "skill": "vocabulary",
+          "passageIds": [
+            "w_2026_w37_comparative_5_e9bc93894c_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_5_e9bc93894c_passage_1",
+              "quote": "The physical act of putting pen to paper remains an irreplaceable cognitive anchor in our digital age."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_5_e9bc93894c_question_2",
+          "prompt": "Based on Passage A, what can be inferred about a student who types lecture notes verbatim on a laptop?",
+          "options": [
+            "They will develop better motor skills through repetitive keystrokes.",
+            "They will retain less information because the process is too passive.",
+            "They will experience fewer digital distractions during the lecture.",
+            "They will organize their notes more effectively than a paper user."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The passage characterizes keystrokes as uniform and repetitive, not beneficial for motor skills.",
+            "Passage A suggests verbatim typing leads to passive transcription and less processing.",
+            "Laptops typically increase digital notifications, which the passage identifies as distractions.",
+            "Passage A does not discuss the organizational benefits of typing over paper."
+          ],
+          "skill": "inference",
+          "passageIds": [
+            "w_2026_w37_comparative_5_e9bc93894c_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_5_e9bc93894c_passage_1",
+              "quote": "This micro-effort forces the mind to process information actively, summarizing and synthesizing concepts rather than passively transcribing them verbatim."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_5_e9bc93894c_question_3",
+          "prompt": "Which of the following best describes how the two authors view the relationship between technology and intellectual work?",
+          "options": [
+            "Both authors agree that technology impairs our ability to think deeply.",
+            "Both authors believe that physical tools are superior to digital ones.",
+            "Author A views technology as a distraction, while Author B views it as an organizational advancement.",
+            "Author A advocates for digital organization, while Author B warns against physical clutter."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Only Author A suggests that digital technology impairs deep, distraction-free thinking.",
+            "Author B explicitly argues that digital platforms are superior for modern information management.",
+            "Author A notes digital distractions, while Author B emphasizes digital efficiency and organization.",
+            "This reverses the perspectives of both authors on these specific issues."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w37_comparative_5_e9bc93894c_passage_1",
+            "w_2026_w37_comparative_5_e9bc93894c_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_5_e9bc93894c_passage_1",
+              "quote": "In a world dominated by screens, the analog page provides a distraction-free environment that fosters deep, uninterrupted contemplation."
+            },
+            {
+              "passageId": "w_2026_w37_comparative_5_e9bc93894c_passage_2",
+              "quote": "Embracing digital platforms is not a compromise of intellect, but a necessary evolution in cognitive organization."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w37_comparative_5_e9bc93894c_question_4",
+          "prompt": "What is the primary purpose of Passage B?",
+          "options": [
+            "To warn readers about the physical vulnerabilities of paper notebooks.",
+            "To explain the cognitive mechanisms behind memory and typing.",
+            "To advocate for a hybrid approach combining paper and digital tools.",
+            "To persuade readers of the superior utility of digital note-taking."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Although physical vulnerabilities are mentioned, this is not the passage's primary purpose.",
+            "Passage B focuses on organizational utility rather than explaining cognitive brain mechanisms.",
+            "The author advocates solely for digital note-taking, not a hybrid approach.",
+            "The author systematically argues that digital platforms outperform paper in modern landscapes."
+          ],
+          "skill": "author_purpose",
+          "passageIds": [
+            "w_2026_w37_comparative_5_e9bc93894c_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w37_comparative_5_e9bc93894c_passage_2",
+              "quote": "Digital note-taking applications offer unparalleled efficiency, searchability, and flexibility that physical notebooks simply cannot match."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_gapped_text_11_f7d9d49d97",
+      "title": "The Psychology of Deep Focus",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "In today's hyper-connected world, achieving a state of deep focus has become both a rare luxury and a critical skill. Psychologists often refer to this optimal state of consciousness as 'flow,' a term coined by Mihaly Csikszentmihalyi. During flow, individuals become so immersed in an activity that everything else seems to fade into the background. ",
+        " To enter this state, certain conditions must be met. First, there must be a clear set of goals that directionally guide your efforts. This clarity prevents the mind from wandering or wondering what to do next. ",
+        " Another crucial factor is the balance between the challenge of the task and the skills of the performer. If the task is too easy, boredom quickly sets in. Conversely, if the challenge exceeds the individual's capability, anxiety takes over. ",
+        " When this delicate balance is achieved, attention is completely absorbed. People lose their sense of self-consciousness, and their perception of time alters dramatically. Hours can feel like minutes, or seconds can feel stretched out. ",
+        " Ultimately, cultivating the ability to enter a flow state can transform how we work and learn. By intentionally structuring our environments and tasks, we can unlock higher levels of creativity and satisfaction."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_gapped_text_11_f7d9d49d97_gap_1",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w37_gapped_text_11_f7d9d49d97_sentence_1",
+          "explanation": "This sentence logically builds on the definition of 'flow' by explaining its psychological benefits of productivity and satisfaction."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_11_f7d9d49d97_gap_2",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w37_gapped_text_11_f7d9d49d97_sentence_2",
+          "explanation": "The phrase 'Following the establishment of these goals' sequences perfectly after the mention of setting goals in the preceding segment."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_11_f7d9d49d97_gap_3",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w37_gapped_text_11_f7d9d49d97_sentence_3",
+          "explanation": "This sentence provides cohesive resolution to the dilemma of boredom versus anxiety by defining the ideal 'sweet spot'."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_11_f7d9d49d97_gap_4",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w37_gapped_text_11_f7d9d49d97_sentence_4",
+          "explanation": "'These temporal distortions' refers directly back to the altered perception of time described in the previous segment."
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w37_gapped_text_11_f7d9d49d97_sentence_1",
+          "text": "This deep immersion not only boosts productivity but also significantly enhances personal satisfaction."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_11_f7d9d49d97_sentence_2",
+          "text": "Following the establishment of these goals, immediate feedback is required to help adjust performance in real-time."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_11_f7d9d49d97_sentence_3",
+          "text": "The sweet spot lies precisely where the difficulty matches the user's high level of competence."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_11_f7d9d49d97_sentence_4",
+          "text": "These temporal distortions are a hallmark of the deep focus experience."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_11_f7d9d49d97_sentence_5",
+          "text": "However, many people still prefer multitasking because they believe it saves more time."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_gapped_text_12_a04cd3dd3e",
+      "title": "Bioluminescence in the Deep Ocean",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "Deep below the ocean's surface, where sunlight cannot penetrate, lies a world illuminated by its own inhabitants. This phenomenon, known as bioluminescence, is the production and emission of light by living organisms. It is incredibly common in the deep sea, where the vast majority of creatures possess this ability. ",
+        " The purposes of this biological light are as diverse as the creatures themselves. For many predators, light is used as a lure to attract unsuspecting prey. The anglerfish, for instance, dangles a glowing filament in front of its mouth to entice smaller fish. ",
+        " Other species utilize bioluminescence for defense rather than offense. Some squid can eject a cloud of glowing ink instead of black ink to startle and blind predators while they escape. Others use a technique called counterillumination to blend in with the faint light filtering from above. ",
+        " Communication also plays a vital role in the use of underwater light signals. Many species use specific flash patterns to attract mates or coordinate group behaviors. In the darkness, these signals act as a visual language. ",
+        " As technology advances, scientists are finally beginning to map and understand these complex optical ecosystems. The deep ocean is no longer viewed as a silent, dark void, but rather as a dynamic theater of light."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_gapped_text_12_a04cd3dd3e_gap_1",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w37_gapped_text_12_a04cd3dd3e_sentence_1",
+          "explanation": "'These organisms' refers directly back to the 'living organisms' and 'creatures' mentioned in the first segment."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_12_a04cd3dd3e_gap_2",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w37_gapped_text_12_a04cd3dd3e_sentence_2",
+          "explanation": "This sentence logically concludes the discussion of predatory hunting tactics by noting how essential the glowing adaptation is."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_12_a04cd3dd3e_gap_3",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w37_gapped_text_12_a04cd3dd3e_sentence_3",
+          "explanation": "This sentence cohesively explains how the technique of 'counterillumination' works to make the creatures invisible."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_12_a04cd3dd3e_gap_4",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w37_gapped_text_12_a04cd3dd3e_sentence_4",
+          "explanation": "This sentence continues the sequence of communication, detailing the response that follows an initial signal."
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w37_gapped_text_12_a04cd3dd3e_sentence_1",
+          "text": "These organisms use chemical reactions within their bodies to generate cold light."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_12_a04cd3dd3e_sentence_2",
+          "text": "Without this glowing adaptation, hunting in the pitch-black depths would be far less efficient."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_12_a04cd3dd3e_sentence_3",
+          "text": "By matching the downwelling light, they effectively make themselves invisible to predators lurking below."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_12_a04cd3dd3e_sentence_4",
+          "text": "Once a signal is recognized, a potential mate will respond with a matching sequence of flashes."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_12_a04cd3dd3e_sentence_5",
+          "text": "In contrast, land-based organisms rarely use light for survival because of the abundant sunshine."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_gapped_text_13_ae6d53a221",
+      "title": "The Psychology of Flow",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "For many young artists and musicians, there is a magical state of mind where hours seem to slip by in what feels like minutes. Psychologists refer to this deeply immersive experience as \"flow.\" When you are in this state, your focus is entirely directed toward the task at hand, and self-consciousness completely vanishes. ",
+        " This balance is crucial; if a task is too easy, boredom quickly sets in, whereas an overly difficult task leads directly to anxiety. As you navigate this delicate path, your brain begins to operate with remarkable efficiency. ",
+        " Neuroscientists have discovered that during flow, the prefrontal cortex—the area of the brain responsible for self-monitoring and critical inner dialogue—temporarily quiets down. This downregulation allows for more spontaneous, creative risk-taking without the constant fear of failure. ",
+        " Consequently, you become more willing to experiment with unusual chord progressions or bold brushstrokes. However, entering this state is not always as simple as just sitting down to work. ",
+        " Minimizing these external interruptions is essential because even a brief glance at a phone screen can shatter the fragile focus required to initiate flow. Once established, though, the state of flow provides a profound sense of intrinsic satisfaction that keeps creators returning to their craft day after day."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_gapped_text_13_ae6d53a221_gap_1",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w37_gapped_text_13_ae6d53a221_sentence_1",
+          "explanation": "The missing sentence introduces the concept of balancing challenge and skill, which perfectly sets up the explanation of 'This balance' in the next segment."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_13_ae6d53a221_gap_2",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w37_gapped_text_13_ae6d53a221_sentence_2",
+          "explanation": "This sentence transitions the discussion from external task characteristics and concentration to internal neurological changes, paving the way for the neuroscientific details in the following segment."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_13_ae6d53a221_gap_3",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w37_gapped_text_13_ae6d53a221_sentence_3",
+          "explanation": "'This specific neurological shift' directly references the temporary quieting of the prefrontal cortex mentioned immediately before."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_13_ae6d53a221_gap_4",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w37_gapped_text_13_ae6d53a221_sentence_4",
+          "explanation": "This sentence logically bridges the idea that flow is 'not always simple' with the subsequent segment's advice on 'minimizing these external interruptions.'"
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w37_gapped_text_13_ae6d53a221_sentence_1",
+          "text": "It typically occurs when there is a perfect match between the challenge of the activity and your personal skill level."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_13_ae6d53a221_sentence_2",
+          "text": "In addition to heightened concentration, there is a noticeable shift in neural activity."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_13_ae6d53a221_sentence_3",
+          "text": "It is this specific neurological shift that explains why the inner critic suddenly goes silent."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_13_ae6d53a221_sentence_4",
+          "text": "It requires a deliberate effort to eliminate distractions and set clear, immediate goals."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_13_ae6d53a221_sentence_5",
+          "text": "Many people mistakenly believe that flow can only be achieved by professional athletes or seasoned experts."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_gapped_text_14_534f5de5a7",
+      "title": "Illuminating the Abyss",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "The deep ocean is one of the most hostile environments on Earth, characterized by crushing pressure, near-freezing temperatures, and absolute darkness. Yet, in this pitch-black abyss, life has found a way to illuminate itself. Approximately ninety percent of deep-sea creatures possess some form of bioluminescence, the biological production of light. ",
+        " Unlike sunlight, which contains a broad spectrum of wavelengths, bioluminescent light is predominantly blue or green. These specific wavelengths travel furthest through water, making them ideal for long-range communication. ",
+        " For instance, the anglerfish uses a glowing lure dangling from its head to attract curious prey directly toward its massive jaws. Other species employ flashing light patterns to find potential mates or signal alarm to others of their kind. ",
+        " Some species of shrimp, when threatened, spew a cloud of glowing chemical slurry into the water to temporarily blind predators while they escape. This ingenious defense mechanism acts like a biological smoke screen in the dark. ",
+        " As marine biologists develop more sophisticated deep-sea submersibles, they continue to discover new and astonishing ways that creatures utilize this living light to survive in the deep."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_gapped_text_14_534f5de5a7_gap_1",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w37_gapped_text_14_534f5de5a7_sentence_1",
+          "explanation": "'This chemical reaction' refers directly back to the definition of 'bioluminescence, the biological production of light' in the previous segment."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_14_534f5de5a7_gap_2",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w37_gapped_text_14_534f5de5a7_sentence_2",
+          "explanation": "This sentence links the physical property of blue/green light wavelengths traveling far to the biological adaptation of deep-sea organism eyes being sensitive to those colors."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_14_534f5de5a7_gap_3",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w37_gapped_text_14_534f5de5a7_sentence_3",
+          "explanation": "This sentence marks a transition from hunting and mating behaviors (predation) to self-defense strategies, which are exemplified by the shrimp in the following segment."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_14_534f5de5a7_gap_4",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w37_gapped_text_14_534f5de5a7_sentence_4",
+          "explanation": "This sentence logically wraps up the discussion of dynamic survival strategies (like the shrimp's smoke screen) and concludes the paragraph before the final outlook."
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w37_gapped_text_14_534f5de5a7_sentence_1",
+          "text": "This chemical reaction occurs within specialized cells or organs, transforming energy directly into cold light."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_14_534f5de5a7_sentence_2",
+          "text": "This physical property explains why most deep-sea organisms have eyes that are highly sensitive to these particular colors."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_14_534f5de5a7_sentence_3",
+          "text": "Beyond hunting, however, bioluminescence also serves as a highly effective tool for self-defense."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_14_534f5de5a7_sentence_4",
+          "text": "Such dynamic survival strategies demonstrate that light is just as vital in the dark abyss as it is on the sunlit surface."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_14_534f5de5a7_sentence_5",
+          "text": "These creatures must also withstand immense hydrostatic pressure that would instantly crush surface-dwelling animals."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_gapped_text_15_1a8692d2e4",
+      "title": "The Mystery of Deep-Sea Bioluminescence",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "Deep below the ocean's photic zone lies a world of perpetual darkness, where sunlight never penetrates. Yet, this abyssal realm is far from pitch black, illuminated instead by the eerie, cold light of bioluminescent organisms. Nearly ninety percent of deep-sea creatures possess the ability to produce their own light through complex chemical reactions.",
+        "For instance, the anglerfish uses a glowing lure dangling from its head to attract unsuspecting prey close to its sharp teeth. Other species, such as certain deep-sea shrimp, spew clouds of glowing blue fluid to confuse and blind potential predators while they make their escape.",
+        "Finding a partner in the vast, empty expanses of the deep ocean is an immense challenge. Flash patterns and specific light wavelengths act as unique signatures, allowing individuals of the same species to recognize each other.",
+        "Through these technological advancements, scientists have discovered that different species pulse their lights at highly specific frequencies. However, studying these creatures in their natural habitat remains an incredibly difficult task due to the crushing pressures of the deep.",
+        "By mimicking the highly efficient chemical reactions of deep-sea organisms, engineers hope to develop sustainable, heat-free lighting systems for modern cities."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_gapped_text_15_1a8692d2e4_gap_1",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w37_gapped_text_15_1a8692d2e4_sentence_1",
+          "explanation": "The phrase 'This biological phenomenon' refers directly back to the capability of deep-sea creatures to produce their own light mentioned in the preceding paragraph."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_15_1a8692d2e4_gap_2",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w37_gapped_text_15_1a8692d2e4_sentence_2",
+          "explanation": "This sentence uses the contrast marker 'In contrast' to transition from examples of predation and defense in the previous paragraph to the concept of mating communication."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_15_1a8692d2e4_gap_3",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w37_gapped_text_15_1a8692d2e4_sentence_3",
+          "explanation": "This sentence chronologically introduces the scientific research effort to decode the 'optical signals' (flash patterns) described just before it, setting up the 'technological advancements' mentioned in the next paragraph."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_15_1a8692d2e4_gap_4",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w37_gapped_text_15_1a8692d2e4_sentence_4",
+          "explanation": "The phrase 'These physical barriers' links cohesively back to the 'crushing pressures of the deep' mentioned in the sentence preceding the gap."
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w37_gapped_text_15_1a8692d2e4_sentence_1",
+          "text": "This biological phenomenon serves a variety of crucial survival purposes in the extreme depths."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_15_1a8692d2e4_sentence_2",
+          "text": "In contrast, some organisms employ light not for defense or predation, but rather to communicate with potential mates."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_15_1a8692d2e4_sentence_3",
+          "text": "Researchers have spent decades trying to decode these optical signals using advanced submersible cameras."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_15_1a8692d2e4_sentence_4",
+          "text": "Despite these physical barriers, the secrets of biological light continue to inspire innovations in medical imaging and green technology on land."
+        },
+        {
+          "id": "w_2026_w37_gapped_text_15_1a8692d2e4_sentence_5",
+          "text": "Marine biologists have also found that shallow-water coral reefs rely on solar energy rather than chemical luminescence to thrive."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_word_cloze_10_8c39eba2ff",
+      "title": "Deep-Sea Bioluminescence",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 12,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "In the pitch-black depths of the ocean, where sunlight cannot penetrate, life has evolved its own spectacular ways of illuminating the dark. This phenomenon, known as bioluminescence, is the production and emission of light by living organisms. It is not a rare anomaly; ",
+        ", it is an essential survival tool for the vast majority of deep-sea creatures. Organisms use light for a multitude of purposes, such as attracting prey, finding mates, or deterring predators. For instance, the anglerfish uses a glowing lure dangling from its head to tempt unsuspecting victims. Other species employ bioluminescence as a form of camouflage, matching the faint light filtering from above to ",
+        " their silhouettes from predators below. This chemical reaction typically involves a light-emitting molecule called luciferin and an enzyme called luciferase. Although scientists have ",
+        " the basic chemistry behind this process, many mysteries remain regarding how these creatures control their light displays with such ",
+        " precision. As deep-sea exploration technology advances, researchers are constantly discovering new species, each adding a unique chapter to our understanding of this ",
+        " underwater light show that continues to ",
+        " and inspire marine biologists worldwide."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_word_cloze_10_8c39eba2ff_gap_1",
+          "options": [
+            "rather",
+            "consequently",
+            "furthermore",
+            "similarly"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "\"Rather\" is used here to correct a preceding statement, shifting from the idea of a 'rare anomaly' to an 'essential tool'.",
+            "\"Consequently\" introduces a cause-and-effect relationship, which is incorrect here as the second clause contrasts the first.",
+            "\"Furthermore\" adds information but does not properly transition from the negative assertion in the first clause.",
+            "\"Similarly\" suggests a comparison that does not fit the corrective relationship between these clauses."
+          ],
+          "skill": "cohesion"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_10_8c39eba2ff_gap_2",
+          "options": [
+            "reveal",
+            "mask",
+            "magnify",
+            "distort"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "\"Reveal\" means to make visible, which contradicts the concept of camouflage.",
+            "\"Mask\" means to conceal or disguise, which perfectly describes the function of camouflage silhouettes.",
+            "\"Magnify\" means to make larger, which would make the organism more visible to predators.",
+            "\"Distort\" means to pull or twist out of shape, which is less accurate than completely hiding/masking the silhouette."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_10_8c39eba2ff_gap_3",
+          "options": [
+            "concocted",
+            "fabricated",
+            "deciphered",
+            "simulated"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "\"Concocted\" implies inventing or making up a story or plan, which is inappropriate for scientific understanding.",
+            "\"Fabricated\" means invented or concocted, typically with deceitful intent.",
+            "\"Deciphered\" means to succeed in understanding, interpreting, or identifying something complex, fitting scientific discovery.",
+            "\"Simulated\" means duplicated or imitated, which does not fit the context of understanding the natural chemistry."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_10_8c39eba2ff_gap_4",
+          "options": [
+            "crude",
+            "negligible",
+            "haphazard",
+            "exquisite"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "\"Crude\" means simple or makeshift, which contradicts the high level of precision.",
+            "\"Negligible\" means so small or unimportant as to be not worth considering.",
+            "\"Haphazard\" means lacking any obvious principle of organization, which is the opposite of precision.",
+            "\"Exquisite\" collocates with precision to describe something of extremely beautiful and delicate design or accuracy."
+          ],
+          "skill": "collocation"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_10_8c39eba2ff_gap_5",
+          "options": [
+            "mesmerizing",
+            "monotonous",
+            "hazardous",
+            "redundant"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "\"Mesmerizing\" means capturing one's complete attention as if by magic, matching the wonder of the light show.",
+            "\"Monotonous\" means dull and repetitive, which contradicts the 'spectacular' and 'unique' nature of the light show.",
+            "\"Hazardous\" means risky or dangerous, which does not fit the appreciative tone of this sentence.",
+            "\"Redundant\" means no longer needed or useful, which is incorrect."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_10_8c39eba2ff_gap_6",
+          "options": [
+            "reassure",
+            "baffle",
+            "appease",
+            "intimidate"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "\"Reassure\" means to say or do something to remove doubts, which does not align with mysteries.",
+            "\"Baffle\" means to totally bewilder or perplex, fitting the idea of remaining 'mysteries' that challenge scientists.",
+            "\"Appease\" means to pacify or placate, which is irrelevant to scientific exploration.",
+            "\"Intimidate\" means to frighten, which is too hostile for the inspiring nature of the phenomenon."
+          ],
+          "skill": "context"
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_word_cloze_6_6d2a40397a",
+      "title": "The Psychology of Flow State",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "Have you ever been so deeply immersed in an activity that time seemed to dissolve? This state of mind, often referred to as \"flow,\" represents the ultimate synergy of focus and enjoyment. Coined by psychologist Mihaly Csikszentmihalyi, flow occurs when a person's skill level is perfectly aligned with the challenge at hand. If the task is too easy, boredom sets in; if it is too difficult, anxiety ",
+        ". To enter this state, one must eliminate all external distractions. In today's digital age, however, maintaining such undivided attention is ",
+        ". Notifications constantly vie for our attention, breaking our concentration and preventing us from achieving deep work. ",
+        ", those who manage to cultivate flow report higher levels of life satisfaction and productivity. Scientists have discovered that during flow, the brain downregulates its prefrontal cortex, which temporarily ",
+        " our inner critic. This neural shift allows for a surge in creativity, enabling people to solve complex problems with ",
+        " ease. To harness this power, we must deliberately design our environments to foster, rather than ",
+        ", sustained cognitive engagement."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_word_cloze_6_6d2a40397a_gap_1",
+          "options": [
+            "takes over",
+            "sets up",
+            "backs down",
+            "holds off"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "\"Takes over\" is an idiomatic phrasal verb meaning to gain control or dominate, perfectly describing how anxiety dominates a person when a task is too hard.",
+            "\"Sets up\" means to establish or arrange, which does not fit the context of anxiety overwhelming a person.",
+            "\"Backs down\" means to withdraw a claim or yield in an argument, which is inappropriate here.",
+            "\"Holds off\" means to delay or resist, which contradicts the meaning of anxiety becoming prominent."
+          ],
+          "skill": "idiom"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_6_6d2a40397a_gap_2",
+          "options": [
+            "a walk in the park",
+            "easier said than done",
+            "second to none",
+            "safe and sound"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "\"A walk in the park\" means something is very easy, which contradicts the difficulty described in the sentence.",
+            "\"Easier said than done\" is an idiom meaning an action is easy to propose but difficult to carry out, fitting the context of modern digital distractions.",
+            "\"Second to none\" means the best, which does not make sense in this context.",
+            "\"Safe and sound\" means out of danger, which is completely irrelevant to cognitive focus."
+          ],
+          "skill": "idiom"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_6_6d2a40397a_gap_3",
+          "options": [
+            "On the contrary",
+            "In contrast",
+            "Consequently",
+            "Alternatively"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "\"On the contrary\" introduces a denial of a previous statement, which is not the case here.",
+            "\"In contrast\" highlights a difference, but this sentence presents a logical result of cultivating flow rather than a direct comparison.",
+            "\"Consequently\" is a cohesive transition showing cause and effect; the positive outcomes are a direct result of cultivating flow.",
+            "\"Alternatively\" introduces a different option, which does not fit the flow of the argument."
+          ],
+          "skill": "cohesion"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_6_6d2a40397a_gap_4",
+          "options": [
+            "duplicates",
+            "amplifies",
+            "triggers",
+            "silences"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "\"Duplicates\" means to copy, which does not fit the context of reducing self-criticism.",
+            "\"Amplifies\" means to make stronger, which would increase self-criticism rather than allow for creative freedom.",
+            "\"Triggers\" means to initiate, which contradicts the idea of downregulating the brain area responsible for self-criticism.",
+            "\"Silences\" fits the context of downregulating the prefrontal cortex to quieten self-doubt and boost creativity."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_6_6d2a40397a_gap_5",
+          "options": [
+            "effortless",
+            "painful",
+            "superficial",
+            "reluctant"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "\"Effortless ease\" is a strong, natural English collocation that describes doing something with no apparent difficulty.",
+            "\"Painful ease\" is a contradiction in terms and not a standard collocation.",
+            "\"Superficial ease\" implies a shallow or fake ease, which does not fit the genuine cognitive breakthrough described.",
+            "\"Reluctant ease\" is semantically contradictory and not a standard collocation."
+          ],
+          "skill": "collocation"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_6_6d2a40397a_gap_6",
+          "options": [
+            "hindering",
+            "hinder",
+            "hindered",
+            "hinders"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "\"Hindering\" is a present participle and does not syntactically match the infinitive \"foster\" following \"to\".",
+            "\"Hinder\" is the base form of the verb, maintaining perfect parallel structure with \"foster\" after the preposition \"to\" (\"to foster, rather than [to] hinder\").",
+            "\"Hindered\" is a past participle or past tense form, which violates parallel structure with the base verb \"foster\".",
+            "\"Hinders\" is a third-person singular verb, which does not fit grammatically after \"rather than\" in this infinitive structure."
+          ],
+          "skill": "grammar"
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_word_cloze_7_75deace3a3",
+      "title": "Bioluminescence in the Deep Ocean",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "Deep beneath the ocean's surface, where sunlight cannot penetrate, lies a world illuminated by biological wonder. Bioluminescence, the chemical production of light by living organisms, is incredibly common in the abyssal depths. In this pitch-black environment, creatures have evolved to generate their own light ",
+        " survive. Some species use glowing lures to attract prey, while others emit sudden flashes of light to startle predators. This phenomenon relies on a precise chemical reaction ",
+        " a light-emitting molecule called luciferin and an enzyme called luciferase. Although we often associate bioluminescence with jellyfish, it is also utilized by bacteria, fungi, and deep-sea fish. ",
+        ", scientists are studying these organisms to develop new medical imaging technologies. The ability to track cellular processes using light has revolutionized modern biology. However, harvesting this biological light remains a challenge, as deep-sea creatures are highly ",
+        " changes in pressure. Researchers must tread carefully, lest they ",
+        " the fragile ecosystems they wish to study. Understanding these glowing organisms not only sheds light on the mysteries of the ocean but also ",
+        " for future biotechnological breakthroughs."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_word_cloze_7_75deace3a3_gap_1",
+          "options": [
+            "so that to",
+            "because of",
+            "in order to",
+            "with view of"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "\"So that to\" is ungrammatical; \"so that\" must be followed by a clause, not an infinitive directly.",
+            "\"Because of\" is a prepositional phrase that must be followed by a noun phrase, not a base verb.",
+            "\"In order to\" is a grammatically correct conjunction used to express purpose followed by a base verb (\"survive\").",
+            "\"With view of\" is incorrect; the standard idiom is \"with a view to\" followed by a gerund (-ing form)."
+          ],
+          "skill": "grammar"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_7_75deace3a3_gap_2",
+          "options": [
+            "involved",
+            "involve",
+            "which involve",
+            "involving"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "\"Involved\" is a past participle that would change the meaning to suggest the reaction itself is passive inside the molecules.",
+            "\"Involve\" is a base verb form that results in a run-on sentence with two main verbs.",
+            "\"Which involve\" is grammatically incorrect because \"reaction\" is singular, requiring \"which involves\".",
+            "\"Involving\" is a present participle acting as a reduced relative clause (\"which involves\"), correctly modifying \"reaction\"."
+          ],
+          "skill": "grammar"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_7_75deace3a3_gap_3",
+          "options": [
+            "Furthermore",
+            "On the other hand",
+            "Conversely",
+            "In short"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "\"Furthermore\" is a cohesive transition used to add a related, supporting argument or fact to the preceding paragraph.",
+            "\"On the other hand\" introduces a contrasting point, but this sentence adds supporting information.",
+            "\"Conversely\" introduces an opposite idea, which does not fit the transition to scientific research applications.",
+            "\"In short\" is used to summarize, which is inappropriate for introducing a new sub-topic about medical research."
+          ],
+          "skill": "cohesion"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_7_75deace3a3_gap_4",
+          "options": [
+            "sensitive with",
+            "sensitive to",
+            "sensitive at",
+            "sensitive of"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "\"Sensitive with\" is an incorrect prepositional collocation.",
+            "\"Sensitive to\" is the correct adjective-preposition collocation used to express susceptibility to external influences.",
+            "\"Sensitive at\" is grammatically incorrect in this context.",
+            "\"Sensitive of\" is incorrect; \"sensitive\" does not take \"of\" when describing reaction to environmental stimuli."
+          ],
+          "skill": "collocation"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_7_75deace3a3_gap_5",
+          "options": [
+            "preserve",
+            "emulate",
+            "disrupt",
+            "cultivate"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "\"Preserve\" means to keep safe, which contradicts the caution implied by \"lest they\" (meaning \"for fear that they\").",
+            "\"Emulate\" means to copy, which does not fit the context of ecological damage.",
+            "\"Disrupt\" fits the context of causing unwanted damage or disturbance to fragile deep-sea ecosystems.",
+            "\"Cultivate\" means to grow or nurture, which is not something researchers would fear doing accidentally in this context."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_7_75deace3a3_gap_6",
+          "options": [
+            "breaks the ice",
+            "turns the tide",
+            "plays second fiddle",
+            "paves the way"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "\"Breaks the ice\" means to ease social tension, which is irrelevant to scientific progress.",
+            "\"Turns the tide\" means to reverse a situation, which does not fit the constructive tone of enabling future work.",
+            "\"Plays second fiddle\" means to take a subordinate role, which contradicts the positive impact of this research.",
+            "\"Paves the way\" is an idiom meaning to create a situation in which it is easier for something to happen or develop."
+          ],
+          "skill": "idiom"
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_word_cloze_8_b70fc41298",
+      "title": "Secrets of the Abyssal Plains",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "Deep beneath the ocean's surface, where sunlight cannot penetrate, lies a harsh environment once thought to be completely devoid of life. However, the discovery of hydrothermal vents in the late twentieth century completely ",
+        " our understanding of biology. These underwater geysers spew superheated, mineral-rich water into the freezing ocean depths. Instead of relying on solar energy, the ecosystems surrounding these vents are powered by chemosynthesis. This is a process ",
+        " specialized bacteria convert toxic chemicals, such as hydrogen sulfide, into usable energy. Such organisms form the foundation of a food web that supports bizarre creatures, including giant tube worms and ghost crabs. Exploring these abyssal plains presents extreme engineering challenges, ",
+        " researchers must design submersibles capable of withstanding immense atmospheric pressure. Despite these difficulties, studying these extreme environments is ",
+        " to uncovering the origins of life on Earth. Scientists believe that similar conditions might exist on icy moons like Europa, making deep-sea exploration ",
+        " for astrobiology. Thus, looking into our deepest oceans helps us ",
+        " our gaze toward the stars."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_word_cloze_8_b70fc41298_gap_1",
+          "options": [
+            "revolutionized",
+            "stagnated",
+            "diminished",
+            "tolerated"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Revolutionized correctly conveys how the discovery completely transformed and advanced biological science.",
+            "Stagnated means stopped developing, which contradicts the profound positive shift in scientific understanding.",
+            "Diminished means reduced, which incorrectly implies that our understanding of biology became smaller or less important.",
+            "Tolerated means allowed or endured, which makes no sense in the context of scientific discovery."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_8_b70fc41298_gap_2",
+          "options": [
+            "which",
+            "whereby",
+            "whoever",
+            "whereas"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Which is a relative pronoun that would require a preposition like 'by' (by which) to be grammatically correct here.",
+            "Whereby is a relative adverb meaning 'by which', perfectly describing the mechanism of the process.",
+            "Whoever refers to people and cannot be used to describe a biological process.",
+            "Whereas is a conjunction used to show contrast, which does not fit the descriptive nature of the sentence."
+          ],
+          "skill": "grammar"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_8_b70fc41298_gap_3",
+          "options": [
+            "although",
+            "unless",
+            "as",
+            "though"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Although introduces a concession or contrast, which is logical nonsense when explaining the cause of engineering challenges.",
+            "Unless introduces a condition, which does not fit the explanatory nature of the clause.",
+            "As is used here as a conjunction meaning 'because', correctly linking the challenges to their cause.",
+            "Though is a concessive conjunction and does not establish the required cause-and-effect relationship."
+          ],
+          "skill": "cohesion"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_8_b70fc41298_gap_4",
+          "options": [
+            "redundant",
+            "trivial",
+            "indifferent",
+            "paramount"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Redundant means no longer useful or needed, which contradicts the value of the research.",
+            "Trivial means of little value or importance, which is the opposite of the intended meaning.",
+            "Indifferent means having no particular interest or sympathy, which cannot describe the importance of research.",
+            "Paramount means more important than anything else or supreme, highlighting the critical nature of this research."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_8_b70fc41298_gap_5",
+          "options": [
+            "indispensable",
+            "superfluous",
+            "accidental",
+            "hostile"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Indispensable means absolutely necessary, fitting the context of deep-sea research being vital for space science.",
+            "Superfluous means unnecessary or more than enough, which is the opposite of what astrobiologists believe.",
+            "Accidental means happening by chance, which does not describe the strategic value of the exploration.",
+            "Hostile means unfriendly or harsh; while the deep sea is hostile, the exploration itself is not hostile to astrobiology."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_8_b70fc41298_gap_6",
+          "options": [
+            "catch",
+            "cast",
+            "hold",
+            "draw"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Catch is used in 'catch someone's eye', but does not form the correct idiom with 'gaze toward'.",
+            "Cast is the correct verb in the idiomatic expression 'cast one's gaze', meaning to look or direct one's attention.",
+            "Hold can mean to maintain a gaze, but does not fit the motion of directing one's look 'toward' something new.",
+            "Draw can mean to attract someone else's gaze, but you do not 'draw your own gaze' in this manner."
+          ],
+          "skill": "idiom"
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w37_word_cloze_9_72a7254aa5",
+      "title": "The Psychology of the Flow State",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 12,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "Have you ever been so deeply immersed in an activity that the rest of the world seemed to fade away? This state of intense concentration and complete absorption is known as \"flow.\" First conceptualized by psychologist Mihaly Csikszentmihalyi, flow occurs when a person's skill level is perfectly balanced with the challenge of the task at hand. If the task is too easy, boredom ",
+        ". Conversely, if the challenge is too great, anxiety ",
+        ". During flow, individuals experience a profound sense of control and a distorted perception of time, with hours seeming to pass like minutes. Achieving this state is not merely about enjoyment; it is also highly ",
+        " to personal growth and skill development. To foster flow, one must set clear goals and seek immediate feedback on their progress. Crucially, the activity must be intrinsically rewarding, meaning it is performed for its own ",
+        " rather than for external accolades. In our distraction-filled modern environment, cultivating the ability to enter a flow state has become an invaluable ",
+        " for anyone seeking to master a craft or simply find deeper satisfaction in their daily ",
+        "."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w37_word_cloze_9_72a7254aa5_gap_1",
+          "options": [
+            "takes off",
+            "gives up",
+            "sets in",
+            "falls out"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "\"Takes off\" means to become successful quickly or to depart, which does not fit the context of boredom arriving.",
+            "\"Gives up\" means to surrender or stop trying, which is grammatically and semantically incorrect here.",
+            "\"Sets in\" is the correct phrasal verb used to describe an unwelcome state or feeling beginning to establish itself.",
+            "\"Falls out\" means to quarrel or happen, which does not collocate with boredom."
+          ],
+          "skill": "collocation"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_9_72a7254aa5_gap_2",
+          "options": [
+            "recedes",
+            "subsides",
+            "deviates",
+            "ensues"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "\"Recedes\" means to move back or withdraw, whereas anxiety would increase in this scenario.",
+            "\"Subsides\" means to become less intense, which contradicts the expected psychological reaction to an overly difficult task.",
+            "\"Deviates\" means to depart from an established course, which does not fit the context.",
+            "\"Ensues\" means to happen afterward or as a result, perfectly describing the anxiety that follows an excessive challenge."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_9_72a7254aa5_gap_3",
+          "options": [
+            "conducive",
+            "susceptible",
+            "vulnerable",
+            "amenable"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "\"Conducive\" means making a certain situation or outcome likely or possible, and is standardly followed by the preposition \"to\".",
+            "\"Susceptible\" means likely to be influenced or harmed by a particular thing and does not fit the positive context.",
+            "\"Vulnerable\" means exposed to the possibility of being attacked or harmed.",
+            "\"Amenable\" means open and responsive to suggestion, which is used for people rather than abstract states."
+          ],
+          "skill": "collocation"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_9_72a7254aa5_gap_4",
+          "options": [
+            "cause",
+            "sake",
+            "behalf",
+            "benefit"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "\"For its own cause\" is incorrect; \"cause\" does not fit this idiomatic structure.",
+            "\"For its own sake\" is a standard English idiom meaning doing something purely because it is enjoyable or valued, not for any other benefit.",
+            "\"On behalf of\" is a different idiom meaning in the interest of someone.",
+            "\"For its own benefit\" is redundant and incorrect in this idiomatic context."
+          ],
+          "skill": "idiom"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_9_72a7254aa5_gap_5",
+          "options": [
+            "liability",
+            "burden",
+            "asset",
+            "obstacle"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "\"Liability\" means a person or thing whose presence or behavior is likely to cause embarrassment or disadvantage, the opposite of what is needed.",
+            "\"Burden\" means a load or duty that causes hardship, which does not fit this positive attribute.",
+            "\"Asset\" means a useful or valuable quality, person, or thing, fitting the positive context of the flow state.",
+            "\"Obstacle\" means a thing that blocks one's way, which is incorrect."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w37_word_cloze_9_72a7254aa5_gap_6",
+          "options": [
+            "distractions",
+            "routines",
+            "diversions",
+            "endeavors"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "\"Distractions\" prevents flow and contradicts the idea of finding deeper satisfaction.",
+            "\"Routines\" refers to habitual sequences, which is too narrow and lacks the active sense of effort implied by the text.",
+            "\"Diversions\" refers to distractions or pastimes, which does not encompass all daily purposeful activities.",
+            "\"Endeavors\" refers to earnest, purposeful, or industrious efforts, which fits the context of daily tasks and crafts."
+          ],
+          "skill": "context"
+        }
+      ]
+    }
+  ]
+}
