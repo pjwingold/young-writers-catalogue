@@ -1,0 +1,485 @@
+{
+  "schemaVersion": 4,
+  "runId": "3f0c9931-5564-4462-b96e-535d2f85effe",
+  "startedAt": "2026-09-12T19:26:15.774Z",
+  "finishedAt": "2026-09-12T19:27:38.121Z",
+  "discovered": 74,
+  "accepted": 0,
+  "acceptedEnriched": 0,
+  "acceptedPendingEnrichment": 0,
+  "duplicates": 22,
+  "rejected": 46,
+  "failed": 6,
+  "sources": [
+    {
+      "sourceId": "nasa",
+      "discovered": 7,
+      "accepted": 0,
+      "duplicates": 3,
+      "rejected": 3,
+      "failed": 1,
+      "discoveryFailed": false
+    },
+    {
+      "sourceId": "noaa",
+      "discovered": 18,
+      "accepted": 0,
+      "duplicates": 6,
+      "rejected": 11,
+      "failed": 1,
+      "discoveryFailed": false
+    },
+    {
+      "sourceId": "usgs",
+      "discovered": 12,
+      "accepted": 0,
+      "duplicates": 4,
+      "rejected": 7,
+      "failed": 1,
+      "discoveryFailed": false
+    },
+    {
+      "sourceId": "nps",
+      "discovered": 19,
+      "accepted": 0,
+      "duplicates": 6,
+      "rejected": 13,
+      "failed": 0,
+      "discoveryFailed": false
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "discovered": 18,
+      "accepted": 0,
+      "duplicates": 3,
+      "rejected": 12,
+      "failed": 3,
+      "discoveryFailed": false
+    }
+  ],
+  "rejections": [
+    {
+      "sourceId": "nasa",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+      "reason": "insufficient_level_vocabulary",
+      "vocabularyDifficultyDiagnostic": {
+        "articleYear": 12,
+        "requiredCount": 4,
+        "exactYearCount": 1,
+        "harderFallbackCount": 0,
+        "easierFallbackCount": 2
+      }
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://oceanexplorer.noaa.gov/news/professional-development-workshop-deep-sea-science-palau/",
+      "reason": "third_party_content"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/seeing-water-space",
+      "reason": "insufficient_level_vocabulary",
+      "vocabularyDifficultyDiagnostic": {
+        "articleYear": 12,
+        "requiredCount": 4,
+        "exactYearCount": 0,
+        "harderFallbackCount": 0,
+        "easierFallbackCount": 1
+      }
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/trumpeter-swan-survey.htm",
+      "reason": "licence_uncertain"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574201/one-four-florida-air-national-guards-student-flight-producing-more-honor-graduates-than-ever-before",
+      "reason": "insufficient_level_vocabulary",
+      "vocabularyDifficultyDiagnostic": {
+        "articleYear": 12,
+        "requiredCount": 4,
+        "exactYearCount": 0,
+        "harderFallbackCount": 0,
+        "easierFallbackCount": 2
+      }
+    },
+    {
+      "sourceId": "nasa",
+      "canonicalUrl": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/103-million-noaa-funding-awarded-restore-habitat-fisheries",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/earth-sky-how-minerals-create-dazzling-colors-independence-day-fireworks",
+      "reason": "third_party_content"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/frankenfish.htm",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574433/conr-1af-afnorth-afspace-welcomes-lt-gen-everman-new-commander",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "nasa",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://oceanexplorer.noaa.gov/news/10-years-of-the-casper-octopus/",
+      "reason": "third_party_content"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/landsat-work-usgs-informing-domestic-lithium-development",
+      "reason": "third_party_content"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/2025-annual-horse-population-update-for-assateague-island-national-seashore.htm",
+      "reason": "excluded_topic"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574182/physician-educator-trusted-care-hero-air-force-captain-leads-example",
+      "reason": "excluded_topic",
+      "contentDiagnostic": "non_educational_injury"
+    },
+    {
+      "sourceId": "nasa",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+      "reason": "excluded_topic"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://oceanexplorer.noaa.gov/news/beckmann-article/",
+      "reason": "insufficient_level_vocabulary",
+      "vocabularyDifficultyDiagnostic": {
+        "articleYear": 12,
+        "requiredCount": 4,
+        "exactYearCount": 1,
+        "harderFallbackCount": 0,
+        "easierFallbackCount": 1
+      }
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/america-250-seen-space",
+      "reason": "third_party_content"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/badl-fossil-lab-past-projects.htm",
+      "reason": "licence_uncertain"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574392/31st-lrs-wins-2025-daedalian-logistics-effectiveness-award",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "nasa",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/nine-species-deep-sea-sponges-discovered-alaska",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/usgs-geologic-mapping-project-supports-critical-mineral-exploration-enhances",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/turtles-in-trouble.htm",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574312/tigers-week-connecting-airmen-with-leaders",
+      "reason": "missing_metadata"
+    },
+    {
+      "sourceId": "nasa",
+      "canonicalUrl": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://oceanexplorer.noaa.gov/news/pathways-to-discovery/",
+      "reason": "licence_uncertain"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/its-a-hot-topic-geothermal-energy-and-how-usgs-science-could-help-harness-it",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/busy-beavers.htm",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574300/nebraska-national-guard-strengthens-disaster-response-readiness-during-exercise",
+      "reason": "missing_metadata"
+    },
+    {
+      "sourceId": "nasa",
+      "canonicalUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/our-2026-noaa-supported-education-program-students-share-insights",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/usgs-releases-aftershock-forecast-m88-russian-kamchatka-peninsula-earthquake",
+      "reason": "excluded_topic"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/pefa-30th-anniversary.htm",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574354/us-coalition-partners-strengthen-ties-egypt-international-airshow-2026",
+      "reason": "licence_uncertain"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/charting-future-fisheries-independent-surveys",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/what-a-solar-superstorm-could-mean-us",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/first-paleontology-field-camp.htm",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574428/hurlburt-monitors-black-bear-movements-reduce-encounters",
+      "reason": "insufficient_level_vocabulary",
+      "vocabularyDifficultyDiagnostic": {
+        "articleYear": 12,
+        "requiredCount": 4,
+        "exactYearCount": 1,
+        "harderFallbackCount": 0,
+        "easierFallbackCount": 2
+      }
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/watching-wildlife-how-share-shore-and-sea-marine-animals",
+      "reason": "excluded_topic"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/landsat-illustrates-life-cycle-a-mine",
+      "reason": "third_party_content"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/can-the-cuyahoga-river-support-rare-wildlife.htm",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574526/career-reflection-wing-command-chief",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/caribbean-fishery-management-voices-islands",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/helping-prepare-nation-against-landslide-threats",
+      "reason": "excluded_topic"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/studying-the-fate-of-arches.htm",
+      "reason": "licence_uncertain"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574200/air-university-puts-chiefs-work-problems-without-easy-answers",
+      "reason": "missing_metadata"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/ocean-indicators-were-tracking-el-ninos-arrival-west-coast",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/he-ahi-he-aina-fire-comes-land",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/samo-first-youth-paleo-intern.htm",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574324/673d-security-forces-squadron-hosts-alaska-defense-sustainment-training",
+      "reason": "excluded_topic",
+      "contentDiagnostic": "casualty_or_death"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://oceanexplorer.noaa.gov/news/ocean-exploration-education-facilitator-training-in-dauphin-island/",
+      "reason": "third_party_content"
+    },
+    {
+      "sourceId": "usgs",
+      "canonicalUrl": "https://www.usgs.gov/news/featured-story/hurricane-readiness-2026-usgs-tools-help-communities-stay-safe",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/red-rocks-park-and-mount-morrison-civilian-conservation-corps-camp.htm",
+      "reason": "excluded_topic"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574402/fvey-a4-collaboration-forum-synchronizing-allied-logistics-global-deterrence",
+      "reason": "excluded_topic",
+      "contentDiagnostic": "political_or_geopolitical"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://oceanexplorer.noaa.gov/news/from-data-to-discovery-unlocking-ocean-secrets-with-edna/",
+      "reason": "third_party_content"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/digging-the-west.htm",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574357/60th-lrs-delivers-excellence-earns-six-logistics-awards",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/start-beaver-dams-transform-parched-california-creeks-salmon-havens-new-research-finds",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/paleontology-of-ohio-coral-reef-nnl.htm",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/573765/malmstrom-airmen-take-aim-during-airmens-week-rifle-competition",
+      "reason": "licence_uncertain"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/meet-autonomous-underwater-robot-expanding-our-ability-survey-seafloor",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/fossil-inventories-uncover-permian-sharks-in-western-national-parks.htm",
+      "reason": "licence_uncertain"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/573698/673d-operational-medical-readiness-squadron-bioenvironmental-engineers-conduct-exercise-radiant-falcon",
+      "reason": "excluded_topic",
+      "contentDiagnostic": "active_violence"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://oceanexplorer.noaa.gov/news/fish-distribution/",
+      "reason": "duplicate_url"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/bald-eagles-return.htm",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574387/us-european-command-nato-allies-partners-elevate-combined-spiritual-readiness-multinational-exchange",
+      "reason": "missing_metadata"
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://oceanexplorer.noaa.gov/news/blue-technology-education-workshop/",
+      "reason": "third_party_content"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/2026-annual-horse-population-update-for-assateague-island-national-seashore.htm",
+      "reason": "excluded_topic"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574307/21st-modernizes-readiness-with-earl-system",
+      "reason": "insufficient_level_vocabulary",
+      "vocabularyDifficultyDiagnostic": {
+        "articleYear": 12,
+        "requiredCount": 4,
+        "exactYearCount": 3,
+        "harderFallbackCount": 0,
+        "easierFallbackCount": 0
+      }
+    },
+    {
+      "sourceId": "noaa",
+      "canonicalUrl": "https://www.fisheries.noaa.gov/feature-story/reward-20000-offered-information-about-monk-seal-death-molokai",
+      "reason": "excluded_topic"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/000/fossil-crocodylomorphs.htm",
+      "reason": "length_out_of_range"
+    },
+    {
+      "sourceId": "dvids_air_force",
+      "canonicalUrl": "https://www.dvidshub.net/news/574313/tiger-week-tech-sgt-trevor-cantrell",
+      "reason": "missing_metadata"
+    },
+    {
+      "sourceId": "nps",
+      "canonicalUrl": "https://www.nps.gov/articles/moose-research-in-rocky-mountain-national-park.htm",
+      "reason": "excluded_topic"
+    }
+  ],
+  "enrichmentDeferrals": [],
+  "migration": {
+    "attempted": 61,
+    "enriched": 0,
+    "rejected": 0
+  },
+  "migrationRejections": []
+}
