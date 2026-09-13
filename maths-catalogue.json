@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 1,
+  "catalogueVersion": 1,
+  "weekKey": "2026-W38",
+  "generatedAt": "2026-09-13T20:32:34.573Z",
+  "generatorVersion": 1,
+  "blueprintSource": "local_fallback",
+  "days": [
+    {
+      "id": "maths_2026_w38_day_1",
+      "questions": [
+        {
+          "id": "maths_2026_w38_day_1_fraction_1",
+          "topic": "fraction",
+          "prompt": "1/7 + 1/6",
+          "canonicalAnswer": "13/42",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 13/42."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_1_fraction_2",
+          "topic": "fraction",
+          "prompt": "7/9 − 6/8",
+          "canonicalAnswer": "1/36",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to 1/36."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_1_fraction_3",
+          "topic": "fraction",
+          "prompt": "3/4 × 1/2",
+          "canonicalAnswer": "3/8",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 3/8."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_1_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 4 = 24",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "2x = 20",
+            "x = 10"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_1_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 4x + 9 = 49",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "4x = 40",
+            "x = 10"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_1_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x + 9 = -57",
+          "canonicalAnswer": "-6",
+          "workedSolution": [
+            "11x = -66",
+            "x = -6"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_1_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 15x − 20",
+          "canonicalAnswer": "5(3x − 4)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(3x − 4)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_1_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 28x + 63",
+          "canonicalAnswer": "7(4x + 9)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(4x + 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_1_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 20x − 6",
+          "canonicalAnswer": "2(10x − 3)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(10x − 3)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w38_day_2",
+      "questions": [
+        {
+          "id": "maths_2026_w38_day_2_fraction_1",
+          "topic": "fraction",
+          "prompt": "3/7 ÷ 3/4",
+          "canonicalAnswer": "4/7",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 4/7."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_2_fraction_2",
+          "topic": "fraction",
+          "prompt": "2/4 + 3/9",
+          "canonicalAnswer": "5/6",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 5/6."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_2_fraction_3",
+          "topic": "fraction",
+          "prompt": "4/6 − 2/8",
+          "canonicalAnswer": "5/12",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to 5/12."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_2_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 6x + 6 = 36",
+          "canonicalAnswer": "5",
+          "workedSolution": [
+            "6x = 30",
+            "x = 5"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_2_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 7x − 1 = -85",
+          "canonicalAnswer": "-12",
+          "workedSolution": [
+            "7x = -84",
+            "x = -12"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_2_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 7 = 25",
+          "canonicalAnswer": "9",
+          "workedSolution": [
+            "2x = 18",
+            "x = 9"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_2_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 24x + 22",
+          "canonicalAnswer": "2(12x + 11)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(12x + 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_2_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 40x − 10",
+          "canonicalAnswer": "10(4x − 1)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(4x − 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_2_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 40x + 96",
+          "canonicalAnswer": "8(5x + 12)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(5x + 12)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w38_day_3",
+      "questions": [
+        {
+          "id": "maths_2026_w38_day_3_fraction_1",
+          "topic": "fraction",
+          "prompt": "1/8 × 3/4",
+          "canonicalAnswer": "3/32",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 3/32."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_3_fraction_2",
+          "topic": "fraction",
+          "prompt": "6/7 ÷ 4/5",
+          "canonicalAnswer": "1 1/14",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 1 1/14."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_3_fraction_3",
+          "topic": "fraction",
+          "prompt": "1/2 + 2/7",
+          "canonicalAnswer": "11/14",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 11/14."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_3_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 3x − 3 = -24",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "3x = -21",
+            "x = -7"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_3_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 10x + 8 = -102",
+          "canonicalAnswer": "-11",
+          "workedSolution": [
+            "10x = -110",
+            "x = -11"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_3_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x + 8 = -102",
+          "canonicalAnswer": "-10",
+          "workedSolution": [
+            "11x = -110",
+            "x = -10"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_3_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 40x − 5",
+          "canonicalAnswer": "5(8x − 1)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(8x − 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_3_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 32x + 4",
+          "canonicalAnswer": "4(8x + 1)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(8x + 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_3_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 96x − 88",
+          "canonicalAnswer": "8(12x − 11)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(12x − 11)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w38_day_4",
+      "questions": [
+        {
+          "id": "maths_2026_w38_day_4_fraction_1",
+          "topic": "fraction",
+          "prompt": "5/9 − 1/5",
+          "canonicalAnswer": "16/45",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to 16/45."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_4_fraction_2",
+          "topic": "fraction",
+          "prompt": "3/7 × 2/7",
+          "canonicalAnswer": "6/49",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 6/49."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_4_fraction_3",
+          "topic": "fraction",
+          "prompt": "4/5 ÷ 1/6",
+          "canonicalAnswer": "4 4/5",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 4 4/5."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_4_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x + 4 = -18",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "11x = -22",
+            "x = -2"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_4_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x + 5 = -5",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "5x = -10",
+            "x = -2"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_4_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x − 12 = -133",
+          "canonicalAnswer": "-11",
+          "workedSolution": [
+            "11x = -121",
+            "x = -11"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_4_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 18x − 9",
+          "canonicalAnswer": "9(2x − 1)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(2x − 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_4_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 20x + 35",
+          "canonicalAnswer": "5(4x + 7)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(4x + 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_4_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 8x + 24",
+          "canonicalAnswer": "8(1x + 3)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(1x + 3)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w38_day_5",
+      "questions": [
+        {
+          "id": "maths_2026_w38_day_5_fraction_1",
+          "topic": "fraction",
+          "prompt": "3/7 + 4/8",
+          "canonicalAnswer": "13/14",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 13/14."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_5_fraction_2",
+          "topic": "fraction",
+          "prompt": "11/12 − 7/8",
+          "canonicalAnswer": "1/24",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to 1/24."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_5_fraction_3",
+          "topic": "fraction",
+          "prompt": "1/9 × 1/7",
+          "canonicalAnswer": "1/63",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 1/63."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_5_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x − 8 = 102",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "11x = 110",
+            "x = 10"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_5_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 3x + 5 = 38",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "3x = 33",
+            "x = 11"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_5_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 8 = 4",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "2x = -4",
+            "x = -2"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_5_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 108x + 24",
+          "canonicalAnswer": "12(9x + 2)",
+          "workedSolution": [
+            "The greatest common factor is 12.",
+            "Take out 12 to get 12(9x + 2)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_5_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 12x + 108",
+          "canonicalAnswer": "12(1x + 9)",
+          "workedSolution": [
+            "The greatest common factor is 12.",
+            "Take out 12 to get 12(1x + 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_5_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 10x − 55",
+          "canonicalAnswer": "5(2x − 11)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(2x − 11)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w38_day_6",
+      "questions": [
+        {
+          "id": "maths_2026_w38_day_6_fraction_1",
+          "topic": "fraction",
+          "prompt": "1/4 ÷ 4/10",
+          "canonicalAnswer": "5/8",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 5/8."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_6_fraction_2",
+          "topic": "fraction",
+          "prompt": "2/6 + 1/2",
+          "canonicalAnswer": "5/6",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 5/6."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_6_fraction_3",
+          "topic": "fraction",
+          "prompt": "4/11 − 4/5",
+          "canonicalAnswer": "-24/55",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to -24/55."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_6_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 6x − 12 = -54",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "6x = -42",
+            "x = -7"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_6_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 7x − 11 = -88",
+          "canonicalAnswer": "-11",
+          "workedSolution": [
+            "7x = -77",
+            "x = -11"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_6_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 7x + 3 = -46",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "7x = -49",
+            "x = -7"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_6_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 22x + 10",
+          "canonicalAnswer": "2(11x + 5)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(11x + 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_6_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 24x − 44",
+          "canonicalAnswer": "4(6x − 11)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(6x − 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_6_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 72x + 99",
+          "canonicalAnswer": "9(8x + 11)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(8x + 11)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w38_day_7",
+      "questions": [
+        {
+          "id": "maths_2026_w38_day_7_fraction_1",
+          "topic": "fraction",
+          "prompt": "2/7 × 1/10",
+          "canonicalAnswer": "1/35",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 1/35."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_7_fraction_2",
+          "topic": "fraction",
+          "prompt": "2/12 ÷ 1/8",
+          "canonicalAnswer": "1 1/3",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 1 1/3."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_7_fraction_3",
+          "topic": "fraction",
+          "prompt": "6/8 + 3/4",
+          "canonicalAnswer": "1 1/2",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 1 1/2."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_7_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 6x − 10 = 44",
+          "canonicalAnswer": "9",
+          "workedSolution": [
+            "6x = 54",
+            "x = 9"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_7_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 6x − 8 = -44",
+          "canonicalAnswer": "-6",
+          "workedSolution": [
+            "6x = -36",
+            "x = -6"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_7_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 9x + 5 = 59",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "9x = 54",
+            "x = 6"
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_7_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 24x − 27",
+          "canonicalAnswer": "3(8x − 9)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(8x − 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_7_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 99x − 88",
+          "canonicalAnswer": "11(9x − 8)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(9x − 8)."
+          ]
+        },
+        {
+          "id": "maths_2026_w38_day_7_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 60x + 70",
+          "canonicalAnswer": "10(6x + 7)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(6x + 7)."
+          ]
+        }
+      ]
+    }
+  ]
+}
