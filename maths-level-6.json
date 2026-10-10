@@ -1,0 +1,1096 @@
+{
+  "schemaVersion": 1,
+  "catalogueVersion": 1,
+  "weekKey": "2026-W41",
+  "generatedAt": "2026-10-10T23:05:25.343Z",
+  "generatorVersion": 1,
+  "blueprintSource": "gemini",
+  "mathsLevel": 6,
+  "days": [
+    {
+      "id": "maths_2026_w41_day_1",
+      "questions": [
+        {
+          "id": "maths_2026_w41_day_1_fraction_1",
+          "topic": "fraction",
+          "prompt": "12/16 + 9/13",
+          "canonicalAnswer": "1 23/52",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 1 23/52."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_fraction_2",
+          "topic": "fraction",
+          "prompt": "2/16 − 8/11",
+          "canonicalAnswer": "-53/88",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to -53/88."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_fraction_3",
+          "topic": "fraction",
+          "prompt": "1/2 × 1/2",
+          "canonicalAnswer": "1/4",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 1/4."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_fraction_4",
+          "topic": "fraction",
+          "prompt": "6/16 ÷ 3/5",
+          "canonicalAnswer": "5/8",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 5/8."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x − 16 = 6",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "2x = 22",
+            "x = 11"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 16x − 13 = 19",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "16x = 32",
+            "x = 2"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x + 18 = 73",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "5x = 55",
+            "x = 11"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x − 6 = -106",
+          "canonicalAnswer": "-20",
+          "workedSolution": [
+            "5x = -100",
+            "x = -20"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 80x + 30",
+          "canonicalAnswer": "10(8x + 3)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(8x + 3)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 12x − 22",
+          "canonicalAnswer": "2(6x − 11)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(6x − 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 88x − 72",
+          "canonicalAnswer": "8(11x − 9)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(11x − 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 15x − 20",
+          "canonicalAnswer": "5(3x − 4)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(3x − 4)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 2 then increased by 12 to make 2. Find the number.",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "Undo the adjustment: 2 times the number is -10.",
+            "Divide by 2: the number is -5."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $44 on 4 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "Divide the total cost of $44 by 4 notebooks.",
+            "Each notebook costs $11."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_1_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 22 km in 2 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "Divide 22 km by 2 hours.",
+            "The average speed is 11 km/h."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w41_day_2",
+      "questions": [
+        {
+          "id": "maths_2026_w41_day_2_fraction_1",
+          "topic": "fraction",
+          "prompt": "3/4 + 2/9",
+          "canonicalAnswer": "35/36",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 35/36."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_fraction_2",
+          "topic": "fraction",
+          "prompt": "1/8 − 7/18",
+          "canonicalAnswer": "-19/72",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to -19/72."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_fraction_3",
+          "topic": "fraction",
+          "prompt": "19/20 × 5/9",
+          "canonicalAnswer": "19/36",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 19/36."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_fraction_4",
+          "topic": "fraction",
+          "prompt": "1/5 ÷ 4/7",
+          "canonicalAnswer": "7/20",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 7/20."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 3x − 18 = -36",
+          "canonicalAnswer": "-6",
+          "workedSolution": [
+            "3x = -18",
+            "x = -6"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x + 8 = 206",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "11x = 198",
+            "x = 18"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 18 = -6",
+          "canonicalAnswer": "-12",
+          "workedSolution": [
+            "2x = -24",
+            "x = -12"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 19x − 4 = -137",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "19x = -133",
+            "x = -7"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 10x + 4",
+          "canonicalAnswer": "2(5x + 2)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(5x + 2)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 154x − 252",
+          "canonicalAnswer": "14(11x − 18)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(11x − 18)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 160x − 72",
+          "canonicalAnswer": "8(20x − 9)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(20x − 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 6x + 38",
+          "canonicalAnswer": "2(3x + 19)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(3x + 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 10 then decreased by 5 to make -55. Find the number.",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "Undo the adjustment: 10 times the number is -50.",
+            "Divide by 10: the number is -5."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $170 on 10 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "17",
+          "workedSolution": [
+            "Divide the total cost of $170 by 10 notebooks.",
+            "Each notebook costs $17."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_2_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 12 grams of flour for 3 servings. How much flour is needed for 2 servings?",
+          "canonicalAnswer": "8",
+          "workedSolution": [
+            "The recipe uses 4 grams per serving.",
+            "4 grams times 2 servings is 8 grams."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w41_day_3",
+      "questions": [
+        {
+          "id": "maths_2026_w41_day_3_fraction_1",
+          "topic": "fraction",
+          "prompt": "5/12 + 1/9",
+          "canonicalAnswer": "19/36",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 19/36."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_fraction_2",
+          "topic": "fraction",
+          "prompt": "4/11 − 3/6",
+          "canonicalAnswer": "-3/22",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to -3/22."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_fraction_3",
+          "topic": "fraction",
+          "prompt": "2/7 × 1/7",
+          "canonicalAnswer": "2/49",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 2/49."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_fraction_4",
+          "topic": "fraction",
+          "prompt": "3/5 ÷ 8/12",
+          "canonicalAnswer": "9/10",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 9/10."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 3x − 1 = 59",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "3x = 60",
+            "x = 20"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 12x − 14 = 106",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "12x = 120",
+            "x = 10"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 19x + 11 = 49",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "19x = 38",
+            "x = 2"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 16x − 18 = -114",
+          "canonicalAnswer": "-6",
+          "workedSolution": [
+            "16x = -96",
+            "x = -6"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 120x + 104",
+          "canonicalAnswer": "8(15x + 13)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(15x + 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 72x − 56",
+          "canonicalAnswer": "8(9x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(9x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 176x + 77",
+          "canonicalAnswer": "11(16x + 7)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(16x + 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 90x − 55",
+          "canonicalAnswer": "5(18x − 11)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(18x − 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 9 then increased by 8 to make -82. Find the number.",
+          "canonicalAnswer": "-10",
+          "workedSolution": [
+            "Undo the adjustment: 9 times the number is -90.",
+            "Divide by 9: the number is -10."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $100 on 10 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "Divide the total cost of $100 by 10 notebooks.",
+            "Each notebook costs $10."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_3_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 6 km in 3 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "Divide 6 km by 3 hours.",
+            "The average speed is 2 km/h."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w41_day_4",
+      "questions": [
+        {
+          "id": "maths_2026_w41_day_4_fraction_1",
+          "topic": "fraction",
+          "prompt": "7/17 + 1/14",
+          "canonicalAnswer": "115/238",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 115/238."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_fraction_2",
+          "topic": "fraction",
+          "prompt": "7/17 − 6/10",
+          "canonicalAnswer": "-16/85",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to -16/85."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_fraction_3",
+          "topic": "fraction",
+          "prompt": "6/12 × 9/18",
+          "canonicalAnswer": "1/4",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 1/4."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_fraction_4",
+          "topic": "fraction",
+          "prompt": "1/9 ÷ 8/13",
+          "canonicalAnswer": "13/72",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 13/72."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 12x − 14 = -74",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "12x = -60",
+            "x = -5"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 15x − 3 = 117",
+          "canonicalAnswer": "8",
+          "workedSolution": [
+            "15x = 120",
+            "x = 8"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 15x + 14 = 254",
+          "canonicalAnswer": "16",
+          "workedSolution": [
+            "15x = 240",
+            "x = 16"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x + 9 = -46",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "11x = -55",
+            "x = -5"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 11x − 33",
+          "canonicalAnswer": "11(1x − 3)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(1x − 3)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 195x + 75",
+          "canonicalAnswer": "15(13x + 5)",
+          "workedSolution": [
+            "The greatest common factor is 15.",
+            "Take out 15 to get 15(13x + 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 68x + 40",
+          "canonicalAnswer": "4(17x + 10)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(17x + 10)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 280x + 154",
+          "canonicalAnswer": "14(20x + 11)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(20x + 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 4 then increased by 14 to make 22. Find the number.",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "Undo the adjustment: 4 times the number is 8.",
+            "Divide by 4: the number is 2."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $50 on 10 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "5",
+          "workedSolution": [
+            "Divide the total cost of $50 by 10 notebooks.",
+            "Each notebook costs $5."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_4_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 12 grams of flour for 3 servings. How much flour is needed for 3 servings?",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "The recipe uses 4 grams per serving.",
+            "4 grams times 3 servings is 12 grams."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w41_day_5",
+      "questions": [
+        {
+          "id": "maths_2026_w41_day_5_fraction_1",
+          "topic": "fraction",
+          "prompt": "6/7 + 4/7",
+          "canonicalAnswer": "1 3/7",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 1 3/7."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_fraction_2",
+          "topic": "fraction",
+          "prompt": "3/12 − 6/9",
+          "canonicalAnswer": "-5/12",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to -5/12."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_fraction_3",
+          "topic": "fraction",
+          "prompt": "8/9 × 9/11",
+          "canonicalAnswer": "8/11",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 8/11."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_fraction_4",
+          "topic": "fraction",
+          "prompt": "13/19 ÷ 5/19",
+          "canonicalAnswer": "2 3/5",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 2 3/5."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 20x + 6 = 366",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "20x = 360",
+            "x = 18"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 18x + 19 = 379",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "18x = 360",
+            "x = 20"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 15x − 1 = 269",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "15x = 270",
+            "x = 18"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x − 8 = -40",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "2x = -32",
+            "x = -16"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 120x − 70",
+          "canonicalAnswer": "10(12x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(12x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 56x + 68",
+          "canonicalAnswer": "4(14x + 17)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(14x + 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 133x + 98",
+          "canonicalAnswer": "7(19x + 14)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(19x + 14)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 168x + 238",
+          "canonicalAnswer": "14(12x + 17)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(12x + 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 6 then decreased by 8 to make 52. Find the number.",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "Undo the adjustment: 6 times the number is 60.",
+            "Divide by 6: the number is 10."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $110 on 10 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "Divide the total cost of $110 by 10 notebooks.",
+            "Each notebook costs $11."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_5_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 15 km in 3 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "5",
+          "workedSolution": [
+            "Divide 15 km by 3 hours.",
+            "The average speed is 5 km/h."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w41_day_6",
+      "questions": [
+        {
+          "id": "maths_2026_w41_day_6_fraction_1",
+          "topic": "fraction",
+          "prompt": "4/15 + 10/20",
+          "canonicalAnswer": "23/30",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 23/30."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_fraction_2",
+          "topic": "fraction",
+          "prompt": "6/10 − 15/19",
+          "canonicalAnswer": "-18/95",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to -18/95."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_fraction_3",
+          "topic": "fraction",
+          "prompt": "6/8 × 5/20",
+          "canonicalAnswer": "3/16",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 3/16."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_fraction_4",
+          "topic": "fraction",
+          "prompt": "2/16 ÷ 1/11",
+          "canonicalAnswer": "1 3/8",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 1 3/8."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 3x + 9 = 48",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "3x = 39",
+            "x = 13"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x − 19 = -118",
+          "canonicalAnswer": "-9",
+          "workedSolution": [
+            "11x = -99",
+            "x = -9"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 8x + 14 = -122",
+          "canonicalAnswer": "-17",
+          "workedSolution": [
+            "8x = -136",
+            "x = -17"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 19x + 13 = 241",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "19x = 228",
+            "x = 12"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 45x − 150",
+          "canonicalAnswer": "15(3x − 10)",
+          "workedSolution": [
+            "The greatest common factor is 15.",
+            "Take out 15 to get 15(3x − 10)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 42x − 51",
+          "canonicalAnswer": "3(14x − 17)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(14x − 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 176x − 187",
+          "canonicalAnswer": "11(16x − 17)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(16x − 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 51x + 33",
+          "canonicalAnswer": "3(17x + 11)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(17x + 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 8 then decreased by 2 to make 102. Find the number.",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "Undo the adjustment: 8 times the number is 104.",
+            "Divide by 8: the number is 13."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $12 on 4 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "Divide the total cost of $12 by 4 notebooks.",
+            "Each notebook costs $3."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_6_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 9 grams of flour for 3 servings. How much flour is needed for 4 servings?",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "The recipe uses 3 grams per serving.",
+            "3 grams times 4 servings is 12 grams."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w41_day_7",
+      "questions": [
+        {
+          "id": "maths_2026_w41_day_7_fraction_1",
+          "topic": "fraction",
+          "prompt": "10/11 + 4/6",
+          "canonicalAnswer": "1 19/33",
+          "workedSolution": [
+            "Apply add to the two fractions.",
+            "Reduce the result to 1 19/33."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_fraction_2",
+          "topic": "fraction",
+          "prompt": "2/9 − 6/13",
+          "canonicalAnswer": "-28/117",
+          "workedSolution": [
+            "Apply subtract to the two fractions.",
+            "Reduce the result to -28/117."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_fraction_3",
+          "topic": "fraction",
+          "prompt": "9/10 × 5/17",
+          "canonicalAnswer": "9/34",
+          "workedSolution": [
+            "Apply multiply to the two fractions.",
+            "Reduce the result to 9/34."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_fraction_4",
+          "topic": "fraction",
+          "prompt": "2/10 ÷ 7/10",
+          "canonicalAnswer": "2/7",
+          "workedSolution": [
+            "Apply divide to the two fractions.",
+            "Reduce the result to 2/7."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 20x − 12 = 208",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "20x = 220",
+            "x = 11"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x + 5 = -20",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "5x = -25",
+            "x = -5"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x − 8 = 124",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "11x = 132",
+            "x = 12"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 17x − 12 = 39",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "17x = 51",
+            "x = 3"
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 144x + 88",
+          "canonicalAnswer": "8(18x + 11)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(18x + 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 57x + 36",
+          "canonicalAnswer": "3(19x + 12)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(19x + 12)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 12x + 80",
+          "canonicalAnswer": "4(3x + 20)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(3x + 20)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 105x + 14",
+          "canonicalAnswer": "7(15x + 2)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(15x + 2)."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 9 then decreased by 3 to make -138. Find the number.",
+          "canonicalAnswer": "-15",
+          "workedSolution": [
+            "Undo the adjustment: 9 times the number is -135.",
+            "Divide by 9: the number is -15."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $18 on 6 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "Divide the total cost of $18 by 6 notebooks.",
+            "Each notebook costs $3."
+          ]
+        },
+        {
+          "id": "maths_2026_w41_day_7_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 30 km in 5 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "Divide 30 km by 5 hours.",
+            "The average speed is 6 km/h."
+          ]
+        }
+      ]
+    }
+  ]
+}
