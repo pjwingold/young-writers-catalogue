@@ -1,0 +1,3803 @@
+{
+  "schemaVersion": 1,
+  "catalogueVersion": 11,
+  "generatedAt": "2026-10-17T02:39:44.466Z",
+  "checksum": "0e46a05a4a5fcd2fa6758016b9a1f58583d72f8f80c7f7a9fa1b5b7e363edf1a",
+  "exercises": [
+    {
+      "id": "selective_poetry_sonnet_18",
+      "title": "Sonnet 18: A Summer's Day",
+      "cohort": "selective_year_5_6",
+      "level": 4,
+      "genre": "poetry",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 18,
+      "source": {
+        "kind": "public_domain",
+        "workTitle": "Shakespeare's Sonnets",
+        "author": "William Shakespeare",
+        "canonicalUrl": "https://www.gutenberg.org/files/1041/1041-h/1041-h.htm",
+        "rightsEvidenceUrl": "https://www.gutenberg.org/policy/permission.html",
+        "creditLine": "Text by William Shakespeare, sourced from Project Gutenberg's public-domain edition."
+      },
+      "type": "poetry",
+      "subtype": "sonnet",
+      "stanzas": [
+        [
+          "Shall I compare thee to a summer's day?",
+          "Thou art more lovely and more temperate:",
+          "Rough winds do shake the darling buds of May,",
+          "And summer's lease hath all too short a date;"
+        ],
+        [
+          "Sometime too hot the eye of heaven shines,",
+          "And often is his gold complexion dimm'd;",
+          "And every fair from fair sometime declines,",
+          "By chance, or nature's changing course, untrimm'd;"
+        ],
+        [
+          "But thy eternal summer shall not fade,",
+          "Nor lose possession of that fair thou ow'st,",
+          "Nor shall death brag thou wander'st in his shade,",
+          "When in eternal lines to time thou grow'st:"
+        ],
+        [
+          "So long as men can breathe, or eyes can see,",
+          "So long lives this, and this gives life to thee."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "temperate",
+          "explanation": "Mild and balanced, rather than too hot or too cold."
+        },
+        {
+          "term": "lease",
+          "explanation": "A limited period of use; here, summer does not last long."
+        },
+        {
+          "term": "complexion",
+          "explanation": "The appearance or colour of something, especially its surface."
+        },
+        {
+          "term": "untrimm'd",
+          "explanation": "No longer neat or complete because change has altered it."
+        },
+        {
+          "term": "ow'st",
+          "explanation": "An old form of 'own'; it means possess or have."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "The main comparison",
+          "body": "The speaker compares a loved person with a summer day, then explains why the person is gentler and more lasting than summer."
+        },
+        {
+          "heading": "Change and time",
+          "body": "The middle of the sonnet lists ways that summer and beauty can change. The final couplet answers this problem by saying the poem can keep the person's memory alive."
+        },
+        {
+          "heading": "How the sonnet is shaped",
+          "body": "The poem has three groups of four lines followed by a final pair of lines. The last pair gathers the earlier ideas into a conclusion."
+        }
+      ],
+      "questions": [
+        {
+          "id": "question_comparison",
+          "prompt": "Why does the speaker decide that the person is better than a summer's day?",
+          "options": [
+            "The person is gentler and more steady",
+            "The person owns a garden",
+            "Summer is completely dark",
+            "The person dislikes warm weather"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "The speaker directly describes the person as more lovely and temperate.",
+            "The poem does not say that the person owns a garden.",
+            "The poem describes bright sunlight as well as dimming.",
+            "The comparison is about qualities, not the person's preferences."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 4,
+              "quote": "Thou art more lovely and more temperate"
+            }
+          ]
+        },
+        {
+          "id": "question_change",
+          "prompt": "What happens to summer in the poem?",
+          "options": [
+            "Its beauty can fade or be changed",
+            "It lasts forever without change",
+            "It becomes a winter storm",
+            "It moves to another country"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "The lines say that beautiful things decline through chance or nature.",
+            "The poem says the opposite: summer changes.",
+            "No winter storm is described.",
+            "The poem does not describe summer travelling."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 5,
+              "lineEnd": 8,
+              "quote": "every fair from fair sometime declines"
+            }
+          ]
+        },
+        {
+          "id": "question_structure",
+          "prompt": "What job does the final pair of lines do?",
+          "options": [
+            "It concludes that the poem can preserve the person's life in memory",
+            "It introduces a new weather forecast",
+            "It explains how to measure a summer day",
+            "It changes the poem into a question"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "The ending connects human readers, the poem and lasting remembrance.",
+            "The ending is not a weather forecast.",
+            "No measurement is given.",
+            "The poem's opening question has already been answered."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 13,
+              "lineEnd": 14,
+              "quote": "So long lives this, and this gives life to thee"
+            }
+          ]
+        },
+        {
+          "id": "question_metaphor",
+          "prompt": "What does 'eternal summer' suggest about the person?",
+          "options": [
+            "The person's best qualities will be remembered",
+            "The person will live in hot weather",
+            "The person is made of sunlight",
+            "The person never experiences change"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Eternal summer is a metaphor for qualities that the poem keeps alive.",
+            "The phrase is figurative, not a weather prediction.",
+            "The person is not literally made of sunlight.",
+            "The poem acknowledges that life and nature change."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 9,
+              "lineEnd": 12,
+              "quote": "thy eternal summer shall not fade"
+            }
+          ]
+        }
+      ],
+      "sourceUrl": "https://www.gutenberg.org/files/1041/1041-h/1041-h.htm"
+    },
+    {
+      "id": "w_2026_w42_1_whispering_clock_advanced",
+      "title": "The Whispering Clock",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content generated for Young Writers Lab."
+      },
+      "type": "poetry",
+      "stanzas": [
+        [
+          "In the quiet corner of the dusty hall,",
+          "An ancient clock hangs tall against the wall.",
+          "Its brass pendulum swings to and fro,",
+          "Counting moments from long ago."
+        ],
+        [
+          "Tick-tock, it speaks in a steady chime,",
+          "A patient keeper of passing time.",
+          "It watches shadows stretch across the floor,",
+          "As daylight fades beyond the wooden door."
+        ],
+        [
+          "Though gears may creak and polished metal fade,",
+          "It guards the memories that time has made.",
+          "A silent guardian standing through the night,",
+          "Waiting calmly for the morning light."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "pendulum",
+          "explanation": "A weight hung from a fixed point so that it can swing freely backward and forward."
+        },
+        {
+          "term": "ancient",
+          "explanation": "Very old; belonging to a time long past."
+        },
+        {
+          "term": "guardian",
+          "explanation": "A defender, protector, or keeper."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "Personification in Poetry",
+          "body": "The poet gives human qualities to the clock, making it 'speak', 'watch', and 'guard' the room."
+        },
+        {
+          "heading": "Rhyme Scheme and Rhythm",
+          "body": "Each stanza uses an AABB rhyme scheme, creating a steady, rhythmic cadence like the ticking of a clock."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a1",
+          "prompt": "According to stanza 3, what signs of physical wear are present on the clock?",
+          "options": [
+            "The glass is cracked and hands are missing.",
+            "Gears creak and the polished metal fades.",
+            "The brass pendulum is broken.",
+            "The wooden case has fallen apart."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. Cracked glass is not mentioned in the poem.",
+            "Correct. Line 9 directly mentions creaking gears and fading metal.",
+            "Incorrect. The pendulum is still swinging in stanza 1.",
+            "Incorrect. The clock is still standing and hanging intact."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 9,
+              "lineEnd": 9,
+              "quote": "Though gears may creak and polished metal fade,"
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "How does the poet create a sense of endurance and permanence in the third stanza?",
+          "options": [
+            "By explaining that the clock will soon be replaced by a modern one.",
+            "By contrasting its physical decay with its unwavering role as a watchful guardian.",
+            "By showing that the clock stops working as soon as night falls.",
+            "By suggesting that time moves backwards inside the hall."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The poem does not mention replacing the clock.",
+            "Correct. Even though 'gears may creak' and metal fades, it continues 'standing through the night' to 'guard memories'.",
+            "Incorrect. The clock continues working through the night.",
+            "Incorrect. Time moves forward; the clock counts passing moments."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 9,
+              "lineEnd": 12,
+              "quote": "Though gears may creak and polished metal fade, It guards the memories that time has made. A silent guardian standing through the night, Waiting calmly for the morning light."
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "What underlying theme is best expressed through the clock's relationship with time?",
+          "options": [
+            "Time destroys all objects quickly and without purpose.",
+            "While physical objects age, faithful memory and time preserve the past.",
+            "Quiet halls are dangerous places after dark.",
+            "Modern inventions are superior to old mechanical tools."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The clock preserves memories rather than showing destruction as purposeless.",
+            "Correct. The contrast between fading metal and guarding memories emphasizes faithful preservation over time.",
+            "Incorrect. The poem conveys a peaceful, protective mood, not danger.",
+            "Incorrect. No modern inventions are compared in the text."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 4,
+              "lineEnd": 10,
+              "quote": "Counting moments from long ago. Tick-tock, it speaks in a steady chime, A patient keeper of passing time. It watches shadows stretch across the floor, As daylight fades beyond the wooden door. Though gears may creak and polished metal fade, It guards the memories that time has made."
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "In the context of line 11, what does the word 'guardian' convey about the clock's purpose?",
+          "options": [
+            "It is a fragile ornament that needs protection.",
+            "It is a protective presence that watches over the home.",
+            "It is an intruder disturbing the peace of the hall.",
+            "It is a temporary worker passing through."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The clock acts as the protector, not the object needing protection.",
+            "Correct. A guardian protects; here, it watches over the house and its memories.",
+            "Incorrect. The clock is peaceful, not an intruder.",
+            "Incorrect. The clock is permanent and ancient, not temporary."
+          ],
+          "skill": "vocabulary",
+          "evidence": [
+            {
+              "lineStart": 11,
+              "lineEnd": 11,
+              "quote": "A silent guardian standing through the night,"
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "How does the sound device 'Tick-tock' in line 5 contribute to the poem's atmosphere?",
+          "options": [
+            "It creates an alarming sense of urgency and danger.",
+            "It uses onomatopoeia to establish a steady, comforting rhythm.",
+            "It uses hyperbole to exaggerate the size of the clock.",
+            "It uses personification to make the clock sound angry."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The chime is described as 'steady' and 'patient', not alarming.",
+            "Correct. 'Tick-tock' mimics real clock sounds (onomatopoeia), establishing a calm, steady rhythm.",
+            "Incorrect. 'Tick-tock' is sound imitation, not hyperbole.",
+            "Incorrect. The clock is described as patient and calm, not angry."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 5,
+              "lineEnd": 5,
+              "quote": "Tick-tock, it speaks in a steady chime,"
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "How does the poet use line lengths and rhythm across all three stanzas to reflect the topic?",
+          "options": [
+            "Irregular line lengths mirror the unpredictable nature of time.",
+            "Consistent rhyming couplets and steady meter mirror the rhythmic swinging of a clock's pendulum.",
+            "Short, broken lines reflect the sudden stopping of time.",
+            "Unrhymed free verse creates a feeling of chaos and rush."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The meter and line lengths are regular, not unpredictable.",
+            "Correct. The uniform stanza lengths, regular meter, and rhyming couplets mimic a pendulum's steady tick-tock motion.",
+            "Incorrect. The lines are smooth and continuous, not short or broken.",
+            "Incorrect. The poem follows a strict rhyme scheme (AABB), not unrhymed free verse."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 12,
+              "quote": "In the quiet corner of the dusty hall, An ancient clock hangs tall against the wall. Its brass pendulum swings to and fro, Counting moments from long ago. Tick-tock, it speaks in a steady chime, A patient keeper of passing time. It watches shadows stretch across the floor, As daylight fades beyond the wooden door. Though gears may creak and polished metal fade, It guards the memories that time has made. A silent guardian standing through the night, Waiting calmly for the morning light."
+            }
+          ]
+        }
+      ],
+      "poetryLevel": "Advanced"
+    },
+    {
+      "id": "w_2026_w42_1_whispering_clock_developing",
+      "title": "The Whispering Clock",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content generated for Young Writers Lab."
+      },
+      "type": "poetry",
+      "stanzas": [
+        [
+          "In the quiet corner of the dusty hall,",
+          "An ancient clock hangs tall against the wall.",
+          "Its brass pendulum swings to and fro,",
+          "Counting moments from long ago."
+        ],
+        [
+          "Tick-tock, it speaks in a steady chime,",
+          "A patient keeper of passing time.",
+          "It watches shadows stretch across the floor,",
+          "As daylight fades beyond the wooden door."
+        ],
+        [
+          "Though gears may creak and polished metal fade,",
+          "It guards the memories that time has made.",
+          "A silent guardian standing through the night,",
+          "Waiting calmly for the morning light."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "pendulum",
+          "explanation": "A weight hung from a fixed point so that it can swing freely backward and forward."
+        },
+        {
+          "term": "ancient",
+          "explanation": "Very old; belonging to a time long past."
+        },
+        {
+          "term": "guardian",
+          "explanation": "A defender, protector, or keeper."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "Personification in Poetry",
+          "body": "The poet gives human qualities to the clock, making it 'speak', 'watch', and 'guard' the room."
+        },
+        {
+          "heading": "Rhyme Scheme and Rhythm",
+          "body": "Each stanza uses an AABB rhyme scheme, creating a steady, rhythmic cadence like the ticking of a clock."
+        }
+      ],
+      "questions": [
+        {
+          "id": "d1",
+          "prompt": "What material is the clock's swinging pendulum made of?",
+          "options": [
+            "Silver",
+            "Wood",
+            "Brass",
+            "Iron"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Incorrect. Line 3 specifies brass, not silver.",
+            "Incorrect. Line 3 specifies brass, not wood.",
+            "Correct. Line 3 explicitly states 'Its brass pendulum'.",
+            "Incorrect. Line 3 specifies brass, not iron."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 3,
+              "lineEnd": 3,
+              "quote": "Its brass pendulum swings to and fro,"
+            }
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "What does the phrase 'patient keeper of passing time' suggest about the clock?",
+          "options": [
+            "The clock is impatient to be fixed.",
+            "The clock operates continuously and reliably without rushing.",
+            "The clock speeds up when it gets dark.",
+            "The clock keeps track of time only during the day."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. 'Patient' means steady and enduring, not impatient.",
+            "Correct. 'Patient keeper' implies a constant, reliable, unhurried marking of time.",
+            "Incorrect. The poem notes a steady chime, not a changing speed.",
+            "Incorrect. Stanza 3 mentions it stands through the night."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 6,
+              "lineEnd": 6,
+              "quote": "A patient keeper of passing time."
+            }
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "What can be inferred about the age of the house or hallway?",
+          "options": [
+            "It is a brand new modern building.",
+            "It has been around for a long time and is rarely disturbed.",
+            "It is under active construction.",
+            "It is constantly filled with noisy crowds."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. 'Dusty' and 'ancient clock' contradict a new building.",
+            "Correct. Words like 'quiet', 'dusty', and 'ancient' infer a long-standing, quiet setting.",
+            "Incorrect. Nothing suggests active construction.",
+            "Incorrect. Line 1 describes it as a 'quiet corner'."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 2,
+              "quote": "In the quiet corner of the dusty hall, An ancient clock hangs tall against the wall."
+            }
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "What does 'ancient' mean in line 2?",
+          "options": [
+            "Brand new",
+            "Extremely old",
+            "Broken and unusable",
+            "Shiny and clean"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. Ancient is the opposite of brand new.",
+            "Correct. 'Ancient' means belonging to the distant past or very old.",
+            "Incorrect. The clock still ticks, so it is not unusable.",
+            "Incorrect. Ancient refers to age, not cleanliness."
+          ],
+          "skill": "vocabulary",
+          "evidence": [
+            {
+              "lineStart": 2,
+              "lineEnd": 2,
+              "quote": "An ancient clock hangs tall against the wall."
+            }
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "In line 11, the clock is called a 'silent guardian'. What type of figurative language is this?",
+          "options": [
+            "Simile",
+            "Metaphor",
+            "Onomatopoeia",
+            "Hyperbole"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. A simile uses 'like' or 'as'.",
+            "Correct. Direct comparison of the clock to a 'guardian' without using 'like' or 'as' is a metaphor.",
+            "Incorrect. Onomatopoeia imitates sounds (like 'tick-tock').",
+            "Incorrect. Hyperbole is an extreme exaggeration."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 11,
+              "lineEnd": 11,
+              "quote": "A silent guardian standing through the night,"
+            }
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "What is the rhyme scheme of the first stanza?",
+          "options": [
+            "ABAB",
+            "AABB",
+            "ABCB",
+            "ABBA"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. Line 1 rhymes with line 2 (hall/wall), not line 3.",
+            "Correct. 'hall'/'wall' (AA) and 'fro'/'ago' (BB) form an AABB pattern.",
+            "Incorrect. The first two lines rhyme, which does not fit ABCB.",
+            "Incorrect. Line 1 does not rhyme with line 4."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 4,
+              "quote": "In the quiet corner of the dusty hall, An ancient clock hangs tall against the wall. Its brass pendulum swings to and fro, Counting moments from long ago."
+            }
+          ]
+        }
+      ],
+      "poetryLevel": "Developing"
+    },
+    {
+      "id": "w_2026_w42_1_whispering_clock_foundation",
+      "title": "The Whispering Clock",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content generated for Young Writers Lab."
+      },
+      "type": "poetry",
+      "stanzas": [
+        [
+          "In the quiet corner of the dusty hall,",
+          "An ancient clock hangs tall against the wall.",
+          "Its brass pendulum swings to and fro,",
+          "Counting moments from long ago."
+        ],
+        [
+          "Tick-tock, it speaks in a steady chime,",
+          "A patient keeper of passing time.",
+          "It watches shadows stretch across the floor,",
+          "As daylight fades beyond the wooden door."
+        ],
+        [
+          "Though gears may creak and polished metal fade,",
+          "It guards the memories that time has made.",
+          "A silent guardian standing through the night,",
+          "Waiting calmly for the morning light."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "pendulum",
+          "explanation": "A weight hung from a fixed point so that it can swing freely backward and forward."
+        },
+        {
+          "term": "ancient",
+          "explanation": "Very old; belonging to a time long past."
+        },
+        {
+          "term": "guardian",
+          "explanation": "A defender, protector, or keeper."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "Personification in Poetry",
+          "body": "The poet gives human qualities to the clock, making it 'speak', 'watch', and 'guard' the room."
+        },
+        {
+          "heading": "Rhyme Scheme and Rhythm",
+          "body": "Each stanza uses an AABB rhyme scheme, creating a steady, rhythmic cadence like the ticking of a clock."
+        }
+      ],
+      "questions": [
+        {
+          "id": "f1",
+          "prompt": "Where is the ancient clock located?",
+          "options": [
+            "In a bright kitchen",
+            "In the quiet corner of the dusty hall",
+            "Outside near the wooden door",
+            "In a busy garden"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. Line 1 specifies the dusty hall, not a kitchen.",
+            "Correct. Line 1 states it is in the quiet corner of the dusty hall.",
+            "Incorrect. Line 1 places it in the hall, not outside.",
+            "Incorrect. Line 1 places it in the hall."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 1,
+              "quote": "In the quiet corner of the dusty hall,"
+            }
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "Why does the clock seem important to the house?",
+          "options": [
+            "It makes a very loud noise that wakes everyone up.",
+            "It protects and preserves the memories of the home.",
+            "It is made of pure gold.",
+            "It is the only object in the entire hallway."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The poem highlights its steady, watchful nature, not a loud waking noise.",
+            "Correct. Line 10 states it 'guards the memories', inferring its value to the house.",
+            "Incorrect. The poem describes brass and polished metal, not pure gold.",
+            "Incorrect. The text does not say it is the only object."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 10,
+              "lineEnd": 10,
+              "quote": "It guards the memories that time has made."
+            }
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "What happens as the day ends in the poem?",
+          "options": [
+            "The clock stops ticking completely.",
+            "Shadows grow longer while daylight disappears.",
+            "Someone comes in and winds up the clock.",
+            "The clock falls off the wall."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The clock keeps ticking steadily.",
+            "Correct. Lines 7-8 describe shadows stretching as daylight fades.",
+            "Incorrect. No person is mentioned winding the clock.",
+            "Incorrect. The clock remains hanging on the wall."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 7,
+              "lineEnd": 8,
+              "quote": "It watches shadows stretch across the floor, As daylight fades beyond the wooden door."
+            }
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "In line 3, what is a 'pendulum'?",
+          "options": [
+            "A glass window on the clock",
+            "A hanging weight that swings back and forth",
+            "A key used to start the clock",
+            "The decorative frame around the clock face"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. A pendulum is not glass.",
+            "Correct. A pendulum is a weight that swings back and forth to keep time.",
+            "Incorrect. A key is used for winding, not swinging.",
+            "Incorrect. The pendulum hangs and swings, it is not the frame."
+          ],
+          "skill": "vocabulary",
+          "evidence": [
+            {
+              "lineStart": 3,
+              "lineEnd": 3,
+              "quote": "Its brass pendulum swings to and fro,"
+            }
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "Which line uses personification to show the clock taking action?",
+          "options": [
+            "An ancient clock hangs tall against the wall.",
+            "Its brass pendulum swings to and fro,",
+            "Tick-tock, it speaks in a steady chime,",
+            "Waiting calmly for the morning light."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Incorrect. Line 2 describes its physical placement.",
+            "Incorrect. Line 3 describes mechanical motion.",
+            "Correct. Saying the clock 'speaks' gives it a human trait (personification).",
+            "Incorrect. While waiting shows feeling, 'speaks' in option 3 is a direct human verb given to its sound."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 5,
+              "lineEnd": 5,
+              "quote": "Tick-tock, it speaks in a steady chime,"
+            }
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "How many stanzas does this poem contain?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "12"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The poem has more than 2 stanzas.",
+            "Correct. The poem is organized into 3 four-line stanzas.",
+            "Incorrect. There are 3 stanzas, not 4.",
+            "Incorrect. 12 is the total number of lines, not stanzas."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 12,
+              "quote": "In the quiet corner of the dusty hall, An ancient clock hangs tall against the wall. Its brass pendulum swings to and fro, Counting moments from long ago. Tick-tock, it speaks in a steady chime, A patient keeper of passing time. It watches shadows stretch across the floor, As daylight fades beyond the wooden door. Though gears may creak and polished metal fade, It guards the memories that time has made. A silent guardian standing through the night, Waiting calmly for the morning light."
+            }
+          ]
+        }
+      ],
+      "poetryLevel": "Foundation"
+    },
+    {
+      "id": "w_2026_w42_2_river_speaks_advanced",
+      "title": "The River Speaks",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content generated for Young Writers Lab."
+      },
+      "type": "poetry",
+      "stanzas": [
+        [
+          "I curl through stones with silver hands,",
+          "And carry light across the lands.",
+          "My voice is low, a steady hum,",
+          "That tells the hills that rain will come."
+        ],
+        [
+          "I leap from ledges, cold and clear,",
+          "And sing to roots that lean to hear.",
+          "I turn the mill wheel, round and round,",
+          "Then slide beneath the sleepy town."
+        ],
+        [
+          "I mirror clouds and swallow sky,",
+          "Then watch the thirsty heron fly.",
+          "I am the thread that stitches shores,",
+          "The map that every fish explores."
+        ],
+        [
+          "I never rest, yet never race,",
+          "I find my way from place to place.",
+          "I hold the moon in one long line,",
+          "And all the starlight, too, is mine."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "heron",
+          "explanation": "A tall wading bird with long legs and a long neck that often hunts near water."
+        },
+        {
+          "term": "ledges",
+          "explanation": "Narrow shelves of rock that stick out from a cliff or steep surface."
+        },
+        {
+          "term": "mill wheel",
+          "explanation": "A large wheel turned by water, used to power a mill for grinding grain or making things."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "Teaching point",
+          "body": "The river is personified: it 'speaks,' has 'silver hands,' and 'sings.' This helps readers imagine the river as a living character."
+        },
+        {
+          "heading": "Teaching point",
+          "body": "The poem uses metaphors such as 'I am the thread that stitches shores' to show how the river connects different places."
+        },
+        {
+          "heading": "Teaching point",
+          "body": "The repeated pattern of four-line stanzas with rhyming pairs (AABB) gives the poem a steady, song-like rhythm, like the river's flow."
+        },
+        {
+          "heading": "Teaching point",
+          "body": "The line 'I never rest, yet never race' presents a contrast: the river is always moving, but not in a hurried way."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a1",
+          "prompt": "Which line states that the river's starlight belongs to it?",
+          "options": [
+            "Line 14",
+            "Line 15",
+            "Line 16",
+            "Line 13"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Line 14 discusses finding its way, not starlight.",
+            "Line 15 mentions holding the moon, not starlight.",
+            "Correct: line 16 explicitly says 'all the starlight, too, is mine.'",
+            "Line 13 says it never rests, not about starlight."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 16,
+              "lineEnd": 16,
+              "quote": "And all the starlight, too, is mine."
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "What deeper idea about the river is suggested by 'The map that every fish explores'?",
+          "options": [
+            "The river is a guide and home for creatures.",
+            "The river is afraid of fish.",
+            "The river is only for fish, not other life.",
+            "The river is dirty."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct: the metaphor implies the river is a guide and home for creatures like fish.",
+            "There is no fear mentioned.",
+            "The river supports other life too, like the heron and roots.",
+            "The poem does not suggest dirtiness."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 12,
+              "lineEnd": 12,
+              "quote": "The map that every fish explores."
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "What does the contrast in 'I never rest, yet never race' emphasize about the river?",
+          "options": [
+            "It is lazy and slow.",
+            "It is always moving but at a steady pace.",
+            "It is fast and furious.",
+            "It stops often."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "'Never rest' contradicts laziness.",
+            "Correct: it moves constantly but does not rush.",
+            "'Never race' implies it is not fast and furious.",
+            "'Never rest' means it does not stop."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 13,
+              "lineEnd": 13,
+              "quote": "I never rest, yet never race,"
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "In line 6, 'lean to hear' suggests the roots are:",
+          "options": [
+            "Trying to listen",
+            "Falling over",
+            "Growing quickly",
+            "Dying"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct: 'lean to hear' personifies roots as if they are listening.",
+            "Leaning is not necessarily falling.",
+            "The phrase is about listening, not speed of growth.",
+            "There is no indication of dying."
+          ],
+          "skill": "vocabulary",
+          "evidence": [
+            {
+              "lineStart": 6,
+              "lineEnd": 6,
+              "quote": "And sing to roots that lean to hear."
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "What type of figurative language is 'My voice is low, a steady hum'?",
+          "options": [
+            "Simile",
+            "Metaphor",
+            "Personification",
+            "Hyperbole"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "It does not use 'like' or 'as'.",
+            "A metaphor directly states one thing is another; here it gives the river a voice, which is personification.",
+            "Correct: the river is given a human-like voice, which is personification.",
+            "It is not an exaggeration."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 3,
+              "lineEnd": 3,
+              "quote": "My voice is low, a steady hum,"
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "How does the final stanza contribute to the poem's overall structure?",
+          "options": [
+            "It introduces a new character.",
+            "It summarizes the river's endless journey and power.",
+            "It describes a specific town.",
+            "It asks questions about the future."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "No new character is introduced.",
+            "Correct: the final stanza reflects on the river's constant movement and its connection to the sky.",
+            "The town was mentioned earlier, not here.",
+            "There are no questions in the final stanza."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 13,
+              "lineEnd": 16,
+              "quote": "I never rest, yet never race, I find my way from place to place. I hold the moon in one long line, And all the starlight, too, is mine."
+            }
+          ]
+        }
+      ],
+      "poetryLevel": "Advanced"
+    },
+    {
+      "id": "w_2026_w42_2_river_speaks_developing",
+      "title": "The River Speaks",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content generated for Young Writers Lab."
+      },
+      "type": "poetry",
+      "stanzas": [
+        [
+          "I curl through stones with silver hands,",
+          "And carry light across the lands.",
+          "My voice is low, a steady hum,",
+          "That tells the hills that rain will come."
+        ],
+        [
+          "I leap from ledges, cold and clear,",
+          "And sing to roots that lean to hear.",
+          "I turn the mill wheel, round and round,",
+          "Then slide beneath the sleepy town."
+        ],
+        [
+          "I mirror clouds and swallow sky,",
+          "Then watch the thirsty heron fly.",
+          "I am the thread that stitches shores,",
+          "The map that every fish explores."
+        ],
+        [
+          "I never rest, yet never race,",
+          "I find my way from place to place.",
+          "I hold the moon in one long line,",
+          "And all the starlight, too, is mine."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "heron",
+          "explanation": "A tall wading bird with long legs and a long neck that often hunts near water."
+        },
+        {
+          "term": "ledges",
+          "explanation": "Narrow shelves of rock that stick out from a cliff or steep surface."
+        },
+        {
+          "term": "mill wheel",
+          "explanation": "A large wheel turned by water, used to power a mill for grinding grain or making things."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "Teaching point",
+          "body": "The river is personified: it 'speaks,' has 'silver hands,' and 'sings.' This helps readers imagine the river as a living character."
+        },
+        {
+          "heading": "Teaching point",
+          "body": "The poem uses metaphors such as 'I am the thread that stitches shores' to show how the river connects different places."
+        },
+        {
+          "heading": "Teaching point",
+          "body": "The repeated pattern of four-line stanzas with rhyming pairs (AABB) gives the poem a steady, song-like rhythm, like the river's flow."
+        },
+        {
+          "heading": "Teaching point",
+          "body": "The line 'I never rest, yet never race' presents a contrast: the river is always moving, but not in a hurried way."
+        }
+      ],
+      "questions": [
+        {
+          "id": "d1",
+          "prompt": "What does the river do after it turns the mill wheel?",
+          "options": [
+            "It leaps from ledges.",
+            "It slides beneath the sleepy town.",
+            "It mirrors clouds.",
+            "It holds the moon."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Leaping from ledges happens earlier, in stanza 2.",
+            "Correct: line 8 says it slides beneath the sleepy town after turning the mill wheel.",
+            "Mirroring clouds happens later, in stanza 3.",
+            "Holding the moon happens in stanza 4."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 7,
+              "lineEnd": 8,
+              "quote": "I turn the mill wheel, round and round, Then slide beneath the sleepy town."
+            }
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "What can we infer about the town from line 8?",
+          "options": [
+            "The town is very noisy.",
+            "The town is quiet and calm.",
+            "The town is under the river.",
+            "The town is full of fish."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The word 'sleepy' suggests quiet, not noisy.",
+            "Correct: 'sleepy' suggests the town is quiet and calm.",
+            "The river slides beneath the town, not the other way around.",
+            "Fish are mentioned in stanza 3, not the town."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 8,
+              "lineEnd": 8,
+              "quote": "Then slide beneath the sleepy town."
+            }
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "What does the river mean when it says it is 'the thread that stitches shores'?",
+          "options": [
+            "The river sews cloth together.",
+            "The river connects different shores.",
+            "The river is a map for people.",
+            "The river is made of thread."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The river does not sew cloth; this is figurative.",
+            "Correct: the metaphor suggests the river connects shores like thread stitches fabric.",
+            "The map is for fish, not people.",
+            "The river is not literally made of thread."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 11,
+              "lineEnd": 12,
+              "quote": "I am the thread that stitches shores, The map that every fish explores."
+            }
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "What does 'explores' most likely mean in line 12?",
+          "options": [
+            "Ignores",
+            "Travels around and discovers",
+            "Sleeps in",
+            "Draws"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Exploring is not ignoring.",
+            "Correct: to explore means to travel around and discover.",
+            "Exploring is active, not sleeping.",
+            "Fish do not draw the map."
+          ],
+          "skill": "vocabulary",
+          "evidence": [
+            {
+              "lineStart": 12,
+              "lineEnd": 12,
+              "quote": "The map that every fish explores."
+            }
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "What is the effect of the metaphor 'I hold the moon in one long line'?",
+          "options": [
+            "It shows the river is very long.",
+            "It suggests the river's surface reflects the moon and stars.",
+            "It means the river owns the sky.",
+            "It shows the moon is falling."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The line is about reflection, not just length.",
+            "Correct: the river's surface reflects the moon and stars like a long line of light.",
+            "The river does not literally own the sky.",
+            "The moon is not falling; it is reflected."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 15,
+              "lineEnd": 16,
+              "quote": "I hold the moon in one long line, And all the starlight, too, is mine."
+            }
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "How does the rhyme scheme in each stanza help the poem?",
+          "options": [
+            "It makes the poem sound like a song.",
+            "It makes the poem confusing.",
+            "It shows the river is angry.",
+            "It changes the topic quickly."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct: the AABB rhyme pattern gives a musical, song-like quality.",
+            "Rhyme usually aids rhythm, not confusion.",
+            "The rhyme does not show anger.",
+            "Rhyme does not necessarily change topics."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 4,
+              "quote": "I curl through stones with silver hands, And carry light across the lands. My voice is low, a steady hum, That tells the hills that rain will come."
+            }
+          ]
+        }
+      ],
+      "poetryLevel": "Developing"
+    },
+    {
+      "id": "w_2026_w42_2_river_speaks_foundation",
+      "title": "The River Speaks",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content generated for Young Writers Lab."
+      },
+      "type": "poetry",
+      "stanzas": [
+        [
+          "I curl through stones with silver hands,",
+          "And carry light across the lands.",
+          "My voice is low, a steady hum,",
+          "That tells the hills that rain will come."
+        ],
+        [
+          "I leap from ledges, cold and clear,",
+          "And sing to roots that lean to hear.",
+          "I turn the mill wheel, round and round,",
+          "Then slide beneath the sleepy town."
+        ],
+        [
+          "I mirror clouds and swallow sky,",
+          "Then watch the thirsty heron fly.",
+          "I am the thread that stitches shores,",
+          "The map that every fish explores."
+        ],
+        [
+          "I never rest, yet never race,",
+          "I find my way from place to place.",
+          "I hold the moon in one long line,",
+          "And all the starlight, too, is mine."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "heron",
+          "explanation": "A tall wading bird with long legs and a long neck that often hunts near water."
+        },
+        {
+          "term": "ledges",
+          "explanation": "Narrow shelves of rock that stick out from a cliff or steep surface."
+        },
+        {
+          "term": "mill wheel",
+          "explanation": "A large wheel turned by water, used to power a mill for grinding grain or making things."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "Teaching point",
+          "body": "The river is personified: it 'speaks,' has 'silver hands,' and 'sings.' This helps readers imagine the river as a living character."
+        },
+        {
+          "heading": "Teaching point",
+          "body": "The poem uses metaphors such as 'I am the thread that stitches shores' to show how the river connects different places."
+        },
+        {
+          "heading": "Teaching point",
+          "body": "The repeated pattern of four-line stanzas with rhyming pairs (AABB) gives the poem a steady, song-like rhythm, like the river's flow."
+        },
+        {
+          "heading": "Teaching point",
+          "body": "The line 'I never rest, yet never race' presents a contrast: the river is always moving, but not in a hurried way."
+        }
+      ],
+      "questions": [
+        {
+          "id": "f1",
+          "prompt": "What does the river carry across the lands?",
+          "options": [
+            "Stones",
+            "Light",
+            "Roots",
+            "Clouds"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Stones are mentioned, but the river curls through them, not carries them across lands.",
+            "Correct: line 2 says the river carries light across the lands.",
+            "Roots are sung to, not carried.",
+            "Clouds are mirrored, not carried."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 2,
+              "lineEnd": 2,
+              "quote": "And carry light across the lands."
+            }
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "What does the river's low hum tell the hills?",
+          "options": [
+            "That the river is angry",
+            "That rain is coming",
+            "That the hills should be quiet",
+            "That the river is sleeping"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The hum is steady, not angry.",
+            "Correct: lines 3-4 say the hum tells the hills that rain will come.",
+            "The hills are told about rain, not to be quiet.",
+            "The river never rests, so it is not sleeping."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 3,
+              "lineEnd": 4,
+              "quote": "My voice is low, a steady hum, That tells the hills that rain will come."
+            }
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "From the poem, what can we infer about the river's movement?",
+          "options": [
+            "It is always still.",
+            "It moves quickly and stops often.",
+            "It moves constantly but not too fast.",
+            "It only moves at night."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Line 13 says 'I never rest,' so it is not always still.",
+            "It 'never race[s],' so it does not move too fast.",
+            "Correct: it never rests and never races, meaning it moves constantly but not too fast.",
+            "The poem does not say it only moves at night."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 13,
+              "lineEnd": 14,
+              "quote": "I never rest, yet never race, I find my way from place to place."
+            }
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "What does the word 'ledges' most likely mean in line 5?",
+          "options": [
+            "Flat stones",
+            "Narrow shelves of rock",
+            "Deep pools",
+            "Sandy banks"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Ledges are not described as flat stones here.",
+            "Correct: ledges are narrow shelves of rock that the river leaps from.",
+            "Pools are bodies of water, not ledges.",
+            "Banks are edges of the river, not ledges."
+          ],
+          "skill": "vocabulary",
+          "evidence": [
+            {
+              "lineStart": 5,
+              "lineEnd": 5,
+              "quote": "I leap from ledges, cold and clear,"
+            }
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "What does the river mean by 'silver hands' in line 1?",
+          "options": [
+            "The river has real hands.",
+            "The river's water looks shiny and moves like hands.",
+            "The river is holding silver coins.",
+            "The stones are made of silver."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The river is personified; it does not have real hands.",
+            "Correct: 'silver hands' is a metaphor for the shiny, moving water.",
+            "There are no coins in the poem.",
+            "The stones are not said to be silver."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 1,
+              "quote": "I curl through stones with silver hands,"
+            }
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "How many stanzas does the poem have?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "There are four stanzas, not two.",
+            "There are four stanzas, not three.",
+            "Correct: the poem has four stanzas of four lines each.",
+            "There are four stanzas, not five."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 16,
+              "quote": "I curl through stones with silver hands, And carry light across the lands. My voice is low, a steady hum, That tells the hills that rain will come. I leap from ledges, cold and clear, And sing to roots that lean to hear. I turn the mill wheel, round and round, Then slide beneath the sleepy town. I mirror clouds and swallow sky, Then watch the thirsty heron fly. I am the thread that stitches shores, The map that every fish explores. I never rest, yet never race, I find my way from place to place. I hold the moon in one long line, And all the starlight, too, is mine."
+            }
+          ]
+        }
+      ],
+      "poetryLevel": "Foundation"
+    },
+    {
+      "id": "w_2026_w42_3_whispers_of_the_old_oak_advanced",
+      "title": "Whispers of the Old Oak",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content generated for Young Writers Lab."
+      },
+      "type": "poetry",
+      "stanzas": [
+        [
+          "Standing tall against the autumn breeze,",
+          "The ancient oak whispers to the trees.",
+          "Its leafy crown is laced with gold,",
+          "A thousand secret stories told."
+        ],
+        [
+          "Rooted deep in the silent ground,",
+          "It listens closely without a sound.",
+          "When winter whispers cold and low,",
+          "It wraps its giant arms in snow."
+        ],
+        [
+          "Though stormy winds may push and pull,",
+          "Its heart remains steadfast and full.",
+          "A quiet sentinel, wise and grand,",
+          "It guards the secrets of the land."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "sentinel",
+          "explanation": "A guard whose job is to stand and watch."
+        },
+        {
+          "term": "steadfast",
+          "explanation": "Firm, fixed, and unwavering."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "Personification in Nature",
+          "body": "The poem gives human qualities to the oak tree, such as whispering, listening, and wrapping its arms."
+        },
+        {
+          "heading": "Rhyme Scheme",
+          "body": "Each stanza uses an AABB rhyming pattern to create a smooth, rhythmic structure."
+        }
+      ],
+      "questions": [
+        {
+          "id": "a1",
+          "prompt": "According to the last line, what does the tree guard?",
+          "options": [
+            "Buried treasure",
+            "The secrets of the land",
+            "The autumn breeze",
+            "A flock of birds"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. Treasure is not mentioned.",
+            "Correct. Line 12 explicitly states 'It guards the secrets of the land.'",
+            "Incorrect. The breeze is mentioned earlier in stanza 1.",
+            "Incorrect. Birds are not mentioned in line 12."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 12,
+              "lineEnd": 12,
+              "quote": "It guards the secrets of the land."
+            }
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "What overarching theme is reflected in the tree's resilience through autumn, winter, and storms?",
+          "options": [
+            "Nature is constantly changing and destroying itself.",
+            "Endurance and quiet strength allow one to withstand life's changes.",
+            "Winter is the most dangerous season for all living things.",
+            "Trees are superior to all other living creatures."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The tree endures, it is not destroyed.",
+            "Correct. The oak stands firm and peaceful throughout changing seasons and harsh winds.",
+            "Incorrect. Winter is depicted peacefully, wrapping the tree in snow.",
+            "Incorrect. The poem does not make a superiority comparison."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 10,
+              "quote": "Standing tall against the autumn breeze, The ancient oak whispers to the trees. Its leafy crown is laced with gold, A thousand secret stories told. Rooted deep in the silent ground, It listens closely without a sound. When winter whispers cold and low, It wraps its giant arms in snow. Though stormy winds may push and pull, Its heart remains steadfast and full."
+            }
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "How does the mood shift from stanza 1 to stanza 3?",
+          "options": [
+            "From gentle reflection to protective strength.",
+            "From chaotic anger to sudden fear.",
+            "From sad mourning to cheerful humor.",
+            "From excitement to complete silence."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct. Stanza 1 focuses on golden beauty and soft whispers, while stanza 3 emphasizes endurance against storms and standing guard.",
+            "Incorrect. The oak never displays anger or fear.",
+            "Incorrect. The poem is neither mournful nor humorous.",
+            "Incorrect. The tree is quiet throughout, but its role becomes more protective."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 12,
+              "quote": "Standing tall against the autumn breeze, The ancient oak whispers to the trees. Its leafy crown is laced with gold, A thousand secret stories told. Rooted deep in the silent ground, It listens closely without a sound. When winter whispers cold and low, It wraps its giant arms in snow. Though stormy winds may push and pull, Its heart remains steadfast and full. A quiet sentinel, wise and grand, It guards the secrets of the land."
+            }
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "Which word best serves as a synonym for 'sentinel' as used in line 11?",
+          "options": [
+            "Protector",
+            "Stranger",
+            "Ruler",
+            "Follower"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct. A sentinel guards and watches over a area, making 'protector' an accurate synonym.",
+            "Incorrect. A sentinel is intimately connected to the place it watches.",
+            "Incorrect. A sentinel guards rather than rules.",
+            "Incorrect. A sentinel stands lead guard, not a follower."
+          ],
+          "skill": "vocabulary",
+          "evidence": [
+            {
+              "lineStart": 11,
+              "lineEnd": 11,
+              "quote": "A quiet sentinel, wise and grand,"
+            }
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "How does the metaphor 'leafy crown' contribute to the imagery of the poem?",
+          "options": [
+            "It shows that the tree belongs to a human king.",
+            "It portrays the top of the tree as majestic and royal.",
+            "It indicates that the tree is heavy and about to fall.",
+            "It suggests the tree is made entirely of metal."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The tree is not owned by a king.",
+            "Correct. Describing the treetop leaves as a 'crown laced with gold' gives it a majestic, royal quality.",
+            "Incorrect. A crown does not imply weakness or falling.",
+            "Incorrect. 'Laced with gold' describes the autumn color imagery, not real metal."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 3,
+              "lineEnd": 3,
+              "quote": "Its leafy crown is laced with gold,"
+            }
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "How does the poet organize the timeline across the three stanzas?",
+          "options": [
+            "By jumping backward from old age to seedling stage.",
+            "By moving chronologically through seasonal challenges.",
+            "By focusing entirely on a single minute in time.",
+            "By alternating between past history and future predictions."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The tree remains an ancient oak throughout.",
+            "Correct. Stanza 1 introduces autumn, Stanza 2 moves to winter, and Stanza 3 addresses enduring storms overall.",
+            "Incorrect. The poem spans multiple seasons.",
+            "Incorrect. The poem presents an ongoing picture of nature rather than alternating timelines."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 12,
+              "quote": "Standing tall against the autumn breeze, The ancient oak whispers to the trees. Its leafy crown is laced with gold, A thousand secret stories told. Rooted deep in the silent ground, It listens closely without a sound. When winter whispers cold and low, It wraps its giant arms in snow. Though stormy winds may push and pull, Its heart remains steadfast and full. A quiet sentinel, wise and grand, It guards the secrets of the land."
+            }
+          ]
+        }
+      ],
+      "poetryLevel": "Advanced"
+    },
+    {
+      "id": "w_2026_w42_3_whispers_of_the_old_oak_developing",
+      "title": "Whispers of the Old Oak",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content generated for Young Writers Lab."
+      },
+      "type": "poetry",
+      "stanzas": [
+        [
+          "Standing tall against the autumn breeze,",
+          "The ancient oak whispers to the trees.",
+          "Its leafy crown is laced with gold,",
+          "A thousand secret stories told."
+        ],
+        [
+          "Rooted deep in the silent ground,",
+          "It listens closely without a sound.",
+          "When winter whispers cold and low,",
+          "It wraps its giant arms in snow."
+        ],
+        [
+          "Though stormy winds may push and pull,",
+          "Its heart remains steadfast and full.",
+          "A quiet sentinel, wise and grand,",
+          "It guards the secrets of the land."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "sentinel",
+          "explanation": "A guard whose job is to stand and watch."
+        },
+        {
+          "term": "steadfast",
+          "explanation": "Firm, fixed, and unwavering."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "Personification in Nature",
+          "body": "The poem gives human qualities to the oak tree, such as whispering, listening, and wrapping its arms."
+        },
+        {
+          "heading": "Rhyme Scheme",
+          "body": "Each stanza uses an AABB rhyming pattern to create a smooth, rhythmic structure."
+        }
+      ],
+      "questions": [
+        {
+          "id": "d1",
+          "prompt": "What setting detail is given about the tree's position in stanza 2?",
+          "options": [
+            "It stands on top of a mountain.",
+            "It is rooted deep in the silent ground.",
+            "It floats upon a calm lake.",
+            "It is planted inside a garden pot."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. Mountains are not mentioned.",
+            "Correct. Line 5 explicitly states it is 'Rooted deep in the silent ground'.",
+            "Incorrect. Lakes are not mentioned.",
+            "Incorrect. Pots are not mentioned."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 5,
+              "lineEnd": 5,
+              "quote": "Rooted deep in the silent ground,"
+            }
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "What does 'A thousand secret stories told' suggest about the ancient oak?",
+          "options": [
+            "The tree has experienced a lot of history over time.",
+            "The tree speaks out loud to visitors every day.",
+            "The tree wrote a book for children.",
+            "The tree is very young and new to the forest."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct. Having 'secret stories' implies age and witnessing many past events.",
+            "Incorrect. The tree's stories are symbolic and quiet.",
+            "Incorrect. Trees do not write physical books.",
+            "Incorrect. The tree is described as 'ancient'."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 4,
+              "lineEnd": 4,
+              "quote": "A thousand secret stories told."
+            }
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "Why is the tree called 'wise' in line 11?",
+          "options": [
+            "Because it went to school.",
+            "Because it has survived many seasons and observed nature quietly.",
+            "Because it can speak human languages.",
+            "Because it moves around the forest."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. Trees do not attend school.",
+            "Correct. Its long life, standing guard, and quiet observation give it a wise presence.",
+            "Incorrect. The tree does not talk like a human.",
+            "Incorrect. The tree is stationary."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 11,
+              "lineEnd": 12,
+              "quote": "A quiet sentinel, wise and grand, It guards the secrets of the land."
+            }
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "What does 'steadfast' mean as used in line 10?",
+          "options": [
+            "Weak and fragile",
+            "Firm and unchanging",
+            "Fast and moving",
+            "Scared and hiding"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. Steadfast is the opposite of fragile.",
+            "Correct. Steadfast means firm, unyielding, and strong.",
+            "Incorrect. 'Fast' in this context does not mean speed.",
+            "Incorrect. The tree is brave, not scared."
+          ],
+          "skill": "vocabulary",
+          "evidence": [
+            {
+              "lineStart": 10,
+              "lineEnd": 10,
+              "quote": "Its heart remains steadfast and full."
+            }
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "What figure of speech is used in 'It wraps its giant arms in snow'?",
+          "options": [
+            "Simile",
+            "Personification",
+            "Onomatopoeia",
+            "Alliteration"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. There is no 'like' or 'as' comparison.",
+            "Correct. Calling branches 'arms' and saying it 'wraps' them personifies the tree.",
+            "Incorrect. No sound words are used.",
+            "Incorrect. This line does not primarily rely on repeating consonant sounds."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 8,
+              "lineEnd": 8,
+              "quote": "It wraps its giant arms in snow."
+            }
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "What is the rhyme scheme of the first stanza?",
+          "options": [
+            "ABAB",
+            "AABB",
+            "ABCB",
+            "AAAA"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. Line 1 rhymes with line 2, not line 3.",
+            "Correct. Breeze/trees (A) rhyme, and gold/told (B) rhyme, forming AABB.",
+            "Incorrect. Lines 1 and 2 rhyme with each other.",
+            "Incorrect. The rhymes change after the second line."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 4,
+              "quote": "Standing tall against the autumn breeze, The ancient oak whispers to the trees. Its leafy crown is laced with gold, A thousand secret stories told."
+            }
+          ]
+        }
+      ],
+      "poetryLevel": "Developing"
+    },
+    {
+      "id": "w_2026_w42_3_whispers_of_the_old_oak_foundation",
+      "title": "Whispers of the Old Oak",
+      "schoolYearMin": 5,
+      "schoolYearMax": 6,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content generated for Young Writers Lab."
+      },
+      "type": "poetry",
+      "stanzas": [
+        [
+          "Standing tall against the autumn breeze,",
+          "The ancient oak whispers to the trees.",
+          "Its leafy crown is laced with gold,",
+          "A thousand secret stories told."
+        ],
+        [
+          "Rooted deep in the silent ground,",
+          "It listens closely without a sound.",
+          "When winter whispers cold and low,",
+          "It wraps its giant arms in snow."
+        ],
+        [
+          "Though stormy winds may push and pull,",
+          "Its heart remains steadfast and full.",
+          "A quiet sentinel, wise and grand,",
+          "It guards the secrets of the land."
+        ]
+      ],
+      "glossary": [
+        {
+          "term": "sentinel",
+          "explanation": "A guard whose job is to stand and watch."
+        },
+        {
+          "term": "steadfast",
+          "explanation": "Firm, fixed, and unwavering."
+        }
+      ],
+      "explanations": [
+        {
+          "heading": "Personification in Nature",
+          "body": "The poem gives human qualities to the oak tree, such as whispering, listening, and wrapping its arms."
+        },
+        {
+          "heading": "Rhyme Scheme",
+          "body": "Each stanza uses an AABB rhyming pattern to create a smooth, rhythmic structure."
+        }
+      ],
+      "questions": [
+        {
+          "id": "f1",
+          "prompt": "What color is laced in the oak tree's leafy crown?",
+          "options": [
+            "Silver",
+            "Gold",
+            "Green",
+            "Red"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The poem specifies gold, not silver.",
+            "Correct. Line 3 explicitly states the crown is laced with gold.",
+            "Incorrect. Green is not mentioned in line 3.",
+            "Incorrect. Red is not mentioned in the poem."
+          ],
+          "skill": "literal",
+          "evidence": [
+            {
+              "lineStart": 3,
+              "lineEnd": 3,
+              "quote": "Its leafy crown is laced with gold,"
+            }
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "What does the oak tree do during winter?",
+          "options": [
+            "It loses all its roots.",
+            "It gets covered in snow.",
+            "It runs away from the storm.",
+            "It cuts down its branches."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The tree remains rooted deep in the ground.",
+            "Correct. Wrapping its arms in snow implies snow builds up on its branches.",
+            "Incorrect. Trees cannot run away.",
+            "Incorrect. The tree does not cut its own branches."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 7,
+              "lineEnd": 8,
+              "quote": "When winter whispers cold and low, It wraps its giant arms in snow."
+            }
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "How does the tree react to stormy winds?",
+          "options": [
+            "It falls down immediately.",
+            "It stays strong and unyielding.",
+            "It complains out loud.",
+            "It loses its wisdom."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The tree does not fall.",
+            "Correct. 'Steadfast' shows that the tree stays strong despite the wind.",
+            "Incorrect. The tree is silent and calm.",
+            "Incorrect. It remains wise and grand."
+          ],
+          "skill": "inference",
+          "evidence": [
+            {
+              "lineStart": 9,
+              "lineEnd": 10,
+              "quote": "Though stormy winds may push and pull, Its heart remains steadfast and full."
+            }
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "In line 11, what does the word 'sentinel' mean?",
+          "options": [
+            "A traveler",
+            "A guard or watcher",
+            "A young child",
+            "A musical instrument"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. A sentinel stays in place to guard.",
+            "Correct. A sentinel refers to a guard or watchman.",
+            "Incorrect. Sentinel does not mean child.",
+            "Incorrect. Sentinel is not an instrument."
+          ],
+          "skill": "vocabulary",
+          "evidence": [
+            {
+              "lineStart": 11,
+              "lineEnd": 11,
+              "quote": "A quiet sentinel, wise and grand,"
+            }
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "Which line contains personification?",
+          "options": [
+            "Rooted deep in the silent ground,",
+            "The ancient oak whispers to the trees.",
+            "Its leafy crown is laced with gold,",
+            "Though stormy winds may push and pull,"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. This describes the physical tree roots in dirt.",
+            "Correct. Whispering is a human action given to the tree.",
+            "Incorrect. This is descriptive imagery.",
+            "Incorrect. This describes wind action."
+          ],
+          "skill": "figurative_language",
+          "evidence": [
+            {
+              "lineStart": 2,
+              "lineEnd": 2,
+              "quote": "The ancient oak whispers to the trees."
+            }
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "How many stanzas are in this poem?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. There are more than 2 stanzas.",
+            "Correct. The poem is divided into 3 distinct four-line stanzas.",
+            "Incorrect. There are only 3 stanzas.",
+            "Incorrect. There are only 3 stanzas."
+          ],
+          "skill": "structure",
+          "evidence": [
+            {
+              "lineStart": 1,
+              "lineEnd": 12,
+              "quote": "Standing tall against the autumn breeze, The ancient oak whispers to the trees. Its leafy crown is laced with gold, A thousand secret stories told. Rooted deep in the silent ground, It listens closely without a sound. When winter whispers cold and low, It wraps its giant arms in snow. Though stormy winds may push and pull, Its heart remains steadfast and full. A quiet sentinel, wise and grand, It guards the secrets of the land."
+            }
+          ]
+        }
+      ],
+      "poetryLevel": "Foundation"
+    },
+    {
+      "id": "w_2026_w42_comparative_1_d6d3b32491",
+      "title": "Architectural Preservation vs. Modern Innovation",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w42_comparative_1_d6d3b32491_passage_1",
+          "title": "The Integrity of Heritage",
+          "body": "Historic architecture serves as the tangible memory of a city, offering an irreplaceable link to cultural lineage. When old structures are demolished to make way for modern glass towers, urban environments lose their distinct aesthetic identity and emotional depth. Preservation is not merely a nostalgic sentiment; it is a vital strategy for sustainable urban development. Retrofitting existing buildings drastically reduces carbon emissions compared to manufacturing new steel and concrete. Furthermore, classical masonry and traditional design foster a unique sense of place that contemporary, commodified developments rarely replicate. Older neighborhoods encourage pedestrian activity, small business growth, and social cohesion through their human-scaled design. Allowing unchecked modernization undermines the historic character that defines our public spaces. To safeguard urban soul, city planners must strictly enforce preservation ordinances that protect historic structures from speculative demolition."
+        },
+        {
+          "id": "w_2026_w42_comparative_1_d6d3b32491_passage_2",
+          "title": "Designing for the Future",
+          "body": "Fixating on architectural preservation risks converting dynamic cities into static open-air museums. Urban centers must continuously evolve to accommodate growing populations, technological advancements, and changing modern needs. Older structures often suffer from structural inefficiencies, high maintenance costs, and poor energy performance that retrofitting cannot completely fix. Contemporary architecture prioritizes functional adaptability, smart materials, and flexible spaces essential for modern work and life. By embracing innovative designs, cities can create affordable housing, advanced transit hubs, and accessible public facilities. Rigid preservation laws frequently inflate housing costs and delay necessary infrastructure improvements by prioritizing aesthetic nostalgia over human utility. A truly vibrant urban landscape balances historical appreciation with bold modern development, ensuring that cities remain functional hubs for future generations rather than museum artifacts frozen in time."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w42_comparative_1_d6d3b32491_question_1",
+          "prompt": "According to Passage 1, what environmental benefit does retrofitting existing buildings provide?",
+          "options": [
+            "It significantly lowers carbon emissions relative to new construction.",
+            "It eliminates the need for modern heating systems.",
+            "It completely avoids the generation of landfill waste.",
+            "It restores natural ecosystems around urban centers."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "This option directly reflects the text's statement about reducing carbon emissions.",
+            "The text mentions carbon reduction, not heating systems.",
+            "Landfill waste is not mentioned in the passage.",
+            "Restoring natural ecosystems is not cited as a benefit of retrofitting."
+          ],
+          "skill": "literal",
+          "passageIds": [
+            "w_2026_w42_comparative_1_d6d3b32491_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_1_d6d3b32491_passage_1",
+              "quote": "Retrofitting existing buildings drastically reduces carbon emissions compared to manufacturing new steel and concrete."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_1_d6d3b32491_question_2",
+          "prompt": "Based on Passage 2, what can be inferred about the author's view on strict preservation laws?",
+          "options": [
+            "They are essential for preserving the economic value of real estate.",
+            "They hinder economic growth and modern living standards.",
+            "They guarantee high structural safety standards for older buildings.",
+            "They encourage creative architectural blending in new projects."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The author argues preservation laws inflate housing costs negatively, not beneficially.",
+            "Delaying infrastructure and inflating housing costs indicates a hindrance to modern living standards.",
+            "The author notes older buildings have structural inefficiencies rather than guaranteed safety.",
+            "Passage 2 claims strict laws block innovation rather than encourage creative blending."
+          ],
+          "skill": "inference",
+          "passageIds": [
+            "w_2026_w42_comparative_1_d6d3b32491_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_1_d6d3b32491_passage_2",
+              "quote": "Rigid preservation laws frequently inflate housing costs and delay necessary infrastructure improvements by prioritizing aesthetic nostalgia over human utility."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_1_d6d3b32491_question_3",
+          "prompt": "As used in Passage 1, what does the word 'commodified' most nearly mean?",
+          "options": [
+            "Designed with intricate artistic details",
+            "Constructed using recycled industrial materials",
+            "Treated purely as a commercial product",
+            "Reserved exclusively for public ownership"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "The context contrasts commodified design with detailed, unique traditional design.",
+            "The term refers to economic valuation, not recycled material use.",
+            "Commodified means treating something primarily as an item for transaction or commercial gain.",
+            "Commodified developments are driven by commercial markets, not public ownership."
+          ],
+          "skill": "vocabulary",
+          "passageIds": [
+            "w_2026_w42_comparative_1_d6d3b32491_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_1_d6d3b32491_passage_1",
+              "quote": "Furthermore, classical masonry and traditional design foster a unique sense of place that contemporary, commodified developments rarely replicate."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_1_d6d3b32491_question_4",
+          "prompt": "Which statement best summarizes the core conflict between the two authors?",
+          "options": [
+            "Passage 1 advocates for suburban growth, while Passage 2 focuses on high-density urban housing.",
+            "Passage 1 rejects all modern technology, while Passage 2 advocates demolishing all old buildings.",
+            "Passage 1 focuses on building costs, while Passage 2 focuses exclusively on environmental safety.",
+            "Passage 1 prioritizes historic character, while Passage 2 prioritizes modern utility."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Neither passage discusses suburban growth or shifts focus away from urban centers.",
+            "Both authors present nuanced arguments rather than extreme, absolute positions.",
+            "Both passages discuss broader social and structural issues beyond mere construction costs.",
+            "Passage 1 values historical identity while Passage 2 emphasizes modern functional needs."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w42_comparative_1_d6d3b32491_passage_1",
+            "w_2026_w42_comparative_1_d6d3b32491_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_1_d6d3b32491_passage_1",
+              "quote": "To safeguard urban soul, city planners must strictly enforce preservation ordinances that protect historic structures from speculative demolition."
+            },
+            {
+              "passageId": "w_2026_w42_comparative_1_d6d3b32491_passage_2",
+              "quote": "A truly vibrant urban landscape balances historical appreciation with bold modern development, ensuring that cities remain functional hubs for future generations rather than museum artifacts frozen in time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_comparative_2_423801a762",
+      "title": "Digital Textbooks vs. Print Media in Education",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 15,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w42_comparative_2_423801a762_passage_1",
+          "title": "The Enduring Power of Print",
+          "body": "Despite the rise of digital learning platforms, physical textbooks remain an essential tool for deep comprehension and sustained attention. Reading printed text offers tactile feedback that helps students construct spatial cognitive maps of information, leading to superior recall and conceptual mastery. In contrast, digital screens encourage superficial skimming, rapid task-switching, and cognitive fatigue. The persistent temptation of hyperlinked content and digital notifications inevitably fractures concentration during study sessions. Furthermore, prolonged screen exposure causes visual strain and sleep disruption, hindering academic performance. While e-textbooks are praised for portability, they sacrifice the immersive, distraction-free environment that physical books naturally provide. Print technology has refined the learning process over centuries, fostering deep analytical thinking. Educational institutions must not prematurely abandon print media in favor of digital devices, as doing so risks compromising critical reading skills and reducing overall student engagement."
+        },
+        {
+          "id": "w_2026_w42_comparative_2_423801a762_passage_2",
+          "title": "Embracing Digital Pedagogy",
+          "body": "Insisting on traditional print textbooks overlooks the immense educational potential of dynamic digital platforms. Interactive e-textbooks offer multimodal features—such as embedded videos, audio clips, and instant translation tools—that accommodate diverse learning styles and improve accessibility. Digital materials can be instantly updated to reflect current scientific discoveries, whereas physical textbooks become obsolete within a few years. Additionally, the lighter burden of carrying digital devices prevents physical strain on students, while cloud integration allows seamless collaboration between peers and instructors. Digital platforms also provide real-time performance analytics, helping educators tailor instruction to individual student needs immediately. While screen distraction is a valid concern, teaching digital literacy and self-regulation is far more beneficial than avoiding technology. Embracing digital media prepares students for modern workforce demands, offering an adaptable learning experience that static printed pages simply cannot deliver."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w42_comparative_2_423801a762_question_1",
+          "prompt": "What is the primary purpose of Passage 1?",
+          "options": [
+            "To urge schools to retain physical textbooks because of their cognitive and focus benefits.",
+            "To argue that all digital devices should be completely banned in classrooms.",
+            "To present statistical evidence comparing student test scores across formats.",
+            "To explain the manufacturing history of educational paper products."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "The author directly warns against abandoning print due to cognitive and attention benefits.",
+            "The author focuses on textbooks, not a complete ban on all technology.",
+            "The passage provides arguments regarding cognition, not statistical test score comparisons.",
+            "The history of paper production is not discussed in the text."
+          ],
+          "skill": "author_purpose",
+          "passageIds": [
+            "w_2026_w42_comparative_2_423801a762_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_2_423801a762_passage_1",
+              "quote": "Educational institutions must not prematurely abandon print media in favor of digital devices, as doing so risks compromising critical reading skills and reducing overall student engagement."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_2_423801a762_question_2",
+          "prompt": "How does Passage 2 structure its argument in response to concerns about screen distraction?",
+          "options": [
+            "By presenting empirical data that proves screen distraction does not exist.",
+            "By acknowledging the concern and offering a constructive educational counter-strategy.",
+            "By ignoring the issue entirely to focus on financial advantages.",
+            "By blaming teachers for failing to monitor student screen usage."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The author concedes distraction is valid rather than presenting data denying it.",
+            "The author admits distraction occurs but advocates teaching digital literacy as a solution.",
+            "The passage directly addresses screen distraction rather than ignoring it.",
+            "The author does not place blame on teachers in the passage."
+          ],
+          "skill": "structure",
+          "passageIds": [
+            "w_2026_w42_comparative_2_423801a762_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_2_423801a762_passage_2",
+              "quote": "While screen distraction is a valid concern, teaching digital literacy and self-regulation is far more beneficial than avoiding technology."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_2_423801a762_question_3",
+          "prompt": "As used in Passage 2, what does the word 'obsolete' most nearly mean?",
+          "options": [
+            "Physically damaged from wear",
+            "Prohibitively expensive to buy",
+            "Outdated or no longer useful",
+            "Difficult to comprehend fully"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "The text refers to outdated information, not physical wear and tear.",
+            "Obsolete relates to currency of content, not purchase price.",
+            "Obsolete in this context refers to information becoming out of date over time.",
+            "The term refers to freshness of material, not reading comprehension level."
+          ],
+          "skill": "vocabulary",
+          "passageIds": [
+            "w_2026_w42_comparative_2_423801a762_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_2_423801a762_passage_2",
+              "quote": "Digital materials can be instantly updated to reflect current scientific discoveries, whereas physical textbooks become obsolete within a few years."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_2_423801a762_question_4",
+          "prompt": "How do the authors differ in their assessment of learning tools?",
+          "options": [
+            "Passage 1 focuses on athletic health, while Passage 2 focuses on classroom discipline.",
+            "Passage 1 supports digital learning for older students, while Passage 2 opposes it.",
+            "Passage 1 emphasizes economic savings, while Passage 2 emphasizes historic educational traditions.",
+            "Passage 1 values focused cognitive processing, while Passage 2 values adaptable and interactive learning."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Neither author centers their argument on athletic health or discipline.",
+            "Passage 1 advocates print generally without age restrictions.",
+            "Passage 1 discusses cognitive health, while Passage 2 argues against relying solely on tradition.",
+            "Passage 1 stresses focus and deep recall, whereas Passage 2 highlights interactivity and adaptability."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w42_comparative_2_423801a762_passage_1",
+            "w_2026_w42_comparative_2_423801a762_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_2_423801a762_passage_1",
+              "quote": "While e-textbooks are praised for portability, they sacrifice the immersive, distraction-free environment that physical books naturally provide."
+            },
+            {
+              "passageId": "w_2026_w42_comparative_2_423801a762_passage_2",
+              "quote": "Embracing digital media prepares students for modern workforce demands, offering an adaptable learning experience that static printed pages simply cannot deliver."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_comparative_3_fc01d9bf79",
+      "title": "Urban Rewilding Debates",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 12,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w42_comparative_3_fc01d9bf79_passage_1",
+          "title": "The Case for Spontaneous Urban Rewilding",
+          "body": "Urban rewilding offers a transformative approach to city ecology by allowing native flora to regenerate spontaneously. Rather than maintaining manicured lawns, cities should embrace unmanaged green spaces that foster complex biodiverse micro-habitats. Proponents emphasize that uncurated vegetation dramatically increases pollinator populations, mitigates urban heat islands, and reduces the carbon footprint associated with constant mowing and chemical intervention. Furthermore, exposure to untamed natural pockets enhances human psychological resilience, offering urban dwellers an authentic sensory connection to wild natural dynamics. Critics often dismiss these untended zones as unsightly or negligent, but such views stem from outdated aesthetic paradigms that prioritize artificial control over ecological vitality. Transforming public perception requires celebrating unscripted ecological succession as a vibrant, essential component of sustainable modern infrastructure. By stepping back, municipal planners can build resilient urban ecosystems while drastically lowering maintenance costs."
+        },
+        {
+          "id": "w_2026_w42_comparative_3_fc01d9bf79_passage_2",
+          "title": "The Necessity of Managed Urban Horticulture",
+          "body": "While ecological restoration in cities is essential, unmanaged urban rewilding poses significant practical and safety hazards. Uncontrolled vegetative growth can disrupt municipal infrastructure, causing root damage to sidewalks and obscuring traffic visibility at busy intersections. Moreover, unmonitored green pockets frequently become ideal breeding environments for invasive pests, such as ticks and rodents, which present distinct public health risks to dense human populations. Instead of passive abandonment, cities should implement intentionally designed, highly managed native plant landscapes. Structured green infrastructure—such as rain gardens and curated bioswales—delivers tailored ecological services, like stormwater filtration and carbon sequestration, without compromising public safety or civic order. Urban planning must balance biodiversity with human safety through deliberate horticultural design. True ecological stewardship in metropolitan areas requires active, disciplined management rather than passive neglect disguised as environmental progress."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w42_comparative_3_fc01d9bf79_question_1",
+          "prompt": "According to Passage 1, what benefit do unmanaged green spaces provide regarding energy and maintenance?",
+          "options": [
+            "They lower carbon footprints by cutting back on frequent mowing and chemical use.",
+            "They eliminate the need for urban storm drainage systems entirely.",
+            "They generate renewable solar power through dense leaf canopies.",
+            "They replace municipal road maintenance crews with ecological volunteers."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Passage 1 explicitly highlights reduced carbon footprints from less mowing and chemical intervention.",
+            "Passage 1 does not claim storm drainage systems are eliminated entirely.",
+            "The text never mentions solar power generation.",
+            "The passage does not suggest volunteers replace municipal road maintenance crews."
+          ],
+          "skill": "literal",
+          "passageIds": [
+            "w_2026_w42_comparative_3_fc01d9bf79_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_3_fc01d9bf79_passage_1",
+              "quote": "reduces the carbon footprint associated with constant mowing and chemical intervention."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_3_fc01d9bf79_question_2",
+          "prompt": "In Passage 2, what does the word 'tailored' most nearly mean in the context of ecological services?",
+          "options": [
+            "Stitched together using artificial fabrics",
+            "Customized for specific practical needs",
+            "Severely restricted by government regulation",
+            "Temporarily borrowed from rural environments"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The term is used metaphorically, not referring to physical fabric or stitching.",
+            "Here, 'tailored' means customized or specifically designed to deliver specific ecological benefits.",
+            "The context refers to functional design rather than legal restrictions.",
+            "The passage does not imply the services are borrowed from rural areas."
+          ],
+          "skill": "vocabulary",
+          "passageIds": [
+            "w_2026_w42_comparative_3_fc01d9bf79_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_3_fc01d9bf79_passage_2",
+              "quote": "Structured green infrastructure—such as rain gardens and curated bioswales—delivers tailored ecological services"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_3_fc01d9bf79_question_3",
+          "prompt": "How do the authors of Passage 1 and Passage 2 differ in their view of leaving urban spaces unmanaged?",
+          "options": [
+            "Passage 1 demands total removal of urban plants, while Passage 2 encourages wild forest expansion.",
+            "Passage 1 prefers formal flower beds, while Passage 2 advocates complete urban abandonment.",
+            "Passage 1 supports passive regeneration, while Passage 2 views unmanaged spaces as potential public safety hazards.",
+            "Passage 1 prioritizes economic profit, while Passage 2 focuses exclusively on human art."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Neither author advocates removing all plants or expanding wild forests unconditionally.",
+            "Passage 1 opposes manicured beds and Passage 2 rejects complete abandonment.",
+            "Passage 1 promotes spontaneous growth, whereas Passage 2 warns against safety risks of unmanaged areas.",
+            "Neither passage focuses primarily on commercial profit or human art."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w42_comparative_3_fc01d9bf79_passage_1",
+            "w_2026_w42_comparative_3_fc01d9bf79_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_3_fc01d9bf79_passage_1",
+              "quote": "cities should embrace unmanaged green spaces that foster complex biodiverse micro-habitats."
+            },
+            {
+              "passageId": "w_2026_w42_comparative_3_fc01d9bf79_passage_2",
+              "quote": "True ecological stewardship in metropolitan areas requires active, disciplined management rather than passive neglect disguised as environmental progress."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_3_fc01d9bf79_question_4",
+          "prompt": "What is the primary purpose of Passage 2?",
+          "options": [
+            "To promote complete reliance on unmanaged, wild urban wilderness",
+            "To argue that native plants should be banned from city parks",
+            "To detail the precise financial budgets of municipal planning departments",
+            "To advocate for structured, managed green infrastructure over unmanaged rewilding"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Passage 2 explicitly argues against unmanaged wilderness in favor of intentional control.",
+            "The author supports native plants, provided they are curated and managed effectively.",
+            "The passage discusses design principles rather than detailed financial budgets.",
+            "The author advocates structured native landscapes to balance ecology and human safety."
+          ],
+          "skill": "author_purpose",
+          "passageIds": [
+            "w_2026_w42_comparative_3_fc01d9bf79_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_3_fc01d9bf79_passage_2",
+              "quote": "Urban planning must balance biodiversity with human safety through deliberate horticultural design."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_comparative_4_69fb60b521",
+      "title": "Digital Textbooks vs. Print Media",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 12,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w42_comparative_4_69fb60b521_passage_1",
+          "title": "The Imperative of Digital Curricula",
+          "body": "Transitioning entirely to digital textbooks represents a necessary evolution in secondary education. Interactive e-texts allow dynamic updates, ensuring students receive current factual information without waiting for costly new print runs. Furthermore, digital platforms incorporate adaptive assessment tools, embedded multimedia, and instant text-to-speech accessibility features that accommodate diverse learning styles and neurodivergent students. Carrying a single tablet eliminates the physical burden of heavy backpacks, which directly benefits student orthopedic health. While skeptics highlight potential screen fatigue and digital distractions, proper pedagogical framing easily mitigates these issues. Modern educational software enables teachers to lock device screens during instruction and monitor student engagement in real time. Refusing to adopt digital textbooks deprives students of essential technological fluency required in contemporary university and professional environments. Schools must commit fully to dynamic digital platforms to ensure equitable, modern learning."
+        },
+        {
+          "id": "w_2026_w42_comparative_4_69fb60b521_passage_2",
+          "title": "The Indispensable Value of Physical Print",
+          "body": "Despite the rise of educational technology, physical print textbooks remain superior for deep cognitive processing and long-term knowledge retention. Cognitive neuroscience research consistently demonstrates that tactile reading on paper facilitates stronger spatial mapping of information, allowing students to navigate complex arguments more effectively than scrolling through digital screens. Screen-based reading often promotes superficial scanning and skimming behaviors, which undermines critical analytical thinking. Additionally, print books provide an analog sanctuary free from notifications, hyperlinks, and battery dependence, encouraging sustained concentration. While digital tools certainly have supplemental value for research, replacing print textbooks entirely damages foundational literacy and comprehension. Schools must resist the urge to discard print media in pursuit of technological novelty. Preserving physical textbooks safeguards student cognitive development and ensures immersive, uninterrupted study habits essential for academic excellence."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w42_comparative_4_69fb60b521_question_1",
+          "prompt": "Based on Passage 3, what can be inferred about traditional print textbooks regarding information accuracy?",
+          "options": [
+            "Print textbooks can easily become outdated because updating them requires expensive new printings.",
+            "Print textbooks automatically sync updates overnight using wireless networks.",
+            "Print textbooks are always more accurate because they undergo longer peer review.",
+            "Print textbooks are cheaper to revise than digital platforms."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "The author implies print texts lag factual updates due to the high cost of new print runs.",
+            "Print books are physical objects and cannot sync wirelessly.",
+            "The text does not state print books are inherently more accurate.",
+            "Passage 3 explicitly notes that print runs are costly compared to dynamic digital updates."
+          ],
+          "skill": "inference",
+          "passageIds": [
+            "w_2026_w42_comparative_4_69fb60b521_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_4_69fb60b521_passage_1",
+              "quote": "Interactive e-texts allow dynamic updates, ensuring students receive current factual information without waiting for costly new print runs."
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_4_69fb60b521_question_2",
+          "prompt": "How does the author of Passage 4 organize the main argument against replacing print textbooks?",
+          "options": [
+            "By listing the financial costs of tablets and detailing manufacturer warranties.",
+            "By citing neurological research, highlighting reading habits, and emphasizing the benefit of distraction-free study.",
+            "By recounting personal anecdotes from high school teachers who dislike screens.",
+            "By comparing standardized test scores across fifty different country school systems."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "The author does not discuss hardware costs or manufacturer warranties.",
+            "Passage 4 moves from cognitive research to reading behaviors and then to distraction-free environments.",
+            "The passage relies on general cognitive claims rather than personal teacher anecdotes.",
+            "No comparative international test score data is presented in the text."
+          ],
+          "skill": "structure",
+          "passageIds": [
+            "w_2026_w42_comparative_4_69fb60b521_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_4_69fb60b521_passage_2",
+              "quote": "Cognitive neuroscience research consistently demonstrates that tactile reading on paper facilitates stronger spatial mapping"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_4_69fb60b521_question_3",
+          "prompt": "Which aspect of student experience do BOTH passages address?",
+          "options": [
+            "The exact physical weight of print textbook backpacks in kilograms.",
+            "The financial cost of purchasing digital tablet licenses.",
+            "The presence of digital distractions when using electronic devices.",
+            "The health benefits of using text-to-speech software."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Neither passage provides exact weight measurements in kilograms.",
+            "Passage 4 does not analyze tablet licensing costs.",
+            "Passage 3 acknowledges digital distractions (and argues they are mitigable), while Passage 4 highlights freedom from them.",
+            "Passage 4 does not mention text-to-speech software or its health impacts."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w42_comparative_4_69fb60b521_passage_1",
+            "w_2026_w42_comparative_4_69fb60b521_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_4_69fb60b521_passage_1",
+              "quote": "While skeptics highlight potential screen fatigue and digital distractions, proper pedagogical framing easily mitigates these issues."
+            },
+            {
+              "passageId": "w_2026_w42_comparative_4_69fb60b521_passage_2",
+              "quote": "Additionally, print books provide an analog sanctuary free from notifications, hyperlinks, and battery dependence"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_4_69fb60b521_question_4",
+          "prompt": "According to Passage 4, what benefit does tactile reading on paper offer students?",
+          "options": [
+            "It allows students to automatically translate text into multiple foreign languages.",
+            "It guarantees higher scores on college entrance examinations.",
+            "It reduces the financial burden on school district administrative budgets.",
+            "It facilitates stronger spatial mapping of information for navigating complex arguments."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Paper reading does not offer automated text translation functions.",
+            "The passage does not make guarantees regarding college entrance exam scores.",
+            "The text does not discuss school district administrative budget reductions.",
+            "Passage 4 explicitly states that paper reading facilitates stronger spatial mapping of information."
+          ],
+          "skill": "literal",
+          "passageIds": [
+            "w_2026_w42_comparative_4_69fb60b521_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_4_69fb60b521_passage_2",
+              "quote": "tactile reading on paper facilitates stronger spatial mapping of information, allowing students to navigate complex arguments more effectively"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_comparative_5_8e7d024e07",
+      "title": "Urban Rewilding vs Managed Parks",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 12,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "comparative",
+      "passages": [
+        {
+          "id": "w_2026_w42_comparative_5_8e7d024e07_passage_1",
+          "title": "The Case for Urban Rewilding",
+          "body": "Traditional city parks often present a sterile, highly manicured environment that offers minimal benefit to local ecosystems. Urban rewilding advocates for letting native flora and fauna take over designated green spaces, creating biodiverse sanctuaries within dense metropolitan environments. Allowing native plants to grow unrestrained reduces municipal maintenance costs and significantly diminishes chemical runoff from fertilizers. Critics frequently argue that untamed patches appear unsightly or unkempt, yet this aesthetic perception stems from an outdated obsession with geometric symmetry. Spontaneous urban wildernesses actively absorb atmospheric pollutants, mitigate the severe urban heat island effect, and rebuild fragile insect populations. Furthermore, experiencing genuine natural complexity directly improves human psychological health by providing authentic sensory stimulation. Rather than spending valuable tax revenues on perpetual mowing and invasive weed control, cities must surrender central planning control over select parks, permitting spontaneous natural recovery to flourish organically for the ultimate benefit of urban ecology and public wellness."
+        },
+        {
+          "id": "w_2026_w42_comparative_5_8e7d024e07_passage_2",
+          "title": "The Value of Managed Public Spaces",
+          "body": "While urban rewilding possesses ecological appeal, completely unmanaged green spaces often fail to meet the multifaceted social needs of local communities. Deliberately designed public parks provide structured accessibility for civic gatherings, recreational athletics, and inclusive community programming. Uncontrolled vegetation frequently restricts visibility, creates real safety concerns for solitary pedestrians, and degrades universal accessibility for residents with physical mobility limitations. Additionally, unmaintained growth often harbors unwanted pests or invasive weeds that quickly spread into neighboring residential gardens, creating complex property disputes. Effective municipal management does not require total ecological destruction; instead, thoughtful landscape architecture can harmoniously integrate native flower beds alongside broad, well-maintained lawns and paved walking paths. By balancing environmental sustainability with intentional human utility, structured parks ensure that urban green areas remain universally welcoming, safe, and functional public assets. Municipal authorities must maintain active oversight to ensure these essential public spaces equitably serve all city residents effectively."
+        }
+      ],
+      "questions": [
+        {
+          "id": "w_2026_w42_comparative_5_8e7d024e07_question_1",
+          "prompt": "According to Passage 1, what is one financial benefit of adopting urban rewilding?",
+          "options": [
+            "It lowers municipal spending on park maintenance.",
+            "It eliminates the need for public park police.",
+            "It generates significant tourism revenue for cities.",
+            "It increases commercial real estate valuations nearby."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "The text directly states that letting native plants grow unrestrained reduces municipal maintenance costs.",
+            "Passage 1 does not mention park police forces at all.",
+            "Tourism revenue is not cited in Passage 1 as a financial benefit.",
+            "Real estate values are not discussed anywhere in Passage 1."
+          ],
+          "skill": "literal",
+          "passageIds": [
+            "w_2026_w42_comparative_5_8e7d024e07_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_5_8e7d024e07_passage_1",
+              "quote": "Allowing native plants to grow unrestrained reduces municipal maintenance costs"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_5_8e7d024e07_question_2",
+          "prompt": "Based on Passage 2, what can be inferred about the author's view on unmanaged vegetation?",
+          "options": [
+            "It automatically improves public safety in neighborhoods.",
+            "It can inadvertently compromise safety and accessibility for visitors.",
+            "It completely prevents invasive species from colonizing local gardens.",
+            "It eliminates all need for municipal property boundary disputes."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Passage 2 claims unmanaged vegetation causes safety concerns, not improvements.",
+            "The author links uncontrolled growth directly to impaired visibility, safety issues, and limited accessibility.",
+            "Passage 2 states unmaintained growth actually harbors invasive weeds that spread.",
+            "The passage notes unmanaged growth leads to property disputes, not their elimination."
+          ],
+          "skill": "inference",
+          "passageIds": [
+            "w_2026_w42_comparative_5_8e7d024e07_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_5_8e7d024e07_passage_2",
+              "quote": "Uncontrolled vegetation frequently restricts visibility, creates real safety concerns for solitary pedestrians"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_5_8e7d024e07_question_3",
+          "prompt": "As used in Passage 1, what does the word 'mitigate' most nearly mean?",
+          "options": [
+            "To intensify or magnify",
+            "To ignore or overlook",
+            "To lessen or make less severe",
+            "To establish or inaugurate"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Mitigate means to soften or reduce, which is the opposite of intensify.",
+            "The author promotes rewilding because it actively reduces heat, not ignores it.",
+            "In context, mitigate refers to reducing the severity of urban heat islands.",
+            "To establish means to create, whereas rewilding reduces pre-existing heat conditions."
+          ],
+          "skill": "vocabulary",
+          "passageIds": [
+            "w_2026_w42_comparative_5_8e7d024e07_passage_1"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_5_8e7d024e07_passage_1",
+              "quote": "mitigate the severe urban heat island effect"
+            }
+          ]
+        },
+        {
+          "id": "w_2026_w42_comparative_5_8e7d024e07_question_4",
+          "prompt": "Which statement best describes the fundamental disagreement between the authors of both passages?",
+          "options": [
+            "Whether native plants are capable of growing in urban environments.",
+            "Whether public tax dollars should be spent on urban infrastructure.",
+            "Whether atmospheric pollution is a serious concern for modern metropolitan areas.",
+            "Whether green spaces should prioritize natural autonomy or structured human utility."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Both authors agree native plants can grow in cities.",
+            "Neither author opposes spending tax dollars on urban infrastructure generally.",
+            "Neither passage disputes the reality or severity of urban pollution.",
+            "Passage 1 advocates surrendering control for ecological recovery, while Passage 2 argues for deliberate management for public utility."
+          ],
+          "skill": "comparison",
+          "passageIds": [
+            "w_2026_w42_comparative_5_8e7d024e07_passage_1",
+            "w_2026_w42_comparative_5_8e7d024e07_passage_2"
+          ],
+          "evidence": [
+            {
+              "passageId": "w_2026_w42_comparative_5_8e7d024e07_passage_1",
+              "quote": "cities must surrender central planning control over select parks"
+            },
+            {
+              "passageId": "w_2026_w42_comparative_5_8e7d024e07_passage_2",
+              "quote": "Municipal authorities must maintain active oversight to ensure these essential public spaces equitably serve all city residents effectively."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_gapped_text_11_777c2c87ea",
+      "title": "Gapped-text practice 1",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "Most teenagers know that sleep is important, but few understand the science behind it. During adolescence, the circadian rhythm shifts, making it harder for teens to fall asleep before 11 p.m. ",
+        " This delay is biologically driven, not just a matter of poor discipline. As a result, many students accumulate a sleep debt that affects their mood, memory, and academic performance. ",
+        " For instance, a study found that students who slept less than six hours a night were 30% more likely to report symptoms of depression. Furthermore, sleep deprivation impairs the prefrontal cortex, which is responsible for decision-making and impulse control. ",
+        " This means that tired teens may act more impulsively and struggle to focus in class. To combat this, some schools have experimented with later start times. ",
+        " Early results are promising: attendance improved, and grades in math and science rose. However, changing school schedules is not easy. It requires coordination among parents, teachers, and bus companies. ",
+        " Despite these challenges, the benefits for student health and learning make the effort worthwhile."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_gap_1",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_2",
+          "explanation": "The sentence explains why the circadian shift occurs, providing a logical cause for the delay mentioned in the previous sentence."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_gap_2",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_4",
+          "explanation": "The sentence introduces a specific example that supports the general statement about sleep debt affecting mood and performance."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_gap_3",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_1",
+          "explanation": "The pronoun 'This' refers back to the impairment of the prefrontal cortex, creating a clear reference link."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_gap_4",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_5",
+          "explanation": "The sentence describes a solution that logically follows the problem of early start times and leads to the results mentioned next."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_gap_5",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_3",
+          "explanation": "The sentence provides a contrasting point that logically precedes the concluding statement about overcoming challenges."
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_2",
+          "text": "The shift occurs because melatonin, the sleep hormone, is released about two hours later in adolescents than in children or adults."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_4",
+          "text": "For instance, a study found that students who slept less than six hours a night were 30% more likely to report symptoms of depression."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_1",
+          "text": "This means that tired teens may act more impulsively and struggle to focus in class."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_5",
+          "text": "These schools pushed back the first bell by an hour or more."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_3",
+          "text": "These logistical obstacles often discourage districts from making changes."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_11_777c2c87ea_sentence_6",
+          "text": "In contrast, some teens naturally prefer to wake up early and go to bed early."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_gapped_text_12_76f7a347b0",
+      "title": "Gapped-text practice 2",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "In an age of constant notifications, many young people are embracing digital minimalism. This philosophy encourages using technology intentionally rather than impulsively. ",
+        " By focusing on a few essential tools, individuals can reduce stress and improve their ability to concentrate. One common strategy is to delete social media apps from smartphones and access them only on computers. ",
+        " This physical separation makes scrolling less automatic and more deliberate. Another approach is to schedule specific times for checking email and messages. ",
+        " When people batch these tasks, they avoid the cognitive cost of constant context switching. However, digital minimalism is not about rejecting technology altogether. ",
+        " Instead, it promotes a mindful relationship with devices, where they serve as tools rather than masters. Critics argue that such a lifestyle is impractical in a connected world. ",
+        " Yet proponents counter that even small changes can lead to significant gains in well-being and productivity."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_gap_1",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_3",
+          "explanation": "The sentence elaborates on the philosophy by explaining the intended outcome of intentional tech use, linking to the next sentence about reducing stress."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_gap_2",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_1",
+          "explanation": "The pronoun 'This' refers back to the strategy of deleting apps from smartphones, creating a clear reference link."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_gap_3",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_4",
+          "explanation": "The sentence describes the result of scheduling specific times, which logically follows and supports the next sentence about avoiding context switching."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_gap_4",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_2",
+          "explanation": "The sentence clarifies the true aim of digital minimalism, contrasting with the idea of rejecting technology and leading into the mindful relationship idea."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_gap_5",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_5",
+          "explanation": "The sentence presents a counterargument that logically precedes the proponents' rebuttal in the final sentence."
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_3",
+          "text": "The goal is to use technology to support one's values, not to be controlled by it."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_1",
+          "text": "This physical separation makes scrolling less automatic and more deliberate."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_4",
+          "text": "When people batch these tasks, they avoid the cognitive cost of constant context switching."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_2",
+          "text": "Rather, it encourages a selective adoption of tools that truly add value."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_5",
+          "text": "They point out that social and professional obligations often require constant connectivity."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_12_76f7a347b0_sentence_6",
+          "text": "For example, many people find that turning off notifications helps them focus."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_gapped_text_13_95463cfd93",
+      "title": "The Rise of Urban Beekeeping",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "In recent years, urban beekeeping has gained popularity as a hobby and a means of supporting pollinator populations. City dwellers, concerned about the decline of bees, are installing hives on rooftops, balconies, and community gardens. ",
+        " These hives provide bees with a diverse diet from urban flora, often richer than rural monocultures. Moreover, the presence of bees in cities can improve local biodiversity. ",
+        " Many beekeepers report that tending to bees offers a calming escape from the stresses of modern life. Indeed, the meditative hum of a hive can be therapeutic. ",
+        " As a result, urban beekeeping has become a social activity, with clubs and online forums connecting enthusiasts. ",
+        " However, critics warn that too many hives in one area could lead to competition for nectar and harm wild bee species. Therefore, responsible beekeeping practices are essential to ensure a balanced ecosystem."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_gapped_text_13_95463cfd93_gap_1",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w42_gapped_text_13_95463cfd93_sentence_2",
+          "explanation": "Sentence B introduces the idea of urban flora providing diverse nutrition, which logically follows the mention of installing hives."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_13_95463cfd93_gap_2",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w42_gapped_text_13_95463cfd93_sentence_5",
+          "explanation": "Sentence E gives a concrete benefit of bees to urban gardens, supporting the previous claim about biodiversity."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_13_95463cfd93_gap_3",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w42_gapped_text_13_95463cfd93_sentence_1",
+          "explanation": "Sentence A describes the personal calming effect, which is then elaborated by the following sentence about the meditative hum."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_13_95463cfd93_gap_4",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w42_gapped_text_13_95463cfd93_sentence_4",
+          "explanation": "Sentence D presents the contrast of challenges, leading into the subsequent warning about competition."
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w42_gapped_text_13_95463cfd93_sentence_2",
+          "text": "These bees forage on a variety of flowers, trees, and shrubs found in parks and private gardens."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_13_95463cfd93_sentence_5",
+          "text": "This can lead to better pollination of local plants and increased fruit yields."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_13_95463cfd93_sentence_1",
+          "text": "For many, the hobby also provides a sense of connection to nature."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_13_95463cfd93_sentence_4",
+          "text": "Despite these benefits, urban beekeeping is not without its challenges."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_13_95463cfd93_sentence_3",
+          "text": "Urban areas often have fewer pesticides than agricultural regions."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_gapped_text_14_1c721cd2a8",
+      "title": "The Science of Sleep and Teenage Brains",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "Most teenagers have heard that they need eight to ten hours of sleep, yet few realise how deeply their daily habits shape their brain development. During adolescence, the body's internal clock shifts later, meaning that the natural signal to feel sleepy arrives around eleven o'clock at night rather than earlier in childhood.",
+        "This mismatch between biology and early school starts creates a chronic deficit that many students simply learn to tolerate. Researchers have found that losing even ninety minutes of sleep can impair memory consolidation, the process by which new information is stored for later recall.",
+        "As a result, a student who studies late into the night may remember less the next morning than one who reviews the same material briefly and then sleeps. Screen use adds another layer to the problem. The blue light emitted by phones and laptops suppresses melatonin, the hormone that prepares the body for rest.",
+        "Instead of blaming willpower alone, scientists suggest that changing the environment, such as charging devices outside the bedroom, is far more effective. Schools in some regions have responded by pushing start times back by an hour.",
+        "Critics argue that such changes disrupt family schedules and after-school activities, but the evidence for improved attendance and mood is hard to ignore. Ultimately, understanding sleep is not just about feeling less tired; it is about giving the teenage brain the conditions it needs to grow."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_gapped_text_14_1c721cd2a8_gap_1",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w42_gapped_text_14_1c721cd2a8_sentence_3",
+          "explanation": "This sentence explains the practical consequence of the shifted clock just described: teenagers are expected to wake early for school while their bodies still want to sleep."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_14_1c721cd2a8_gap_2",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w42_gapped_text_14_1c721cd2a8_sentence_1",
+          "explanation": "The following sentence begins with 'As a result', so the missing sentence must state the effect of poor memory consolidation on study habits."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_14_1c721cd2a8_gap_3",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w42_gapped_text_14_1c721cd2a8_sentence_5",
+          "explanation": "The gap follows a sentence about blue light suppressing melatonin, so the missing sentence should show how this biochemical effect keeps teenagers awake."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_14_1c721cd2a8_gap_4",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w42_gapped_text_14_1c721cd2a8_sentence_2",
+          "explanation": "The next sentence mentions 'such changes', so the gap must introduce the change of later school start times."
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w42_gapped_text_14_1c721cd2a8_sentence_3",
+          "text": "Yet school buses and first lessons still demand that they wake before seven on most weekdays."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_14_1c721cd2a8_sentence_1",
+          "text": "In practical terms, the brain simply cannot hold onto as much of that late-night revision as the student hopes."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_14_1c721cd2a8_sentence_5",
+          "text": "Consequently, the body receives a signal that it is still daytime, making it harder to fall asleep at a reasonable hour."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_14_1c721cd2a8_sentence_2",
+          "text": "These adjustments aim to align the school day with adolescent biology rather than against it."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_14_1c721cd2a8_sentence_4",
+          "text": "Some scientists recommend that teenagers take a short nap in the late afternoon to compensate for lost sleep."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_gapped_text_15_5005cf3ce9",
+      "title": "Rebuilding Trust After a Team Conflict",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "gapped_text",
+      "segments": [
+        "Group projects are a familiar part of school life, but they often reveal how quickly cooperation can break down. When one member misses a deadline or dismisses another's ideas, resentment can build silently until the whole team stalls.",
+        "The first step in repairing the damage is to name the problem without turning it into a personal attack. Instead of saying 'you never listen', a student might explain how a specific action made it difficult to contribute.",
+        "This approach lowers defensiveness because it focuses on behaviour rather than character. Once the issue is on the table, the team needs a clear plan for moving forward.",
+        "Without such a structure, promises to do better tend to fade within a week. It also helps to rebuild small moments of trust, such as arriving on time or acknowledging someone's contribution in front of the group.",
+        "Over time, these gestures accumulate and can transform a fractured team into a resilient one. Conflict, after all, is not the opposite of teamwork; it is simply a signal that something needs attention. Teams that learn to address it openly often emerge stronger than those that never disagree at all."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_gapped_text_15_5005cf3ce9_gap_1",
+          "skill": "sequence",
+          "correctSentenceId": "w_2026_w42_gapped_text_15_5005cf3ce9_sentence_2",
+          "explanation": "The next sentence introduces 'the first step', so the missing sentence must describe what typically happens before anyone addresses the problem."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_15_5005cf3ce9_gap_2",
+          "skill": "cohesion",
+          "correctSentenceId": "w_2026_w42_gapped_text_15_5005cf3ce9_sentence_4",
+          "explanation": "The following sentence refers to 'this approach', so the gap must provide an example of the constructive language just described."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_15_5005cf3ce9_gap_3",
+          "skill": "logic",
+          "correctSentenceId": "w_2026_w42_gapped_text_15_5005cf3ce9_sentence_1",
+          "explanation": "The next sentence warns that without structure promises fade, so the gap should specify the kind of plan required."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_15_5005cf3ce9_gap_4",
+          "skill": "reference",
+          "correctSentenceId": "w_2026_w42_gapped_text_15_5005cf3ce9_sentence_5",
+          "explanation": "The phrase 'these gestures' in the next sentence points back to the examples of small trust-building actions in this sentence."
+        }
+      ],
+      "sentenceBank": [
+        {
+          "id": "w_2026_w42_gapped_text_15_5005cf3ce9_sentence_2",
+          "text": "Often, the group avoids the awkward conversation and simply works around the person instead."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_15_5005cf3ce9_sentence_4",
+          "text": "For instance, one might say, 'When the notes arrived late, I could not prepare my section in time.'"
+        },
+        {
+          "id": "w_2026_w42_gapped_text_15_5005cf3ce9_sentence_1",
+          "text": "This plan should assign specific tasks, set intermediate deadlines, and agree on how the team will check progress."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_15_5005cf3ce9_sentence_5",
+          "text": "Even a brief message thanking a teammate for their help can remind everyone why the project matters."
+        },
+        {
+          "id": "w_2026_w42_gapped_text_15_5005cf3ce9_sentence_3",
+          "text": "Some teachers deliberately assign mixed-ability groups to encourage students to develop patience."
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_word_cloze_10_13ac23a37f",
+      "title": "The Science of Sleep for Students",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "Sleep is often sacrificed when students face deadlines, yet research shows that adequate rest is essential for academic success. During deep sleep, the brain consolidates memories, strengthening neural connections that support learning. Skipping sleep to study more may actually backfire: information absorbed while exhausted is less likely to be retained. A consistent sleep schedule helps regulate the body's internal clock, making it easier to fall asleep and wake up refreshed. ",
+        " However, many teenagers delay bedtime due to screen use, which disrupts melatonin production. Experts recommend avoiding screens for at least an hour before bed. ",
+        " Instead, calming activities such as reading or light stretching can prepare the mind for rest. Creating a cool, dark, and quiet environment also improves sleep quality. ",
+        " Naps can be beneficial, but they should be short and early in the day to avoid interfering with nighttime sleep. ",
+        " If insomnia persists, consulting a doctor is wise. ",
+        " Ultimately, prioritising sleep is not laziness; it is a cornerstone of effective learning and overall well-being.",
+        ""
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_word_cloze_10_13ac23a37f_gap_1",
+          "options": [
+            "essential",
+            "irrelevant",
+            "detrimental",
+            "optional"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct: 'essential' means absolutely necessary, which matches the context of academic success.",
+            "Incorrect: 'irrelevant' means not connected, which contradicts the research.",
+            "Incorrect: 'detrimental' means harmful, opposite to the intended meaning.",
+            "Incorrect: 'optional' means not required, which is too weak given the research."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_10_13ac23a37f_gap_2",
+          "options": [
+            "advance",
+            "delay",
+            "maintain",
+            "extend"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect: 'advance' means to move earlier, opposite of the context.",
+            "Correct: 'delay' means to postpone, fitting the idea of going to bed later.",
+            "Incorrect: 'maintain' means to keep the same, not indicating a change.",
+            "Incorrect: 'extend' means to make longer, not about bedtime."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_10_13ac23a37f_gap_3",
+          "options": [
+            "using",
+            "increasing",
+            "avoiding",
+            "ignoring"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Incorrect: 'using' means utilizing, opposite of the recommendation.",
+            "Incorrect: 'increasing' means making more, opposite of the advice.",
+            "Correct: 'avoiding' means staying away from, which is what experts recommend for screens.",
+            "Incorrect: 'ignoring' means disregarding, not the intended action."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_10_13ac23a37f_gap_4",
+          "options": [
+            "improving",
+            "assisting",
+            "enhancing",
+            "interfering"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Incorrect: 'improving' means making better, opposite of the concern.",
+            "Incorrect: 'assisting' means helping, opposite of the concern.",
+            "Incorrect: 'enhancing' means increasing, opposite of the concern.",
+            "Correct: 'interfering' means disrupting, which fits the warning about naps."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_10_13ac23a37f_gap_5",
+          "options": [
+            "persists",
+            "ceases",
+            "improves",
+            "disappears"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct: 'persists' means continues to exist, which is when consulting a doctor is advised.",
+            "Incorrect: 'ceases' means stops, which would not require a doctor.",
+            "Incorrect: 'improves' means gets better, which would not require a doctor.",
+            "Incorrect: 'disappears' means goes away, which would not require a doctor."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_10_13ac23a37f_gap_6",
+          "options": [
+            "barrier",
+            "cornerstone",
+            "obstacle",
+            "distraction"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect: 'barrier' means an obstacle, opposite of the intended meaning.",
+            "Correct: 'cornerstone' means a fundamental basis, which aligns with the positive view of sleep.",
+            "Incorrect: 'obstacle' means something that blocks, opposite of the intended meaning.",
+            "Incorrect: 'distraction' means something that diverts attention, opposite of the intended meaning."
+          ],
+          "skill": "context"
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_word_cloze_6_453cb67fa2",
+      "title": "Word cloze practice",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "Habits shape much of our daily behaviour, often without conscious awareness. Researchers have found that habits form through a loop of cue, routine, and reward, which over time becomes",
+        "in the brain. Understanding this process can help us break unwanted habits and build better ones. For example, if you want to start exercising regularly, you might",
+        "a specific time and place each day for a workout. This makes the behaviour more automatic. Similarly, if you wish to reduce screen time, you could",
+        "your phone in another room during meals. The key is to make the cue obvious and the reward satisfying. However,",
+        "habits is not easy; it requires patience and repetition. Many people give up too soon because they expect immediate results. According to research, it can take anywhere from 18 to 254 days for a new behaviour to become automatic. Therefore,",
+        "is crucial. You should also be prepared for setbacks. Missing one day does not ruin your progress, but missing two days in a row can start a new, unwanted habit. So,",
+        "to your routine as quickly as possible. With persistence, you can rewire your brain and achieve lasting change."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_word_cloze_6_453cb67fa2_gap_1",
+          "options": [
+            "automatic",
+            "mechanical",
+            "robotic",
+            "instinctive"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct. 'Automatic' is the standard collocation with 'habit' in psychology, meaning performed without conscious thought.",
+            "'Mechanical' implies machine-like and lacks the cognitive sense of automaticity in habits.",
+            "'Robotic' suggests lacking emotion or rigidity, not the intended meaning of habitual behaviour.",
+            "'Instinctive' refers to innate behaviours, not learned habits."
+          ],
+          "skill": "collocation"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_6_453cb67fa2_gap_2",
+          "options": [
+            "book",
+            "schedule",
+            "reserve",
+            "set"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "'Book' is used for appointments or tickets, not daily exercise routines.",
+            "Correct. 'Schedule' fits the context of planning a specific time for exercise.",
+            "'Reserve' is for booking something in advance, not for establishing a regular time.",
+            "'Set' would require a different structure, e.g., 'set a time', but 'set a specific time and place' is less natural than 'schedule'."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_6_453cb67fa2_gap_3",
+          "options": [
+            "place",
+            "put",
+            "leave",
+            "set"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "'Place' requires a specific location like 'on the table', not 'in another room'.",
+            "'Put' would need an object complement like 'put your phone away', not 'in another room'.",
+            "Correct. 'Leave' is used with 'phone in another room' to indicate not carrying it with you.",
+            "'Set' is used for placing something carefully, but 'set your phone in another room' is less common."
+          ],
+          "skill": "grammar"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_6_453cb67fa2_gap_4",
+          "options": [
+            "breaking",
+            "making",
+            "creating",
+            "forming"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "'Breaking habits' means stopping existing habits, which is the opposite of what is needed here.",
+            "'Making habits' is not a standard collocation in this context.",
+            "'Creating habits' is possible but less precise than 'forming' in psychological terms.",
+            "Correct. 'Forming habits' is the appropriate collocation for establishing new habits."
+          ],
+          "skill": "collocation"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_6_453cb67fa2_gap_5",
+          "options": [
+            "consistency",
+            "persistence",
+            "patience",
+            "determination"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct. 'Consistency' refers to doing something regularly, which is emphasized as crucial.",
+            "'Persistence' means continuing despite difficulties, but the text already mentioned patience and repetition; consistency is the key to automaticity.",
+            "'Patience' was already mentioned earlier in the sentence, so repeating it would be redundant.",
+            "'Determination' is about resolve, not the regular repetition needed for habits."
+          ],
+          "skill": "cohesion"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_6_453cb67fa2_gap_6",
+          "options": [
+            "return",
+            "get back",
+            "go back",
+            "come back"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "'Return to your routine' is grammatically correct but less idiomatic in this context.",
+            "Correct. 'Get back to your routine' is an idiom meaning to resume an activity after a break.",
+            "'Go back to your routine' is similar but 'get back' is more common for resuming after interruption.",
+            "'Come back to your routine' implies returning to a place, not resuming an activity."
+          ],
+          "skill": "idiom"
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_word_cloze_7_8e18dc5262",
+      "title": "The Science of Sleep",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "Sleep is a fundamental biological process that affects nearly every system in the body. During sleep, the brain consolidates memories, repairs tissues, and regulates hormones. However, many teenagers ",
+        " because of late-night screen use and early school start times. This chronic sleep deprivation can lead to difficulties with concentration, mood swings, and weakened immune function. To improve sleep hygiene, experts recommend ",
+        " and avoiding caffeine after midday. Additionally, exposure to natural light in the morning helps to reset the body's internal clock, making it easier to fall asleep at night. ",
+        " The bedroom should be cool, dark, and quiet, and it should be reserved for sleep and relaxation, not for studying or watching television. ",
+        " which can disrupt the sleep cycle and reduce the amount of restorative deep sleep. ",
+        " Ultimately, prioritising sleep is not a luxury but a necessity for academic success and overall well-being. ",
+        " By making small, consistent changes, teenagers can significantly improve their sleep quality and, consequently, their daily functioning."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_word_cloze_7_8e18dc5262_gap_1",
+          "options": [
+            "gets enough sleep",
+            "are getting enough sleep",
+            "do not get enough sleep",
+            "not getting enough sleep"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Incorrect: 'gets' is singular and does not agree with the plural subject.",
+            "Incorrect: 'are getting enough sleep' contradicts the context of sleep deprivation.",
+            "Correct: the plural subject 'many teenagers' requires the base form 'do not get' to indicate a lack of sleep.",
+            "Incorrect: 'not getting enough sleep' is a fragment without a finite verb, so it cannot stand as the main clause."
+          ],
+          "skill": "grammar"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_7_8e18dc5262_gap_2",
+          "options": [
+            "establishing a consistent bedtime routine",
+            "to establish a consistent bedtime routine",
+            "established a consistent bedtime routine",
+            "establish a consistent bedtime routine"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Incorrect: 'establishing' is a gerund and does not follow the verb 'recommend' in this context.",
+            "Incorrect: 'to establish' would be correct if the verb were 'recommend' plus infinitive, but here the bare infinitive is needed after 'recommend' when giving advice.",
+            "Incorrect: 'established' is past tense and does not fit the imperative sense.",
+            "Correct: after 'recommend', a bare infinitive is used to give advice, so 'establish' is the correct form."
+          ],
+          "skill": "grammar"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_7_8e18dc5262_gap_3",
+          "options": [
+            "Regular exercise also promotes better sleep",
+            "Regular exercise also promote better sleep",
+            "Regular exercise also promoting better sleep",
+            "Regular exercise also to promote better sleep"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct: 'Regular exercise' is singular, so 'promotes' is the correct verb form.",
+            "Incorrect: 'promote' is plural and does not agree with the singular subject.",
+            "Incorrect: 'promoting' is a participle and lacks a finite verb.",
+            "Incorrect: 'to promote' creates an infinitive phrase that cannot stand alone as a sentence."
+          ],
+          "skill": "grammar"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_7_8e18dc5262_gap_4",
+          "options": [
+            "To create a relaxing environment",
+            "Create a relaxing environment",
+            "Creating a relaxing environment",
+            "Created a relaxing environment"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect: 'To create' is an infinitive and does not function as a main verb in an imperative sentence.",
+            "Correct: the bare imperative 'Create' gives a direct instruction that fits the advisory tone.",
+            "Incorrect: 'Creating' is a gerund and would leave the sentence without a main verb.",
+            "Incorrect: 'Created' is past tense and does not convey an imperative."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_7_8e18dc5262_gap_5",
+          "options": [
+            "Avoid to use electronic devices before bed",
+            "Avoid use electronic devices before bed",
+            "Avoid using electronic devices before bed",
+            "Avoiding using electronic devices before bed"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Incorrect: 'Avoid' is not followed by an infinitive; 'to use' is wrong.",
+            "Incorrect: 'avoid use' is missing the gerund form.",
+            "Correct: 'Avoid' is followed by a gerund, so 'using' is correct.",
+            "Incorrect: 'Avoiding' is a gerund and cannot serve as an imperative verb."
+          ],
+          "skill": "grammar"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_7_8e18dc5262_gap_6",
+          "options": [
+            "and limiting exposure to bright lights in the evening",
+            "and to limit exposure to bright lights in the evening",
+            "and limited exposure to bright lights in the evening",
+            "and limit exposure to bright lights in the evening"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Incorrect: 'limiting' breaks parallelism with the preceding gerund? Actually, after 'Avoid using', the second verb should also be in the base form? Wait, the gap is after 'which can disrupt ...' Actually, this is a separate sentence. But the options are about parallelism. I need to rethink.",
+            "Hmm, perhaps the skill is 'Parallel structure'. The correct answer should maintain parallel structure with 'Avoid using electronic devices'? Actually, the previous gap was 'Avoid using...' and then 'which can disrupt...' That's a relative clause. So this gap is after that. I need to re-evaluate.",
+            "Let me adjust the explanations to be accurate. Actually, the correct answer here is the first option, but the explanation should note that it is a parallel imperative. However, after a relative clause, a new sentence can start with 'Also' or 'Additionally' but here it starts with 'which can disrupt...' So the gap is after that? Actually, the segment before this gap ends with 'which can disrupt the sleep cycle and reduce the amount of restorative deep sleep.' Then the gap is followed by 'Ultimately, prioritising sleep...' So this gap seems to be a sentence connector. I need to reassess the entire gap structure.",
+            "Correct: the parallel structure after 'Avoid' requires the bare infinitive 'limit'."
+          ],
+          "skill": "context"
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_word_cloze_8_2169a7f8c8",
+      "title": "The Rise of eSports",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "Competitive video gaming, once confined to basements and internet cafes, has exploded into a global phenomenon known as eSports. Professional players now fill stadiums, stream to millions of viewers, and compete for prize pools that rival traditional sports. ",
+        " This rapid growth has sparked debates about whether eSports should be considered a legitimate sport. ",
+        " One key argument in favour is that eSports require many of the same skills as physical sports: split-second decision-making, teamwork, and intense practice regimens. ",
+        " Critics, however, point out that eSports lack the physical exertion central to athletics, and that sedentary gaming can harm health. ",
+        " Despite the controversy, colleges and universities are increasingly offering scholarships for eSports, treating them as a viable career path. ",
+        " Supporters argue that this recognition validates the dedication of young gamers and prepares them for a growing industry. ",
+        " Whether or not eSports are officially deemed a sport, their cultural and economic impact is undeniable. They have created new opportunities and challenged our traditional definitions of athleticism."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_word_cloze_8_2169a7f8c8_gap_1",
+          "options": [
+            "This rapid growth has sparked debates about whether eSports should be considered a legitimate sport.",
+            "This rapid growth has led to a decline in traditional sports participation.",
+            "This rapid growth proves that video games are more important than education.",
+            "This rapid growth has had no impact on how society views competition."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct. The passage later discusses arguments for and against, so inferring that debates have arisen is logical.",
+            "Incorrect. The passage does not mention a decline in traditional sports; this is an unsupported leap.",
+            "Incorrect. The passage does not compare importance to education, and this option is extreme.",
+            "Incorrect. The passage describes significant cultural impact, so saying there is no impact contradicts it."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_8_2169a7f8c8_gap_2",
+          "options": [
+            "One key argument in favour is that eSports players earn more money than doctors.",
+            "One key argument in favour is that eSports require many of the same skills as physical sports: split-second decision-making, teamwork, and intense practice regimens.",
+            "One key argument in favour is that eSports can be played while doing other activities.",
+            "One key argument in favour is that eSports require no special equipment."
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. The passage does not compare earnings to doctors; this is an irrelevant exaggeration.",
+            "Correct. This sentence summarises the main argument supporting eSports as legitimate: skill overlap with physical sports.",
+            "Incorrect. The passage emphasises intense practice, not multitasking, so this option misrepresents.",
+            "Incorrect. The passage does not claim no equipment is needed; that is factually inaccurate and off-topic."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_8_2169a7f8c8_gap_3",
+          "options": [
+            "For example, many eSports players follow strict diets and exercise routines.",
+            "In addition, eSports have been linked to improved hand-eye coordination.",
+            "Critics, however, point out that eSports lack the physical exertion central to athletics, and that sedentary gaming can harm health.",
+            "Therefore, all schools should replace physical education with eSports."
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Incorrect. This example supports eSports, not criticises them, and breaks the contrast.",
+            "Incorrect. This addition is a benefit, not a criticism, so it does not fit the opposing side.",
+            "Correct. This sentence introduces the opposing viewpoint, creating a balanced argument structure.",
+            "Incorrect. This is an extreme proposal not supported by the passage's balanced tone."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_8_2169a7f8c8_gap_4",
+          "options": [
+            "Because of the controversy, colleges have banned all eSports activities.",
+            "As a result of the controversy, eSports have completely disappeared from campuses.",
+            "Due to the controversy, students are no longer interested in competitive gaming.",
+            "Despite the controversy, colleges and universities are increasingly offering scholarships for eSports, treating them as a viable career path."
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Incorrect. The passage later mentions support, not bans, so this contradicts the trend.",
+            "Incorrect. The passage says colleges are offering scholarships, so eSports are not disappearing.",
+            "Incorrect. The passage implies growing interest, not declining interest, among students.",
+            "Correct. It shows a logical consequence: despite debate, institutions are embracing eSports with scholarships."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_8_2169a7f8c8_gap_5",
+          "options": [
+            "Supporters argue that this recognition validates the dedication of young gamers and prepares them for a growing industry.",
+            "Supporters argue that eSports should replace all other extracurricular activities.",
+            "Supporters argue that only professional players should receive scholarships.",
+            "Supporters argue that eSports have no economic value."
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct. This detail explains why supporters view college recognition positively, linking to industry growth.",
+            "Incorrect. The passage does not advocate replacing other activities; that is an overreach.",
+            "Incorrect. The passage discusses scholarships for eSports generally, not restricting them to professionals.",
+            "Incorrect. The passage states eSports have economic impact, so this option is the opposite."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_8_2169a7f8c8_gap_6",
+          "options": [
+            "questionable",
+            "undeniable",
+            "insignificant",
+            "temporary"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect. 'Questionable' means doubtful, which contradicts the confident tone of the conclusion.",
+            "Correct. 'Undeniable' means cannot be disputed, fitting the strong statement about cultural and economic impact.",
+            "Incorrect. 'Insignificant' means unimportant, but the passage emphasises major impact.",
+            "Incorrect. 'Temporary' means short-lived, while the passage suggests lasting significance."
+          ],
+          "skill": "context"
+        }
+      ]
+    },
+    {
+      "id": "w_2026_w42_word_cloze_9_b02325acb8",
+      "title": "The Silent Language of Microexpressions",
+      "schoolYearMin": 12,
+      "schoolYearMax": 12,
+      "estimatedMinutes": 10,
+      "source": {
+        "kind": "original",
+        "author": "Young Writers Lab",
+        "creditLine": "Original practice content by Young Writers Lab."
+      },
+      "type": "word_cloze",
+      "segments": [
+        "In everyday conversation, we often focus on the words people say, but a far more subtle channel of communication operates beneath the surface: microexpressions. These fleeting facial movements, lasting less than a fifth of a second, can reveal emotions that a person may be trying to conceal. Because they happen so quickly, most people miss them entirely, yet researchers have found that with training, almost anyone can learn to spot them. ",
+        " Microexpressions are not random twitches; they are involuntary reactions hardwired into our nervous system. When we experience a strong emotion, our facial muscles contract in patterns that are remarkably consistent across cultures. For instance, the tightening of the lips or the raising of the inner eyebrows can signal anger or sadness before the person has time to compose a more neutral expression. ",
+        " This makes microexpressions a valuable tool in fields such as law enforcement, psychology, and even business negotiations. However, experts caution against overinterpreting them. A single microexpression does not necessarily indicate deceit; it might simply reflect a fleeting feeling that the person quickly suppresses. ",
+        " To avoid misunderstanding, skilled observers look for clusters of signals that occur together and consider the context. They also compare a person's baseline behavior with any sudden changes. ",
+        " For most of us, the practical takeaway is to become more attentive listeners. By watching faces more carefully and resisting the urge to interrupt, we can pick up on emotional cues that words alone might not convey. ",
+        " This heightened awareness can improve relationships, reduce conflict, and foster empathy. It reminds us that communication is a two-way street, rich with information beyond the spoken word. ",
+        " Ultimately, mastering the art of reading microexpressions is less about catching lies and more about understanding the complex emotional lives of those around us."
+      ],
+      "gaps": [
+        {
+          "id": "w_2026_w42_word_cloze_9_b02325acb8_gap_1",
+          "options": [
+            "fleeing",
+            "flitting",
+            "fleeting",
+            "flickering"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Incorrect: 'fleeing' means running away, which does not describe brief facial movements.",
+            "Incorrect: 'flitting' means moving swiftly, but it is less commonly used with 'facial movements' and implies motion rather than duration.",
+            "Correct: 'fleeting' means lasting only a short time, perfectly describing microexpressions.",
+            "Incorrect: 'flickering' suggests unsteady light, not brief emotional expressions."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_9_b02325acb8_gap_2",
+          "options": [
+            "programmed",
+            "ingrained",
+            "instinctive",
+            "hardwired"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Incorrect: 'programmed' is less precise and often implies external programming rather than biological wiring.",
+            "Incorrect: 'ingrained' means deeply established through repetition, not innate.",
+            "Incorrect: 'instinctive' is close in meaning but does not capture the neural basis as accurately.",
+            "Correct: 'hardwired' means genetically or neurologically predetermined, which fits the scientific context of involuntary reactions."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_9_b02325acb8_gap_3",
+          "options": [
+            "suppresses",
+            "represses",
+            "conceals",
+            "restrains"
+          ],
+          "correctOptionIndex": 0,
+          "optionExplanations": [
+            "Correct: 'suppresses' means consciously holding back an emotion, which matches the idea of quickly hiding a feeling.",
+            "Incorrect: 'represses' often refers to unconscious psychological blocking, not a quick, conscious effort.",
+            "Incorrect: 'conceals' means hides, but it does not convey the active effort to push down an emotion.",
+            "Incorrect: 'restrains' implies holding back physically or emotionally, but it is less specific to emotions."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_9_b02325acb8_gap_4",
+          "options": [
+            "bundles",
+            "clusters",
+            "groups",
+            "collections"
+          ],
+          "correctOptionIndex": 1,
+          "optionExplanations": [
+            "Incorrect: 'bundles' implies items tied together, not a set of signals.",
+            "Correct: 'clusters' refers to a group of related things occurring closely together, a term often used in behavioral analysis.",
+            "Incorrect: 'groups' is too general and lacks the technical nuance.",
+            "Incorrect: 'collections' suggests a deliberate gathering, not a natural grouping of signals."
+          ],
+          "skill": "context"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_9_b02325acb8_gap_5",
+          "options": [
+            "avoiding",
+            "refusing",
+            "resisting",
+            "neglecting"
+          ],
+          "correctOptionIndex": 2,
+          "optionExplanations": [
+            "Incorrect: 'avoiding' means staying away from, but it does not capture the active effort to not interrupt.",
+            "Incorrect: 'refusing' implies a direct rejection, which is too strong here.",
+            "Correct: 'resisting' means holding back from doing something, which fits the idea of not interrupting.",
+            "Incorrect: 'neglecting' means failing to care for, which changes the meaning."
+          ],
+          "skill": "grammar"
+        },
+        {
+          "id": "w_2026_w42_word_cloze_9_b02325acb8_gap_6",
+          "options": [
+            "promote",
+            "cultivate",
+            "nurture",
+            "foster"
+          ],
+          "correctOptionIndex": 3,
+          "optionExplanations": [
+            "Incorrect: 'promote' often implies advertising or advancing a cause, which is less personal.",
+            "Incorrect: 'cultivate' suggests deliberate development, but it is more formal and less natural in this context.",
+            "Incorrect: 'nurture' implies caring for something growing, which is close but less precise than 'foster' for empathy.",
+            "Correct: 'foster' means encourage the development of something, commonly used with 'empathy' and 'relationships'."
+          ],
+          "skill": "collocation"
+        }
+      ]
+    }
+  ]
+}
