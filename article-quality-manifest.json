@@ -1,0 +1,387 @@
+[
+  {
+    "contractVersion": 1,
+    "contentId": "dvids_air_force_5a30d45e1c231377",
+    "contentType": "article",
+    "contentVersion": "31883a78bc171dd7c29283cb9ab7c24f36f4e175919b1641aafa63cc637357e9",
+    "contentHash": "ca822312d146a2657834af7adde5863802b05f6299c9bb2f58922a13cfd61268",
+    "validatorVersion": "article-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "article-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "candidate_schema",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "dvids_air_force_5a30d45e1c231377:candidate_schema"
+        ]
+      },
+      {
+        "check": "article_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "dvids_air_force_5a30d45e1c231377:article_semantics"
+        ]
+      },
+      {
+        "check": "vocabulary_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "dvids_air_force_5a30d45e1c231377:vocabulary_semantics"
+        ]
+      },
+      {
+        "check": "comprehension_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "dvids_air_force_5a30d45e1c231377:comprehension_semantics"
+        ]
+      },
+      {
+        "check": "cloze_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "dvids_air_force_5a30d45e1c231377:cloze_semantics"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T11:06:39.235Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "noaa_171ba46da1020d37",
+    "contentType": "article",
+    "contentVersion": "da4ecffc8f3451fa71dd787dea900d8a7f04a6004aa53b9ac3f4dae1c999d79c",
+    "contentHash": "479b4da59e47bb6ad63933bd5b2054409c3c94b62664b0b0eec308e5097500a3",
+    "validatorVersion": "article-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "article-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "candidate_schema",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "noaa_171ba46da1020d37:candidate_schema"
+        ]
+      },
+      {
+        "check": "article_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "noaa_171ba46da1020d37:article_semantics"
+        ]
+      },
+      {
+        "check": "vocabulary_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "noaa_171ba46da1020d37:vocabulary_semantics"
+        ]
+      },
+      {
+        "check": "comprehension_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "noaa_171ba46da1020d37:comprehension_semantics"
+        ]
+      },
+      {
+        "check": "cloze_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "noaa_171ba46da1020d37:cloze_semantics"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T11:06:09.703Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "nasa_bada438938219258",
+    "contentType": "article",
+    "contentVersion": "788b87e0082b5f1df127b8ea3ffd92a79a1cc724d74d837a13d7c8cf0f335604",
+    "contentHash": "c0501493fa5336abaf86778f1802dc9ec87ca8bd6db29e272fccac4b137c2176",
+    "validatorVersion": "article-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "article-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "candidate_schema",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_bada438938219258:candidate_schema"
+        ]
+      },
+      {
+        "check": "article_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_bada438938219258:article_semantics"
+        ]
+      },
+      {
+        "check": "vocabulary_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_bada438938219258:vocabulary_semantics"
+        ]
+      },
+      {
+        "check": "comprehension_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_bada438938219258:comprehension_semantics"
+        ]
+      },
+      {
+        "check": "cloze_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_bada438938219258:cloze_semantics"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T11:00:57.197Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "nasa_495eb9eedc69e00b",
+    "contentType": "article",
+    "contentVersion": "8253ddbb98d7b56875abc444c55abdf6eab991c485efd941949fa3ef9af363c7",
+    "contentHash": "cd458bca337d9307438b29347e7713a288df505ee1f746fd1166afba2479df17",
+    "validatorVersion": "article-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "article-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "candidate_schema",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_495eb9eedc69e00b:candidate_schema"
+        ]
+      },
+      {
+        "check": "article_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_495eb9eedc69e00b:article_semantics"
+        ]
+      },
+      {
+        "check": "vocabulary_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_495eb9eedc69e00b:vocabulary_semantics"
+        ]
+      },
+      {
+        "check": "comprehension_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_495eb9eedc69e00b:comprehension_semantics"
+        ]
+      },
+      {
+        "check": "cloze_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_495eb9eedc69e00b:cloze_semantics"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T11:06:31.501Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "nasa_9fe2ca4bc2547f13",
+    "contentType": "article",
+    "contentVersion": "d107c22fb92ec15167a61214cbc286cf6c34215f63d01d7810bedf9445cb8943",
+    "contentHash": "fe65bd93e8d424d2befd941cf6e70f25fd4fd996476fc6c6fed4f5ad3f30f91b",
+    "validatorVersion": "article-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "article-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "candidate_schema",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_9fe2ca4bc2547f13:candidate_schema"
+        ]
+      },
+      {
+        "check": "article_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_9fe2ca4bc2547f13:article_semantics"
+        ]
+      },
+      {
+        "check": "vocabulary_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_9fe2ca4bc2547f13:vocabulary_semantics"
+        ]
+      },
+      {
+        "check": "comprehension_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_9fe2ca4bc2547f13:comprehension_semantics"
+        ]
+      },
+      {
+        "check": "cloze_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_9fe2ca4bc2547f13:cloze_semantics"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T11:06:26.685Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "nasa_42139e78e0b4efb0",
+    "contentType": "article",
+    "contentVersion": "1850d48b047a711df303aabc7736166da1d361f51dd2e46ae5d46b84fe3c32f2",
+    "contentHash": "44317608bfb07ef8d5916bb1b3b94ab2ef03d719929bd15c5fe112a0a267a3df",
+    "validatorVersion": "article-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "article-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "candidate_schema",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_42139e78e0b4efb0:candidate_schema"
+        ]
+      },
+      {
+        "check": "article_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_42139e78e0b4efb0:article_semantics"
+        ]
+      },
+      {
+        "check": "vocabulary_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_42139e78e0b4efb0:vocabulary_semantics"
+        ]
+      },
+      {
+        "check": "comprehension_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_42139e78e0b4efb0:comprehension_semantics"
+        ]
+      },
+      {
+        "check": "cloze_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_42139e78e0b4efb0:cloze_semantics"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T11:06:29.229Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "nasa_2e502463a1f22e39",
+    "contentType": "article",
+    "contentVersion": "636a2ff6da39a6680e1fefda7080828a47d547a85876f260d9ddd44ed4dc7208",
+    "contentHash": "c3b6f6265b305bd9492db4bee99ba83b0066c5ad86c6cb5c58bb0e38414d9540",
+    "validatorVersion": "article-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "article-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "candidate_schema",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_2e502463a1f22e39:candidate_schema"
+        ]
+      },
+      {
+        "check": "article_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_2e502463a1f22e39:article_semantics"
+        ]
+      },
+      {
+        "check": "vocabulary_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_2e502463a1f22e39:vocabulary_semantics"
+        ]
+      },
+      {
+        "check": "comprehension_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_2e502463a1f22e39:comprehension_semantics"
+        ]
+      },
+      {
+        "check": "cloze_semantics",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "nasa_2e502463a1f22e39:cloze_semantics"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T11:00:54.627Z"
+  }
+]
