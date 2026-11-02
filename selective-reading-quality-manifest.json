@@ -1,0 +1,738 @@
+[
+  {
+    "contractVersion": 1,
+    "contentId": "blake_tyger_advanced",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "f8463475fc7291fd6a131e32dbf11e7a1e1c5d5ca8e5963ae4e0b0636a5721a5",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "blake_tyger_developing",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "d12c044d1023e7206fa207ee4facb7e8c3d1264b4c12d653ad75a8b6474935e5",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "blake_tyger_foundation",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "b6f8259d315ac935ed8e13b3b302b038c0ba7d48d01c5a3de753e690c2d336c3",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "selective_poetry_sonnet_18",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "53af9b7abaacfe895d7e3ccf43e93025e633fc81d1b6bc19f1e0e284e74529b2",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "shakespeare_sonnet_116_advanced",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "ad8bea4b100e73ff70df0ee82581f81060f729ad613b15a4658bb82bb3b3d5c8",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "shakespeare_sonnet_116_developing",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "c3632da8b660770f501bdbdcb48f555f68a9c6f428c4a0bebec8049020ae983a",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "shakespeare_sonnet_116_foundation",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "277b918aa5d6b120ca66e83c193c8b0f96dfd9debcb2ed01840886e20662e4cd",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "shakespeare_sonnet_73_advanced",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "ce3c5c1aa20a4a729d763a496e81031216e4e888383e60e4a1592c9ead446738",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "shakespeare_sonnet_73_developing",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "64bfd250f8aaa0d714e3448b7dee71a6cd2eef4ad42b78d60a5eb1619c736739",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "shakespeare_sonnet_73_foundation",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "86407a640c1bb0aa5d5f70207f032306c8c897f26ee1681c8c84ec434b11c819",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "shelley_ozymandias_advanced",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "32676c3c4a126e3cbd813d36f8c33b6bb7ffc73021df6aa9c2d9507e8fb6ba91",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "shelley_ozymandias_developing",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "cb07b0aa35d431a845286b8339874f6f1bf540b61c0a45be0a325bd29534d034",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "shelley_ozymandias_foundation",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "d0bafbd7003e68dcd6b112710924dc659872a6f62455ec054e73ea3f90c0dd59",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_1_shadows_and_sparks_advanced",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "5a99b86feb011ac39f62912050c2ab9ba816b5a0dc5b10629c02b404e728e82e",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_1_shadows_and_sparks_developing",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "2dc05e4236e2c49d77ea2387d28772f7a949311dc01eb0989b64f8ea81d8d3da",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_1_shadows_and_sparks_foundation",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "5d6608acb9028a926c3a7f0896252ba602ebfd4803f186db8bb7628d66ec5803",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_2_paper_boat_advanced",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "20f87424cede3788f77035aaaff58bfc7f10dae54c56539e8cdd537502ee272b",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_2_paper_boat_developing",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "770d06412110caf16fef16ab34b30abb12e20ef44a88af8a2a53c4b64a3387ec",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_2_paper_boat_foundation",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "b4d83066b6dc862eb31aeeadaff9ec9900bde1c3dcfb9acfac7420bb81391ab6",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_comparative_1_15951be341",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "cab66da3e81bc72d49789ee25d77843d706c98d19d097c1b20515882444531a6",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_comparative_2_e26cfe3c1b",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "b3ffdf85703e2f5527f4e4be71396068cddad1703ff157c68179192fbd496aed",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_comparative_3_744c642d85",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "2d639118b24c074386b73229491864f8a853c3b8b2dec7ccbcc1bc0b12873ffa",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_comparative_4_e20f6c2643",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "2f25a51bb0cdf001ac51438b5c8f1a13ec785e95d82ad6beb1da72a313956820",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_comparative_5_a4a4da6a50",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "49f134824a77d4febfadb0a7c01d61228d7159f35c5b7a87457e93198963b850",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_gapped_text_10_ca6723ffbd",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "cf56eedaadeef0c77a0464037a6688e05663a30a3e1c98fcfcba8392d4042a4f",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_gapped_text_6_e75f94ebf2",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "6eab8c6d7b8e707d1da2b276ff2d0d83025555f3529a3e3fe4399f20972de121",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_gapped_text_7_c327599c95",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "b17ef1d04138de58d3137c4e028b103d4fc3e7c212596acdc7e0bd7dc7ddd611",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_gapped_text_8_f254a50fa5",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "ccbfdf99f548598c05f69bb92378231c139fde627586f2172c0e18a465bac351",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "w_2026_w45_gapped_text_9_0def9cf7fe",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "b21ea921bbaf534e91b6cb962d6c3adc293238cf41a218988573fec79c87a1df",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "wordsworth_daffodils_advanced",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "411448cf3ed297ebfa3dd7466aef8c19b5c122042b70b84490520c81963c183d",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "wordsworth_daffodils_developing",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "154fac7e0616dde9aabfadab3f87c31ca31bf87f685c1e43c3e4f9fc24e07ec8",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "wordsworth_daffodils_foundation",
+    "contentType": "selective_reading",
+    "contentVersion": "c356a78cb3f68266facfce9de14961565db99ba11e77e84f059321ab71ae4a8f",
+    "contentHash": "0ebed30d19de40abb69c40c955a913856c87507ad6535b13a5d9f68592aa517e",
+    "validatorVersion": "fallback-v1:selective-reading-verifier-v2:selective-reading-verifier-v2:primary=gemini:gemini-3.5-flash-lite;fallback=deepseek:deepseek-chat",
+    "policyVersion": "selective-reading-quality-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "selective_reading_verifier",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "selective-reading-verifier"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-02T10:43:00.601Z"
+  }
+]
