@@ -1,0 +1,2804 @@
+{
+  "schemaVersion": 1,
+  "catalogueVersion": 1,
+  "weekKey": "2026-W45",
+  "generatedAt": "2026-11-04T21:40:46.506Z",
+  "generatorVersion": 1,
+  "blueprintSource": "gemini",
+  "mathsLevel": 7,
+  "days": [
+    {
+      "id": "maths_2026_w45_day_1",
+      "questions": [
+        {
+          "id": "maths_2026_w45_day_1_fraction_1",
+          "topic": "fraction",
+          "prompt": "13/24 + 24/29",
+          "canonicalAnswer": "1 257/696",
+          "workedSolution": [
+            "Convert the terms: 377/696 + 576/696. Add to get 953/696; reduce to 953/696, then convert to 1 257/696."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_fraction_2",
+          "topic": "fraction",
+          "prompt": "11/14 − 7/16",
+          "canonicalAnswer": "39/112",
+          "workedSolution": [
+            "Convert the terms: 176/224 − 98/224. Subtract to get 78/224; reduce to 39/112, then convert to 39/112."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_fraction_3",
+          "topic": "fraction",
+          "prompt": "1/4 × 4/8",
+          "canonicalAnswer": "1/8",
+          "workedSolution": [
+            "Multiply to get 4/32; reduce to 1/8, then convert to 1/8."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_fraction_4",
+          "topic": "fraction",
+          "prompt": "6/21 ÷ 12/30",
+          "canonicalAnswer": "5/7",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 6/21 × 30/12.",
+            "Multiply to get 180/252; reduce to 5/7, then convert to 5/7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_fraction_5",
+          "topic": "fraction",
+          "prompt": "19/20 + 6/18",
+          "canonicalAnswer": "1 17/60",
+          "workedSolution": [
+            "Convert the terms: 342/360 + 120/360. Add to get 462/360; reduce to 77/60, then convert to 1 17/60."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_fraction_6",
+          "topic": "fraction",
+          "prompt": "18/26 − 24/30",
+          "canonicalAnswer": "-7/65",
+          "workedSolution": [
+            "Convert the terms: 540/780 − 624/780. Subtract to get -84/780; reduce to -7/65, then convert to -7/65."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_fraction_7",
+          "topic": "fraction",
+          "prompt": "2/4 × 2/4",
+          "canonicalAnswer": "1/4",
+          "workedSolution": [
+            "Multiply to get 4/16; reduce to 1/4, then convert to 1/4."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_fraction_8",
+          "topic": "fraction",
+          "prompt": "2/5 ÷ 9/12",
+          "canonicalAnswer": "8/15",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 2/5 × 12/9.",
+            "Multiply to get 24/45; reduce to 8/15, then convert to 8/15."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 21x − 3 = 417",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "21x = 420",
+            "x = 20"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 17x + 25 = 348",
+          "canonicalAnswer": "19",
+          "workedSolution": [
+            "17x = 323",
+            "x = 19"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 16x − 14 = 274",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "16x = 288",
+            "x = 18"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 8x + 22 = 126",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "8x = 104",
+            "x = 13"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 7x + 5 = -65",
+          "canonicalAnswer": "-10",
+          "workedSolution": [
+            "7x = -70",
+            "x = -10"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 20x − 18 = -258",
+          "canonicalAnswer": "-12",
+          "workedSolution": [
+            "20x = -240",
+            "x = -12"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x + 25 = 190",
+          "canonicalAnswer": "15",
+          "workedSolution": [
+            "11x = 165",
+            "x = 15"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 24x − 3 = 285",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "24x = 288",
+            "x = 12"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 308x − 126",
+          "canonicalAnswer": "14(22x − 9)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(22x − 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 91x + 49",
+          "canonicalAnswer": "7(13x + 7)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(13x + 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 154x − 14",
+          "canonicalAnswer": "14(11x − 1)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(11x − 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 12x + 88",
+          "canonicalAnswer": "4(3x + 22)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(3x + 22)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 300x − 105",
+          "canonicalAnswer": "15(20x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 15.",
+            "Take out 15 to get 15(20x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 48x + 76",
+          "canonicalAnswer": "4(12x + 19)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(12x + 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 150x + 255",
+          "canonicalAnswer": "15(10x + 17)",
+          "workedSolution": [
+            "The greatest common factor is 15.",
+            "Take out 15 to get 15(10x + 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 125x + 20",
+          "canonicalAnswer": "5(25x + 4)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(25x + 4)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 15 then decreased by 10 to make -355. Find the number.",
+          "canonicalAnswer": "-23",
+          "workedSolution": [
+            "Undo the adjustment: 15 times the number is -345.",
+            "Divide by 15: the number is -23."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $60 on 4 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "15",
+          "workedSolution": [
+            "Divide the total cost of $60 by 4 notebooks.",
+            "Each notebook costs $15."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 90 km in 5 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "Divide 90 km by 5 hours.",
+            "The average speed is 18 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 18 then decreased by 14 to make -428. Find the number.",
+          "canonicalAnswer": "-23",
+          "workedSolution": [
+            "Undo the adjustment: 18 times the number is -414.",
+            "Divide by 18: the number is -23."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 10 then decreased by 13 to make 27. Find the number.",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "Undo the adjustment: 10 times the number is 40.",
+            "Divide by 10: the number is 4."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 18 then increased by 16 to make -20. Find the number.",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "Undo the adjustment: 18 times the number is -36.",
+            "Divide by 18: the number is -2."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 6 then decreased by 6 to make -84. Find the number.",
+          "canonicalAnswer": "-13",
+          "workedSolution": [
+            "Undo the adjustment: 6 times the number is -78.",
+            "Divide by 6: the number is -13."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 24 then increased by 24 to make -168. Find the number.",
+          "canonicalAnswer": "-8",
+          "workedSolution": [
+            "Undo the adjustment: 24 times the number is -192.",
+            "Divide by 24: the number is -8."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 22.8 + 21.2",
+          "canonicalAnswer": "44",
+          "workedSolution": [
+            "Set up the decimal calculation: 22.8 + 21.2.",
+            "The answer is 44."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 10.2 - 23.7",
+          "canonicalAnswer": "-13.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 10.2 - 23.7.",
+            "The answer is -13.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 5.1 × 3.4",
+          "canonicalAnswer": "17.34",
+          "workedSolution": [
+            "Set up the decimal calculation: 5.1 × 3.4.",
+            "The answer is 17.34."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 16.5 + 11.0",
+          "canonicalAnswer": "27.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 16.5 + 11.0.",
+            "The answer is 27.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 23.7 - 22.8",
+          "canonicalAnswer": "0.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 23.7 - 22.8.",
+            "The answer is 0.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 8.0 × 15.2",
+          "canonicalAnswer": "121.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 8.0 × 15.2.",
+            "The answer is 121.6."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 3.4 + 7.1",
+          "canonicalAnswer": "10.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 3.4 + 7.1.",
+            "The answer is 10.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_1_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 9.4 - 16.8",
+          "canonicalAnswer": "-7.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 9.4 - 16.8.",
+            "The answer is -7.4."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w45_day_2",
+      "questions": [
+        {
+          "id": "maths_2026_w45_day_2_fraction_1",
+          "topic": "fraction",
+          "prompt": "5/23 + 1/4",
+          "canonicalAnswer": "43/92",
+          "workedSolution": [
+            "Convert the terms: 20/92 + 23/92. Add to get 43/92; reduce to 43/92, then convert to 43/92."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_fraction_2",
+          "topic": "fraction",
+          "prompt": "7/8 − 8/14",
+          "canonicalAnswer": "17/56",
+          "workedSolution": [
+            "Convert the terms: 98/112 − 64/112. Subtract to get 34/112; reduce to 17/56, then convert to 17/56."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_fraction_3",
+          "topic": "fraction",
+          "prompt": "11/19 × 1/2",
+          "canonicalAnswer": "11/38",
+          "workedSolution": [
+            "Multiply to get 11/38; reduce to 11/38, then convert to 11/38."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_fraction_4",
+          "topic": "fraction",
+          "prompt": "1/4 ÷ 3/6",
+          "canonicalAnswer": "1/2",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 1/4 × 6/3.",
+            "Multiply to get 6/12; reduce to 1/2, then convert to 1/2."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_fraction_5",
+          "topic": "fraction",
+          "prompt": "3/6 + 5/14",
+          "canonicalAnswer": "6/7",
+          "workedSolution": [
+            "Convert the terms: 42/84 + 30/84. Add to get 72/84; reduce to 6/7, then convert to 6/7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_fraction_6",
+          "topic": "fraction",
+          "prompt": "1/18 − 10/17",
+          "canonicalAnswer": "-163/306",
+          "workedSolution": [
+            "Convert the terms: 17/306 − 180/306. Subtract to get -163/306; reduce to -163/306, then convert to -163/306."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_fraction_7",
+          "topic": "fraction",
+          "prompt": "7/16 × 18/29",
+          "canonicalAnswer": "63/232",
+          "workedSolution": [
+            "Multiply to get 126/464; reduce to 63/232, then convert to 63/232."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_fraction_8",
+          "topic": "fraction",
+          "prompt": "7/16 ÷ 4/21",
+          "canonicalAnswer": "2 19/64",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 7/16 × 21/4.",
+            "Multiply to get 147/64; reduce to 147/64, then convert to 2 19/64."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x − 16 = -32",
+          "canonicalAnswer": "-8",
+          "workedSolution": [
+            "2x = -16",
+            "x = -8"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x − 2 = 262",
+          "canonicalAnswer": "24",
+          "workedSolution": [
+            "11x = 264",
+            "x = 24"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 19x − 19 = -266",
+          "canonicalAnswer": "-13",
+          "workedSolution": [
+            "19x = -247",
+            "x = -13"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 7x − 21 = 70",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "7x = 91",
+            "x = 13"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 23x + 24 = -459",
+          "canonicalAnswer": "-21",
+          "workedSolution": [
+            "23x = -483",
+            "x = -21"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 25x − 7 = 93",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "25x = 100",
+            "x = 4"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve 20x + 3 = 123",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "20x = 120",
+            "x = 6"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x + 14 = 84",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "5x = 70",
+            "x = 14"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 308x + 126",
+          "canonicalAnswer": "14(22x + 9)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(22x + 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 57x + 3",
+          "canonicalAnswer": "3(19x + 1)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(19x + 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 220x + 231",
+          "canonicalAnswer": "11(20x + 21)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(20x + 21)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 126x + 60",
+          "canonicalAnswer": "6(21x + 10)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(21x + 10)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 40x − 88",
+          "canonicalAnswer": "8(5x − 11)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(5x − 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 64x − 28",
+          "canonicalAnswer": "4(16x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(16x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 126x − 308",
+          "canonicalAnswer": "14(9x − 22)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(9x − 22)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 180x − 15",
+          "canonicalAnswer": "15(12x − 1)",
+          "workedSolution": [
+            "The greatest common factor is 15.",
+            "Take out 15 to get 15(12x − 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 4 then increased by 22 to make -46. Find the number.",
+          "canonicalAnswer": "-17",
+          "workedSolution": [
+            "Undo the adjustment: 4 times the number is -68.",
+            "Divide by 4: the number is -17."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $49 on 7 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "7",
+          "workedSolution": [
+            "Divide the total cost of $49 by 7 notebooks.",
+            "Each notebook costs $7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 6 grams of flour for 2 servings. How much flour is needed for 4 servings?",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "The recipe uses 3 grams per serving.",
+            "3 grams times 4 servings is 12 grams."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 4 then decreased by 19 to make 73. Find the number.",
+          "canonicalAnswer": "23",
+          "workedSolution": [
+            "Undo the adjustment: 4 times the number is 92.",
+            "Divide by 4: the number is 23."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 19 then decreased by 17 to make -245. Find the number.",
+          "canonicalAnswer": "-12",
+          "workedSolution": [
+            "Undo the adjustment: 19 times the number is -228.",
+            "Divide by 19: the number is -12."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 9 then increased by 4 to make -212. Find the number.",
+          "canonicalAnswer": "-24",
+          "workedSolution": [
+            "Undo the adjustment: 9 times the number is -216.",
+            "Divide by 9: the number is -24."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 18 then decreased by 14 to make 112. Find the number.",
+          "canonicalAnswer": "7",
+          "workedSolution": [
+            "Undo the adjustment: 18 times the number is 126.",
+            "Divide by 18: the number is 7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 15 then increased by 12 to make 387. Find the number.",
+          "canonicalAnswer": "25",
+          "workedSolution": [
+            "Undo the adjustment: 15 times the number is 375.",
+            "Divide by 15: the number is 25."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 16.8 + 3.4",
+          "canonicalAnswer": "20.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 16.8 + 3.4.",
+            "The answer is 20.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 24.7 - 21.7",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "Set up the decimal calculation: 24.7 - 21.7.",
+            "The answer is 3."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 1.3 × 13.9",
+          "canonicalAnswer": "18.07",
+          "workedSolution": [
+            "Set up the decimal calculation: 1.3 × 13.9.",
+            "The answer is 18.07."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 14.3 + 5.3",
+          "canonicalAnswer": "19.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 14.3 + 5.3.",
+            "The answer is 19.6."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 3.3 - 6.4",
+          "canonicalAnswer": "-3.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 3.3 - 6.4.",
+            "The answer is -3.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 19.4 × 1.5",
+          "canonicalAnswer": "29.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 19.4 × 1.5.",
+            "The answer is 29.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 10.8 + 23.9",
+          "canonicalAnswer": "34.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 10.8 + 23.9.",
+            "The answer is 34.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_2_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 9.6 - 5.2",
+          "canonicalAnswer": "4.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 9.6 - 5.2.",
+            "The answer is 4.4."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w45_day_3",
+      "questions": [
+        {
+          "id": "maths_2026_w45_day_3_fraction_1",
+          "topic": "fraction",
+          "prompt": "25/26 + 21/30",
+          "canonicalAnswer": "1 43/65",
+          "workedSolution": [
+            "Convert the terms: 750/780 + 546/780. Add to get 1296/780; reduce to 108/65, then convert to 1 43/65."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_fraction_2",
+          "topic": "fraction",
+          "prompt": "16/24 − 8/11",
+          "canonicalAnswer": "-2/33",
+          "workedSolution": [
+            "Convert the terms: 176/264 − 192/264. Subtract to get -16/264; reduce to -2/33, then convert to -2/33."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_fraction_3",
+          "topic": "fraction",
+          "prompt": "16/27 × 2/28",
+          "canonicalAnswer": "8/189",
+          "workedSolution": [
+            "Multiply to get 32/756; reduce to 8/189, then convert to 8/189."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_fraction_4",
+          "topic": "fraction",
+          "prompt": "10/15 ÷ 11/16",
+          "canonicalAnswer": "32/33",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 10/15 × 16/11.",
+            "Multiply to get 160/165; reduce to 32/33, then convert to 32/33."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_fraction_5",
+          "topic": "fraction",
+          "prompt": "11/26 + 6/11",
+          "canonicalAnswer": "277/286",
+          "workedSolution": [
+            "Convert the terms: 121/286 + 156/286. Add to get 277/286; reduce to 277/286, then convert to 277/286."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_fraction_6",
+          "topic": "fraction",
+          "prompt": "1/4 − 5/6",
+          "canonicalAnswer": "-7/12",
+          "workedSolution": [
+            "Convert the terms: 6/24 − 20/24. Subtract to get -14/24; reduce to -7/12, then convert to -7/12."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_fraction_7",
+          "topic": "fraction",
+          "prompt": "7/23 × 14/16",
+          "canonicalAnswer": "49/184",
+          "workedSolution": [
+            "Multiply to get 98/368; reduce to 49/184, then convert to 49/184."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_fraction_8",
+          "topic": "fraction",
+          "prompt": "12/22 ÷ 2/6",
+          "canonicalAnswer": "1 7/11",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 12/22 × 6/2.",
+            "Multiply to get 72/44; reduce to 18/11, then convert to 1 7/11."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 16x − 4 = -260",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "16x = -256",
+            "x = -16"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 21x − 5 = 415",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "21x = 420",
+            "x = 20"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x + 12 = 52",
+          "canonicalAnswer": "8",
+          "workedSolution": [
+            "5x = 40",
+            "x = 8"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 14x − 15 = -351",
+          "canonicalAnswer": "-24",
+          "workedSolution": [
+            "14x = -336",
+            "x = -24"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 24x + 24 = -360",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "24x = -384",
+            "x = -16"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 10x − 4 = -214",
+          "canonicalAnswer": "-21",
+          "workedSolution": [
+            "10x = -210",
+            "x = -21"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve 6x + 22 = 124",
+          "canonicalAnswer": "17",
+          "workedSolution": [
+            "6x = 102",
+            "x = 17"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 15x + 7 = -248",
+          "canonicalAnswer": "-17",
+          "workedSolution": [
+            "15x = -255",
+            "x = -17"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 27x + 180",
+          "canonicalAnswer": "9(3x + 20)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(3x + 20)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 140x − 182",
+          "canonicalAnswer": "14(10x − 13)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(10x − 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 88x − 40",
+          "canonicalAnswer": "8(11x − 5)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(11x − 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 16x − 40",
+          "canonicalAnswer": "8(2x − 5)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(2x − 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 40x + 4",
+          "canonicalAnswer": "4(10x + 1)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(10x + 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 4x + 22",
+          "canonicalAnswer": "2(2x + 11)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(2x + 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 80x − 95",
+          "canonicalAnswer": "5(16x − 19)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(16x − 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 120x − 65",
+          "canonicalAnswer": "5(24x − 13)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(24x − 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 6 then increased by 2 to make -106. Find the number.",
+          "canonicalAnswer": "-18",
+          "workedSolution": [
+            "Undo the adjustment: 6 times the number is -108.",
+            "Divide by 6: the number is -18."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $24 on 8 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "Divide the total cost of $24 by 8 notebooks.",
+            "Each notebook costs $3."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 90 km in 6 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "15",
+          "workedSolution": [
+            "Divide 90 km by 6 hours.",
+            "The average speed is 15 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 13 then decreased by 23 to make -205. Find the number.",
+          "canonicalAnswer": "-14",
+          "workedSolution": [
+            "Undo the adjustment: 13 times the number is -182.",
+            "Divide by 13: the number is -14."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 16 then increased by 24 to make -216. Find the number.",
+          "canonicalAnswer": "-15",
+          "workedSolution": [
+            "Undo the adjustment: 16 times the number is -240.",
+            "Divide by 16: the number is -15."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 11 then decreased by 18 to make 114. Find the number.",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "Undo the adjustment: 11 times the number is 132.",
+            "Divide by 11: the number is 12."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 18 then decreased by 16 to make -448. Find the number.",
+          "canonicalAnswer": "-24",
+          "workedSolution": [
+            "Undo the adjustment: 18 times the number is -432.",
+            "Divide by 18: the number is -24."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 8 then increased by 2 to make 90. Find the number.",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "Undo the adjustment: 8 times the number is 88.",
+            "Divide by 8: the number is 11."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 7.8 + 9.0",
+          "canonicalAnswer": "16.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 7.8 + 9.0.",
+            "The answer is 16.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 4.4 - 5.6",
+          "canonicalAnswer": "-1.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 4.4 - 5.6.",
+            "The answer is -1.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 17.1 × 15.7",
+          "canonicalAnswer": "268.47",
+          "workedSolution": [
+            "Set up the decimal calculation: 17.1 × 15.7.",
+            "The answer is 268.47."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 23.5 + 18.5",
+          "canonicalAnswer": "42",
+          "workedSolution": [
+            "Set up the decimal calculation: 23.5 + 18.5.",
+            "The answer is 42."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 13.8 - 10.8",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "Set up the decimal calculation: 13.8 - 10.8.",
+            "The answer is 3."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 16.7 × 17.1",
+          "canonicalAnswer": "285.57",
+          "workedSolution": [
+            "Set up the decimal calculation: 16.7 × 17.1.",
+            "The answer is 285.57."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 12.9 + 5.6",
+          "canonicalAnswer": "18.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 12.9 + 5.6.",
+            "The answer is 18.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_3_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 24.6 - 2.8",
+          "canonicalAnswer": "21.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 24.6 - 2.8.",
+            "The answer is 21.8."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w45_day_4",
+      "questions": [
+        {
+          "id": "maths_2026_w45_day_4_fraction_1",
+          "topic": "fraction",
+          "prompt": "5/22 + 9/25",
+          "canonicalAnswer": "323/550",
+          "workedSolution": [
+            "Convert the terms: 125/550 + 198/550. Add to get 323/550; reduce to 323/550, then convert to 323/550."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_fraction_2",
+          "topic": "fraction",
+          "prompt": "9/25 − 2/16",
+          "canonicalAnswer": "47/200",
+          "workedSolution": [
+            "Convert the terms: 144/400 − 50/400. Subtract to get 94/400; reduce to 47/200, then convert to 47/200."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_fraction_3",
+          "topic": "fraction",
+          "prompt": "5/29 × 7/12",
+          "canonicalAnswer": "35/348",
+          "workedSolution": [
+            "Multiply to get 35/348; reduce to 35/348, then convert to 35/348."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_fraction_4",
+          "topic": "fraction",
+          "prompt": "3/5 ÷ 5/6",
+          "canonicalAnswer": "18/25",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 3/5 × 6/5.",
+            "Multiply to get 18/25; reduce to 18/25, then convert to 18/25."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_fraction_5",
+          "topic": "fraction",
+          "prompt": "10/18 + 10/21",
+          "canonicalAnswer": "1 2/63",
+          "workedSolution": [
+            "Convert the terms: 210/378 + 180/378. Add to get 390/378; reduce to 65/63, then convert to 1 2/63."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_fraction_6",
+          "topic": "fraction",
+          "prompt": "1/17 − 1/2",
+          "canonicalAnswer": "-15/34",
+          "workedSolution": [
+            "Convert the terms: 2/34 − 17/34. Subtract to get -15/34; reduce to -15/34, then convert to -15/34."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_fraction_7",
+          "topic": "fraction",
+          "prompt": "12/27 × 7/20",
+          "canonicalAnswer": "7/45",
+          "workedSolution": [
+            "Multiply to get 84/540; reduce to 7/45, then convert to 7/45."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_fraction_8",
+          "topic": "fraction",
+          "prompt": "8/16 ÷ 14/28",
+          "canonicalAnswer": "1",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 8/16 × 28/14.",
+            "Multiply to get 224/224; reduce to 1/1, then convert to 1."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 8x − 16 = 168",
+          "canonicalAnswer": "23",
+          "workedSolution": [
+            "8x = 184",
+            "x = 23"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 22x − 2 = 306",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "22x = 308",
+            "x = 14"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 10x − 4 = 236",
+          "canonicalAnswer": "24",
+          "workedSolution": [
+            "10x = 240",
+            "x = 24"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 17x + 21 = -285",
+          "canonicalAnswer": "-18",
+          "workedSolution": [
+            "17x = -306",
+            "x = -18"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 14 = 34",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "2x = 20",
+            "x = 10"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x − 6 = -22",
+          "canonicalAnswer": "-8",
+          "workedSolution": [
+            "2x = -16",
+            "x = -8"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve 6x + 7 = 115",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "6x = 108",
+            "x = 18"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 12x − 14 = 10",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "12x = 24",
+            "x = 2"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 147x − 56",
+          "canonicalAnswer": "7(21x − 8)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(21x − 8)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 8x + 52",
+          "canonicalAnswer": "4(2x + 13)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(2x + 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 28x + 92",
+          "canonicalAnswer": "4(7x + 23)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(7x + 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 84x − 40",
+          "canonicalAnswer": "4(21x − 10)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(21x − 10)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 4x + 96",
+          "canonicalAnswer": "4(1x + 24)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(1x + 24)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 84x + 98",
+          "canonicalAnswer": "14(6x + 7)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(6x + 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 216x + 276",
+          "canonicalAnswer": "12(18x + 23)",
+          "workedSolution": [
+            "The greatest common factor is 12.",
+            "Take out 12 to get 12(18x + 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 168x + 238",
+          "canonicalAnswer": "14(12x + 17)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(12x + 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 12 then increased by 21 to make 261. Find the number.",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "Undo the adjustment: 12 times the number is 240.",
+            "Divide by 12: the number is 20."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $90 on 9 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "Divide the total cost of $90 by 9 notebooks.",
+            "Each notebook costs $10."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 32 grams of flour for 4 servings. How much flour is needed for 4 servings?",
+          "canonicalAnswer": "32",
+          "workedSolution": [
+            "The recipe uses 8 grams per serving.",
+            "8 grams times 4 servings is 32 grams."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 22 then decreased by 16 to make 160. Find the number.",
+          "canonicalAnswer": "8",
+          "workedSolution": [
+            "Undo the adjustment: 22 times the number is 176.",
+            "Divide by 22: the number is 8."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 12 then increased by 4 to make 220. Find the number.",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "Undo the adjustment: 12 times the number is 216.",
+            "Divide by 12: the number is 18."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 21 then increased by 2 to make 86. Find the number.",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "Undo the adjustment: 21 times the number is 84.",
+            "Divide by 21: the number is 4."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 8 then increased by 5 to make -123. Find the number.",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "Undo the adjustment: 8 times the number is -128.",
+            "Divide by 8: the number is -16."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 6 then increased by 2 to make -40. Find the number.",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "Undo the adjustment: 6 times the number is -42.",
+            "Divide by 6: the number is -7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 14.0 + 4.2",
+          "canonicalAnswer": "18.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 14.0 + 4.2.",
+            "The answer is 18.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 9.7 - 19.3",
+          "canonicalAnswer": "-9.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 9.7 - 19.3.",
+            "The answer is -9.6."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 25.0 × 23.6",
+          "canonicalAnswer": "590",
+          "workedSolution": [
+            "Set up the decimal calculation: 25.0 × 23.6.",
+            "The answer is 590."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 24.5 + 10.3",
+          "canonicalAnswer": "34.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 24.5 + 10.3.",
+            "The answer is 34.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 24.1 - 1.2",
+          "canonicalAnswer": "22.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 24.1 - 1.2.",
+            "The answer is 22.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 8.6 × 15.7",
+          "canonicalAnswer": "135.02",
+          "workedSolution": [
+            "Set up the decimal calculation: 8.6 × 15.7.",
+            "The answer is 135.02."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 7.8 + 1.8",
+          "canonicalAnswer": "9.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 7.8 + 1.8.",
+            "The answer is 9.6."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_4_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 5.5 - 20.1",
+          "canonicalAnswer": "-14.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 5.5 - 20.1.",
+            "The answer is -14.6."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w45_day_5",
+      "questions": [
+        {
+          "id": "maths_2026_w45_day_5_fraction_1",
+          "topic": "fraction",
+          "prompt": "18/21 + 17/29",
+          "canonicalAnswer": "1 90/203",
+          "workedSolution": [
+            "Convert the terms: 522/609 + 357/609. Add to get 879/609; reduce to 293/203, then convert to 1 90/203."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_fraction_2",
+          "topic": "fraction",
+          "prompt": "7/11 − 8/18",
+          "canonicalAnswer": "19/99",
+          "workedSolution": [
+            "Convert the terms: 126/198 − 88/198. Subtract to get 38/198; reduce to 19/99, then convert to 19/99."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_fraction_3",
+          "topic": "fraction",
+          "prompt": "7/23 × 5/25",
+          "canonicalAnswer": "7/115",
+          "workedSolution": [
+            "Multiply to get 35/575; reduce to 7/115, then convert to 7/115."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_fraction_4",
+          "topic": "fraction",
+          "prompt": "3/6 ÷ 1/7",
+          "canonicalAnswer": "3 1/2",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 3/6 × 7/1.",
+            "Multiply to get 21/6; reduce to 7/2, then convert to 3 1/2."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_fraction_5",
+          "topic": "fraction",
+          "prompt": "7/30 + 3/13",
+          "canonicalAnswer": "181/390",
+          "workedSolution": [
+            "Convert the terms: 91/390 + 90/390. Add to get 181/390; reduce to 181/390, then convert to 181/390."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_fraction_6",
+          "topic": "fraction",
+          "prompt": "9/18 − 2/19",
+          "canonicalAnswer": "15/38",
+          "workedSolution": [
+            "Convert the terms: 171/342 − 36/342. Subtract to get 135/342; reduce to 15/38, then convert to 15/38."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_fraction_7",
+          "topic": "fraction",
+          "prompt": "4/21 × 10/16",
+          "canonicalAnswer": "5/42",
+          "workedSolution": [
+            "Multiply to get 40/336; reduce to 5/42, then convert to 5/42."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_fraction_8",
+          "topic": "fraction",
+          "prompt": "6/14 ÷ 5/13",
+          "canonicalAnswer": "1 4/35",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 6/14 × 13/5.",
+            "Multiply to get 78/70; reduce to 39/35, then convert to 1 4/35."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 10x − 17 = -57",
+          "canonicalAnswer": "-4",
+          "workedSolution": [
+            "10x = -40",
+            "x = -4"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 16x + 7 = 71",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "16x = 64",
+            "x = 4"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 12x − 17 = 151",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "12x = 168",
+            "x = 14"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 2 = 28",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "2x = 26",
+            "x = 13"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x − 17 = -72",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "11x = -55",
+            "x = -5"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x + 1 = 221",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "11x = 220",
+            "x = 20"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve 24x + 5 = 485",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "24x = 480",
+            "x = 20"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 8x + 22 = -18",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "8x = -40",
+            "x = -5"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 45x − 70",
+          "canonicalAnswer": "5(9x − 14)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(9x − 14)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 168x + 35",
+          "canonicalAnswer": "7(24x + 5)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(24x + 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 6x − 57",
+          "canonicalAnswer": "3(2x − 19)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(2x − 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 221x + 234",
+          "canonicalAnswer": "13(17x + 18)",
+          "workedSolution": [
+            "The greatest common factor is 13.",
+            "Take out 13 to get 13(17x + 18)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 220x + 11",
+          "canonicalAnswer": "11(20x + 1)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(20x + 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 72x + 228",
+          "canonicalAnswer": "12(6x + 19)",
+          "workedSolution": [
+            "The greatest common factor is 12.",
+            "Take out 12 to get 12(6x + 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 105x − 285",
+          "canonicalAnswer": "15(7x − 19)",
+          "workedSolution": [
+            "The greatest common factor is 15.",
+            "Take out 15 to get 15(7x − 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 322x − 112",
+          "canonicalAnswer": "14(23x − 8)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(23x − 8)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 15 then decreased by 8 to make -353. Find the number.",
+          "canonicalAnswer": "-23",
+          "workedSolution": [
+            "Undo the adjustment: 15 times the number is -345.",
+            "Divide by 15: the number is -23."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $35 on 7 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "5",
+          "workedSolution": [
+            "Divide the total cost of $35 by 7 notebooks.",
+            "Each notebook costs $5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 55 km in 5 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "Divide 55 km by 5 hours.",
+            "The average speed is 11 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 3 then decreased by 4 to make 59. Find the number.",
+          "canonicalAnswer": "21",
+          "workedSolution": [
+            "Undo the adjustment: 3 times the number is 63.",
+            "Divide by 3: the number is 21."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 15 then increased by 12 to make -63. Find the number.",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "Undo the adjustment: 15 times the number is -75.",
+            "Divide by 15: the number is -5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 18 then increased by 4 to make -356. Find the number.",
+          "canonicalAnswer": "-20",
+          "workedSolution": [
+            "Undo the adjustment: 18 times the number is -360.",
+            "Divide by 18: the number is -20."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 22 then increased by 22 to make -286. Find the number.",
+          "canonicalAnswer": "-14",
+          "workedSolution": [
+            "Undo the adjustment: 22 times the number is -308.",
+            "Divide by 22: the number is -14."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 14 then decreased by 11 to make -291. Find the number.",
+          "canonicalAnswer": "-20",
+          "workedSolution": [
+            "Undo the adjustment: 14 times the number is -280.",
+            "Divide by 14: the number is -20."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 9.0 + 22.2",
+          "canonicalAnswer": "31.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 9.0 + 22.2.",
+            "The answer is 31.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 15.0 - 7.9",
+          "canonicalAnswer": "7.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.0 - 7.9.",
+            "The answer is 7.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 20.6 × 10.4",
+          "canonicalAnswer": "214.24",
+          "workedSolution": [
+            "Set up the decimal calculation: 20.6 × 10.4.",
+            "The answer is 214.24."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 15.7 + 4.8",
+          "canonicalAnswer": "20.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.7 + 4.8.",
+            "The answer is 20.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 1.4 - 2.2",
+          "canonicalAnswer": "-0.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 1.4 - 2.2.",
+            "The answer is -0.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 16.4 × 13.4",
+          "canonicalAnswer": "219.76",
+          "workedSolution": [
+            "Set up the decimal calculation: 16.4 × 13.4.",
+            "The answer is 219.76."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 22.9 + 11.2",
+          "canonicalAnswer": "34.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 22.9 + 11.2.",
+            "The answer is 34.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_5_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 13.9 - 18.2",
+          "canonicalAnswer": "-4.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 13.9 - 18.2.",
+            "The answer is -4.3."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w45_day_6",
+      "questions": [
+        {
+          "id": "maths_2026_w45_day_6_fraction_1",
+          "topic": "fraction",
+          "prompt": "8/14 + 5/27",
+          "canonicalAnswer": "143/189",
+          "workedSolution": [
+            "Convert the terms: 216/378 + 70/378. Add to get 286/378; reduce to 143/189, then convert to 143/189."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_fraction_2",
+          "topic": "fraction",
+          "prompt": "4/9 − 11/30",
+          "canonicalAnswer": "7/90",
+          "workedSolution": [
+            "Convert the terms: 120/270 − 99/270. Subtract to get 21/270; reduce to 7/90, then convert to 7/90."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_fraction_3",
+          "topic": "fraction",
+          "prompt": "14/17 × 29/30",
+          "canonicalAnswer": "203/255",
+          "workedSolution": [
+            "Multiply to get 406/510; reduce to 203/255, then convert to 203/255."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_fraction_4",
+          "topic": "fraction",
+          "prompt": "2/27 ÷ 7/10",
+          "canonicalAnswer": "20/189",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 2/27 × 10/7.",
+            "Multiply to get 20/189; reduce to 20/189, then convert to 20/189."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_fraction_5",
+          "topic": "fraction",
+          "prompt": "13/19 + 2/7",
+          "canonicalAnswer": "129/133",
+          "workedSolution": [
+            "Convert the terms: 91/133 + 38/133. Add to get 129/133; reduce to 129/133, then convert to 129/133."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_fraction_6",
+          "topic": "fraction",
+          "prompt": "1/7 − 1/6",
+          "canonicalAnswer": "-1/42",
+          "workedSolution": [
+            "Convert the terms: 6/42 − 7/42. Subtract to get -1/42; reduce to -1/42, then convert to -1/42."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_fraction_7",
+          "topic": "fraction",
+          "prompt": "10/19 × 11/13",
+          "canonicalAnswer": "110/247",
+          "workedSolution": [
+            "Multiply to get 110/247; reduce to 110/247, then convert to 110/247."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_fraction_8",
+          "topic": "fraction",
+          "prompt": "2/30 ÷ 8/13",
+          "canonicalAnswer": "13/120",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 2/30 × 13/8.",
+            "Multiply to get 26/240; reduce to 13/120, then convert to 13/120."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 4x + 3 = -85",
+          "canonicalAnswer": "-22",
+          "workedSolution": [
+            "4x = -88",
+            "x = -22"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 4x − 11 = -55",
+          "canonicalAnswer": "-11",
+          "workedSolution": [
+            "4x = -44",
+            "x = -11"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 22x − 5 = -247",
+          "canonicalAnswer": "-11",
+          "workedSolution": [
+            "22x = -242",
+            "x = -11"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x + 7 = -37",
+          "canonicalAnswer": "-4",
+          "workedSolution": [
+            "11x = -44",
+            "x = -4"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 24x + 13 = 493",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "24x = 480",
+            "x = 20"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 5 = -43",
+          "canonicalAnswer": "-24",
+          "workedSolution": [
+            "2x = -48",
+            "x = -24"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve 18x − 6 = -384",
+          "canonicalAnswer": "-21",
+          "workedSolution": [
+            "18x = -378",
+            "x = -21"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 17x + 5 = 345",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "17x = 340",
+            "x = 20"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 72x − 204",
+          "canonicalAnswer": "12(6x − 17)",
+          "workedSolution": [
+            "The greatest common factor is 12.",
+            "Take out 12 to get 12(6x − 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 35x − 125",
+          "canonicalAnswer": "5(7x − 25)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(7x − 25)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 70x + 98",
+          "canonicalAnswer": "14(5x + 7)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(5x + 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 247x + 286",
+          "canonicalAnswer": "13(19x + 22)",
+          "workedSolution": [
+            "The greatest common factor is 13.",
+            "Take out 13 to get 13(19x + 22)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 20x + 10",
+          "canonicalAnswer": "10(2x + 1)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(2x + 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 200x − 32",
+          "canonicalAnswer": "8(25x − 4)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(25x − 4)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 8x + 12",
+          "canonicalAnswer": "4(2x + 3)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(2x + 3)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 18x + 24",
+          "canonicalAnswer": "6(3x + 4)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(3x + 4)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 23 then increased by 5 to make 51. Find the number.",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "Undo the adjustment: 23 times the number is 46.",
+            "Divide by 23: the number is 2."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $18 on 3 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "Divide the total cost of $18 by 3 notebooks.",
+            "Each notebook costs $6."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 48 grams of flour for 2 servings. How much flour is needed for 2 servings?",
+          "canonicalAnswer": "48",
+          "workedSolution": [
+            "The recipe uses 24 grams per serving.",
+            "24 grams times 2 servings is 48 grams."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 2 then increased by 11 to make 19. Find the number.",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "Undo the adjustment: 2 times the number is 8.",
+            "Divide by 2: the number is 4."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 4 then increased by 22 to make 106. Find the number.",
+          "canonicalAnswer": "21",
+          "workedSolution": [
+            "Undo the adjustment: 4 times the number is 84.",
+            "Divide by 4: the number is 21."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 13 then decreased by 5 to make 86. Find the number.",
+          "canonicalAnswer": "7",
+          "workedSolution": [
+            "Undo the adjustment: 13 times the number is 91.",
+            "Divide by 13: the number is 7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 14 then decreased by 15 to make -323. Find the number.",
+          "canonicalAnswer": "-22",
+          "workedSolution": [
+            "Undo the adjustment: 14 times the number is -308.",
+            "Divide by 14: the number is -22."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 2 then increased by 1 to make 51. Find the number.",
+          "canonicalAnswer": "25",
+          "workedSolution": [
+            "Undo the adjustment: 2 times the number is 50.",
+            "Divide by 2: the number is 25."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 15.9 + 17.1",
+          "canonicalAnswer": "33",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.9 + 17.1.",
+            "The answer is 33."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 13.2 - 16.5",
+          "canonicalAnswer": "-3.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 13.2 - 16.5.",
+            "The answer is -3.3."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 8.9 × 18.1",
+          "canonicalAnswer": "161.09",
+          "workedSolution": [
+            "Set up the decimal calculation: 8.9 × 18.1.",
+            "The answer is 161.09."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 16.8 + 11.6",
+          "canonicalAnswer": "28.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 16.8 + 11.6.",
+            "The answer is 28.4."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 15.1 - 7.6",
+          "canonicalAnswer": "7.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.1 - 7.6.",
+            "The answer is 7.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 19.7 × 11.0",
+          "canonicalAnswer": "216.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 19.7 × 11.0.",
+            "The answer is 216.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 19.7 + 9.0",
+          "canonicalAnswer": "28.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 19.7 + 9.0.",
+            "The answer is 28.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_6_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 6.3 - 4.6",
+          "canonicalAnswer": "1.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 6.3 - 4.6.",
+            "The answer is 1.7."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w45_day_7",
+      "questions": [
+        {
+          "id": "maths_2026_w45_day_7_fraction_1",
+          "topic": "fraction",
+          "prompt": "5/12 + 16/19",
+          "canonicalAnswer": "1 59/228",
+          "workedSolution": [
+            "Convert the terms: 95/228 + 192/228. Add to get 287/228; reduce to 287/228, then convert to 1 59/228."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_fraction_2",
+          "topic": "fraction",
+          "prompt": "6/19 − 5/26",
+          "canonicalAnswer": "61/494",
+          "workedSolution": [
+            "Convert the terms: 156/494 − 95/494. Subtract to get 61/494; reduce to 61/494, then convert to 61/494."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_fraction_3",
+          "topic": "fraction",
+          "prompt": "4/22 × 10/26",
+          "canonicalAnswer": "10/143",
+          "workedSolution": [
+            "Multiply to get 40/572; reduce to 10/143, then convert to 10/143."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_fraction_4",
+          "topic": "fraction",
+          "prompt": "14/19 ÷ 2/8",
+          "canonicalAnswer": "2 18/19",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 14/19 × 8/2.",
+            "Multiply to get 112/38; reduce to 56/19, then convert to 2 18/19."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_fraction_5",
+          "topic": "fraction",
+          "prompt": "1/3 + 3/15",
+          "canonicalAnswer": "8/15",
+          "workedSolution": [
+            "Convert the terms: 15/45 + 9/45. Add to get 24/45; reduce to 8/15, then convert to 8/15."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_fraction_6",
+          "topic": "fraction",
+          "prompt": "6/16 − 4/5",
+          "canonicalAnswer": "-17/40",
+          "workedSolution": [
+            "Convert the terms: 30/80 − 64/80. Subtract to get -34/80; reduce to -17/40, then convert to -17/40."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_fraction_7",
+          "topic": "fraction",
+          "prompt": "5/9 × 7/10",
+          "canonicalAnswer": "7/18",
+          "workedSolution": [
+            "Multiply to get 35/90; reduce to 7/18, then convert to 7/18."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_fraction_8",
+          "topic": "fraction",
+          "prompt": "2/21 ÷ 1/9",
+          "canonicalAnswer": "6/7",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 2/21 × 9/1.",
+            "Multiply to get 18/21; reduce to 6/7, then convert to 6/7."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve 3x + 16 = -11",
+          "canonicalAnswer": "-9",
+          "workedSolution": [
+            "3x = -27",
+            "x = -9"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 17x − 25 = -59",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "17x = -34",
+            "x = -2"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 20x + 20 = 280",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "20x = 260",
+            "x = 13"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 12x − 16 = -256",
+          "canonicalAnswer": "-20",
+          "workedSolution": [
+            "12x = -240",
+            "x = -20"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 20x + 14 = 254",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "20x = 240",
+            "x = 12"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 8x − 9 = 23",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "8x = 32",
+            "x = 4"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve 9x + 12 = 120",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "9x = 108",
+            "x = 12"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 20x − 20 = 40",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "20x = 60",
+            "x = 3"
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 96x − 92",
+          "canonicalAnswer": "4(24x − 23)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(24x − 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 64x − 92",
+          "canonicalAnswer": "4(16x − 23)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(16x − 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 44x + 253",
+          "canonicalAnswer": "11(4x + 23)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(4x + 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 20x + 32",
+          "canonicalAnswer": "4(5x + 8)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(5x + 8)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 80x − 56",
+          "canonicalAnswer": "8(10x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(10x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 88x − 209",
+          "canonicalAnswer": "11(8x − 19)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(8x − 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 60x + 250",
+          "canonicalAnswer": "10(6x + 25)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(6x + 25)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 240x + 135",
+          "canonicalAnswer": "15(16x + 9)",
+          "workedSolution": [
+            "The greatest common factor is 15.",
+            "Take out 15 to get 15(16x + 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 19 then decreased by 9 to make -294. Find the number.",
+          "canonicalAnswer": "-15",
+          "workedSolution": [
+            "Undo the adjustment: 19 times the number is -285.",
+            "Divide by 19: the number is -15."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $138 on 6 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "23",
+          "workedSolution": [
+            "Divide the total cost of $138 by 6 notebooks.",
+            "Each notebook costs $23."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 84 km in 4 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "21",
+          "workedSolution": [
+            "Divide 84 km by 4 hours.",
+            "The average speed is 21 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 22 then increased by 22 to make -154. Find the number.",
+          "canonicalAnswer": "-8",
+          "workedSolution": [
+            "Undo the adjustment: 22 times the number is -176.",
+            "Divide by 22: the number is -8."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 10 then increased by 15 to make -15. Find the number.",
+          "canonicalAnswer": "-3",
+          "workedSolution": [
+            "Undo the adjustment: 10 times the number is -30.",
+            "Divide by 10: the number is -3."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 6 then decreased by 7 to make -31. Find the number.",
+          "canonicalAnswer": "-4",
+          "workedSolution": [
+            "Undo the adjustment: 6 times the number is -24.",
+            "Divide by 6: the number is -4."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 25 then increased by 13 to make 88. Find the number.",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "Undo the adjustment: 25 times the number is 75.",
+            "Divide by 25: the number is 3."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 18 then increased by 8 to make 350. Find the number.",
+          "canonicalAnswer": "19",
+          "workedSolution": [
+            "Undo the adjustment: 18 times the number is 342.",
+            "Divide by 18: the number is 19."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 2.2 + 9.0",
+          "canonicalAnswer": "11.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 2.2 + 9.0.",
+            "The answer is 11.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 21.3 - 19.5",
+          "canonicalAnswer": "1.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 21.3 - 19.5.",
+            "The answer is 1.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 3.9 × 24.5",
+          "canonicalAnswer": "95.55",
+          "workedSolution": [
+            "Set up the decimal calculation: 3.9 × 24.5.",
+            "The answer is 95.55."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 5.2 + 23.6",
+          "canonicalAnswer": "28.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 5.2 + 23.6.",
+            "The answer is 28.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 6.9 - 23.4",
+          "canonicalAnswer": "-16.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 6.9 - 23.4.",
+            "The answer is -16.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 18.4 × 16.2",
+          "canonicalAnswer": "298.08",
+          "workedSolution": [
+            "Set up the decimal calculation: 18.4 × 16.2.",
+            "The answer is 298.08."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 6.9 + 4.6",
+          "canonicalAnswer": "11.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 6.9 + 4.6.",
+            "The answer is 11.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w45_day_7_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 14.0 - 17.3",
+          "canonicalAnswer": "-3.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 14.0 - 17.3.",
+            "The answer is -3.3."
+          ]
+        }
+      ]
+    }
+  ]
+}
