@@ -1,0 +1,5942 @@
+{
+  "schemaVersion": 4,
+  "catalogueVersion": 1,
+  "weekKey": "2026-W46",
+  "generatedAt": "2026-11-09T01:02:39.796Z",
+  "generatorVersion": 4,
+  "blueprintSource": "gemini",
+  "mathsLevel": 8,
+  "days": [
+    {
+      "id": "maths_2026_w46_day_1_v3_4_8955770c6af5_v4_34947b746cdf",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_1_fraction_1",
+          "topic": "fraction",
+          "prompt": "5/24 + 1/2",
+          "canonicalAnswer": "17/24",
+          "workedSolution": [
+            "Convert the terms: 10/48 + 24/48. Add to get 34/48; reduce to 17/24, then convert to 17/24."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_2",
+          "topic": "fraction",
+          "prompt": "2/5 − 3/8",
+          "canonicalAnswer": "1/40",
+          "workedSolution": [
+            "Convert the terms: 16/40 − 15/40. Subtract to get 1/40; reduce to 1/40, then convert to 1/40."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_3",
+          "topic": "fraction",
+          "prompt": "9/19 × 2/10",
+          "canonicalAnswer": "9/95",
+          "workedSolution": [
+            "Multiply to get 18/190; reduce to 9/95, then convert to 9/95."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_4",
+          "topic": "fraction",
+          "prompt": "10/20 ÷ 23/28",
+          "canonicalAnswer": "14/23",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 10/20 × 28/23.",
+            "Multiply to get 280/460; reduce to 14/23, then convert to 14/23."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_5",
+          "topic": "fraction",
+          "prompt": "7/25 + 4/19",
+          "canonicalAnswer": "233/475",
+          "workedSolution": [
+            "Convert the terms: 133/475 + 100/475. Add to get 233/475; reduce to 233/475, then convert to 233/475."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_6",
+          "topic": "fraction",
+          "prompt": "6/17 − 15/18",
+          "canonicalAnswer": "-49/102",
+          "workedSolution": [
+            "Convert the terms: 108/306 − 255/306. Subtract to get -147/306; reduce to -49/102, then convert to -49/102."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_7",
+          "topic": "fraction",
+          "prompt": "2/7 × 5/16",
+          "canonicalAnswer": "5/56",
+          "workedSolution": [
+            "Multiply to get 10/112; reduce to 5/56, then convert to 5/56."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_8",
+          "topic": "fraction",
+          "prompt": "25/28 ÷ 28/30",
+          "canonicalAnswer": "375/392",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 25/28 × 30/28.",
+            "Multiply to get 750/784; reduce to 375/392, then convert to 375/392."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -32",
+          "canonicalAnswer": "-20",
+          "workedSolution": [
+            "8/5x = -32",
+            "x = -20"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 7x + 16 = 1x − 122",
+          "canonicalAnswer": "-23",
+          "workedSolution": [
+            "6x = 138",
+            "x = -23"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 18x + 13 = 12x − 23",
+          "canonicalAnswer": "-6",
+          "workedSolution": [
+            "6x = 36",
+            "x = -6"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = -29 7/10",
+          "canonicalAnswer": "-11",
+          "workedSolution": [
+            "2.7x = -29 7/10",
+            "x = -11"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 20x − 7 = 18x − 13",
+          "canonicalAnswer": "-3",
+          "workedSolution": [
+            "2x = 6",
+            "x = -3"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 4x + 20 = 2x − 6",
+          "canonicalAnswer": "-13",
+          "workedSolution": [
+            "2x = 26",
+            "x = -13"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 16",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "8/5x = 16",
+            "x = 10"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x − 13 = 8x + 50",
+          "canonicalAnswer": "21",
+          "workedSolution": [
+            "3x = 63",
+            "x = 21"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 36x + 80",
+          "canonicalAnswer": "4(9x + 20)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(9x + 20)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 56x + 68",
+          "canonicalAnswer": "4(14x + 17)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(14x + 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 110x − 77",
+          "canonicalAnswer": "11(10x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(10x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 117x − 36",
+          "canonicalAnswer": "9(13x − 4)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(13x − 4)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 14x + 119",
+          "canonicalAnswer": "7(2x + 17)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(2x + 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 96x − 152",
+          "canonicalAnswer": "8(12x − 19)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(12x − 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 28x + 32",
+          "canonicalAnswer": "4(7x + 8)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(7x + 8)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 75x + 36",
+          "canonicalAnswer": "3(25x + 12)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(25x + 12)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 16 then decreased by 2 to make 206. Find the number.",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "Undo the adjustment: 16 times the number is 208.",
+            "Divide by 16: the number is 13."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $98 on 7 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "Divide the total cost of $98 by 7 notebooks.",
+            "Each notebook costs $14."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 51 km in 3 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "17",
+          "workedSolution": [
+            "Divide 51 km by 3 hours.",
+            "The average speed is 17 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 12 then decreased by 19 to make -283. Find the number.",
+          "canonicalAnswer": "-22",
+          "workedSolution": [
+            "Undo the adjustment: 12 times the number is -264.",
+            "Divide by 12: the number is -22."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 22 then increased by 14 to make -492. Find the number.",
+          "canonicalAnswer": "-23",
+          "workedSolution": [
+            "Undo the adjustment: 22 times the number is -506.",
+            "Divide by 22: the number is -23."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 11 then increased by 3 to make 256. Find the number.",
+          "canonicalAnswer": "23",
+          "workedSolution": [
+            "Undo the adjustment: 11 times the number is 253.",
+            "Divide by 11: the number is 23."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 18 then decreased by 4 to make 338. Find the number.",
+          "canonicalAnswer": "19",
+          "workedSolution": [
+            "Undo the adjustment: 18 times the number is 342.",
+            "Divide by 18: the number is 19."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 20 then decreased by 13 to make -393. Find the number.",
+          "canonicalAnswer": "-19",
+          "workedSolution": [
+            "Undo the adjustment: 20 times the number is -380.",
+            "Divide by 20: the number is -19."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 9.6 + 1.8",
+          "canonicalAnswer": "11.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 9.6 + 1.8.",
+            "The answer is 11.4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 13.3 - 7.3",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "Set up the decimal calculation: 13.3 - 7.3.",
+            "The answer is 6."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 17.9 × 1.6",
+          "canonicalAnswer": "28.64",
+          "workedSolution": [
+            "Set up the decimal calculation: 17.9 × 1.6.",
+            "The answer is 28.64."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 18.8 + 23.9",
+          "canonicalAnswer": "42.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 18.8 + 23.9.",
+            "The answer is 42.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 24.0 - 13.1",
+          "canonicalAnswer": "10.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 24.0 - 13.1.",
+            "The answer is 10.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 23.0 × 4.6",
+          "canonicalAnswer": "105.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 23.0 × 4.6.",
+            "The answer is 105.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 17.6 + 18.1",
+          "canonicalAnswer": "35.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 17.6 + 18.1.",
+            "The answer is 35.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 14.9 - 7.0",
+          "canonicalAnswer": "7.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 14.9 - 7.0.",
+            "The answer is 7.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_v3_4_8955770c6af5_linear_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the rule of the line through (-1, 3) and (1, 13).",
+          "canonicalAnswer": "y = 5x + 8",
+          "workedSolution": [
+            "Use y = mx + b with m = 5 and b = 8.",
+            "The rule answer is y = 5x + 8."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "rule",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 5,
+              "intercept": 8
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 3
+              },
+              {
+                "x": 1,
+                "y": 13
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 3
+              },
+              {
+                "x": 0,
+                "y": 8
+              },
+              {
+                "x": 1,
+                "y": 13
+              }
+            ],
+            "answer": "y = 5x + 8",
+            "distractors": [
+              "y = -5x + 8",
+              "y = 5x - 8",
+              "y = 8x + 5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 5 and b = 8.",
+              "The rule answer is y = 5x + 8."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v3_4_8955770c6af5_linear_2",
+          "topic": "two_step_equation",
+          "prompt": "Complete the table for y = -3x - 7.",
+          "canonicalAnswer": "(-1,-4); (0,-7); (1,-10)",
+          "workedSolution": [
+            "Use y = mx + b with m = -3 and b = -7.",
+            "The table answer is (-1,-4); (0,-7); (1,-10)."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "table",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": -3,
+              "intercept": -7
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -4
+              },
+              {
+                "x": 1,
+                "y": -10
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -4
+              },
+              {
+                "x": 0,
+                "y": -7
+              },
+              {
+                "x": 1,
+                "y": -10
+              }
+            ],
+            "answer": "(-1,-4); (0,-7); (1,-10)",
+            "distractors": [
+              "(-1,4); (0,7); (1,10)",
+              "(-4,-1); (-7,0); (-10,1)",
+              "(-1,-3); (0,-6); (1,-9)"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = -3 and b = -7.",
+              "The table answer is (-1,-4); (0,-7); (1,-10)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v3_4_8955770c6af5_linear_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the gradient of the line through (-1, -14) and (1, -10).",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "Use y = mx + b with m = 2 and b = -12.",
+            "The gradient answer is 2."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "gradient",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 2,
+              "intercept": -12
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -14
+              },
+              {
+                "x": 1,
+                "y": -10
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -14
+              },
+              {
+                "x": 0,
+                "y": -12
+              },
+              {
+                "x": 1,
+                "y": -10
+              }
+            ],
+            "answer": "2",
+            "distractors": [
+              "-2",
+              "3",
+              "1"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 2 and b = -12.",
+              "The gradient answer is 2."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v3_4_8955770c6af5_linear_4",
+          "topic": "two_step_equation",
+          "prompt": "Find the y-intercept of the line through (-1, -13) and (1, -17).",
+          "canonicalAnswer": "-15",
+          "workedSolution": [
+            "Use y = mx + b with m = -2 and b = -15.",
+            "The intercept answer is -15."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "intercept",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": -2,
+              "intercept": -15
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -13
+              },
+              {
+                "x": 1,
+                "y": -17
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -13
+              },
+              {
+                "x": 0,
+                "y": -15
+              },
+              {
+                "x": 1,
+                "y": -17
+              }
+            ],
+            "answer": "-15",
+            "distractors": [
+              "15",
+              "-14",
+              "-16"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = -2 and b = -15.",
+              "The intercept answer is -15."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the roots of y = -2((x - 2)^2 - 9).",
+          "canonicalAnswer": "-1, 5",
+          "workedSolution": [
+            "At a root, y = 0, so (x - 2)^2 = 9.",
+            "Taking both square roots gives x = 2 plus or minus 3.",
+            "The roots are -1, 5."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "roots",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": 2,
+              "k": 18
+            },
+            "roots": [
+              -1,
+              5
+            ],
+            "vertex": {
+              "x": 2,
+              "y": 18
+            },
+            "symmetryAxis": 2,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "-1, 5",
+            "distractors": [
+              "-1, 0",
+              "2, 5",
+              "1, -5"
+            ],
+            "workedSteps": [
+              "At a root, y = 0, so (x - 2)^2 = 9.",
+              "Taking both square roots gives x = 2 plus or minus 3.",
+              "The roots are -1, 5."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_2",
+          "topic": "two_step_equation",
+          "prompt": "Find the turning point of y = 2(x - -4)^2 + -18.",
+          "canonicalAnswer": "(-4, -18)",
+          "workedSolution": [
+            "Compare y = 2(x - -4)^2 + -18 with y = a(x - h)^2 + k.",
+            "The squared term is zero at x = -4, where y = -18.",
+            "The turning point is (-4, -18)."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "turning_point",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 2,
+              "h": -4,
+              "k": -18
+            },
+            "roots": [
+              -7,
+              -1
+            ],
+            "vertex": {
+              "x": -4,
+              "y": -18
+            },
+            "symmetryAxis": -4,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "(-4, -18)",
+            "distractors": [
+              "(-3, -18)",
+              "(-4, 18)",
+              "(-18, -4)"
+            ],
+            "workedSteps": [
+              "Compare y = 2(x - -4)^2 + -18 with y = a(x - h)^2 + k.",
+              "The squared term is zero at x = -4, where y = -18.",
+              "The turning point is (-4, -18)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the equation of the symmetry axis for y = 2(x - 0)^2 + -2.",
+          "canonicalAnswer": "x = 0",
+          "workedSolution": [
+            "The graph is in vertex form y = a(x - h)^2 + k.",
+            "Points equally far from h = 0 have equal squared terms and equal y values.",
+            "The symmetry axis is x = 0."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "symmetry",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 2,
+              "h": 0,
+              "k": -2
+            },
+            "roots": [
+              -1,
+              1
+            ],
+            "vertex": {
+              "x": 0,
+              "y": -2
+            },
+            "symmetryAxis": 0,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "x = 0",
+            "distractors": [
+              "x = 1",
+              "y = 0",
+              "alternative 3"
+            ],
+            "workedSteps": [
+              "The graph is in vertex form y = a(x - h)^2 + k.",
+              "Points equally far from h = 0 have equal squared terms and equal y values.",
+              "The symmetry axis is x = 0."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_4",
+          "topic": "two_step_equation",
+          "prompt": "State a, h and k for y = 1(x - 4)^2 + -4.",
+          "canonicalAnswer": "a = 1, h = 4, k = -4",
+          "workedSolution": [
+            "Compare the expression with vertex form y = a(x - h)^2 + k.",
+            "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+            "Therefore a = 1, h = 4, k = -4."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "transformation",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 1,
+              "h": 4,
+              "k": -4
+            },
+            "roots": [
+              2,
+              6
+            ],
+            "vertex": {
+              "x": 4,
+              "y": -4
+            },
+            "symmetryAxis": 4,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "a = 1, h = 4, k = -4",
+            "distractors": [
+              "a = -1, h = 4, k = -4",
+              "a = 1, h = -4, k = -4",
+              "a = 1, h = 4, k = 4"
+            ],
+            "workedSteps": [
+              "Compare the expression with vertex form y = a(x - h)^2 + k.",
+              "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+              "Therefore a = 1, h = 4, k = -4."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_2_v3_4_8955770c6af5_v4_34947b746cdf",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_2_fraction_1",
+          "topic": "fraction",
+          "prompt": "2/27 + 3/20",
+          "canonicalAnswer": "121/540",
+          "workedSolution": [
+            "Convert the terms: 40/540 + 81/540. Add to get 121/540; reduce to 121/540, then convert to 121/540."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_2",
+          "topic": "fraction",
+          "prompt": "15/16 − 10/25",
+          "canonicalAnswer": "43/80",
+          "workedSolution": [
+            "Convert the terms: 375/400 − 160/400. Subtract to get 215/400; reduce to 43/80, then convert to 43/80."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_3",
+          "topic": "fraction",
+          "prompt": "2/6 × 11/14",
+          "canonicalAnswer": "11/42",
+          "workedSolution": [
+            "Multiply to get 22/84; reduce to 11/42, then convert to 11/42."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_4",
+          "topic": "fraction",
+          "prompt": "2/11 ÷ 5/6",
+          "canonicalAnswer": "12/55",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 2/11 × 6/5.",
+            "Multiply to get 12/55; reduce to 12/55, then convert to 12/55."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_5",
+          "topic": "fraction",
+          "prompt": "1/2 + 1/2",
+          "canonicalAnswer": "1",
+          "workedSolution": [
+            "Convert the terms: 2/4 + 2/4. Add to get 4/4; reduce to 1/1, then convert to 1."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_6",
+          "topic": "fraction",
+          "prompt": "4/8 − 2/16",
+          "canonicalAnswer": "3/8",
+          "workedSolution": [
+            "Convert the terms: 64/128 − 16/128. Subtract to get 48/128; reduce to 3/8, then convert to 3/8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_7",
+          "topic": "fraction",
+          "prompt": "9/13 × 4/18",
+          "canonicalAnswer": "2/13",
+          "workedSolution": [
+            "Multiply to get 36/234; reduce to 2/13, then convert to 2/13."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_8",
+          "topic": "fraction",
+          "prompt": "8/17 ÷ 7/14",
+          "canonicalAnswer": "16/17",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 8/17 × 14/7.",
+            "Multiply to get 112/119; reduce to 16/17, then convert to 16/17."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -36 4/5",
+          "canonicalAnswer": "-23",
+          "workedSolution": [
+            "8/5x = -36 4/5",
+            "x = -23"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 22x − 25 = 1x + 206",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "21x = 231",
+            "x = 11"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 10x − 11 = 8x − 51",
+          "canonicalAnswer": "-20",
+          "workedSolution": [
+            "2x = 40",
+            "x = -20"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = -56 7/10",
+          "canonicalAnswer": "-21",
+          "workedSolution": [
+            "2.7x = -56 7/10",
+            "x = -21"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 24x − 8 = 7x + 145",
+          "canonicalAnswer": "9",
+          "workedSolution": [
+            "17x = 153",
+            "x = 9"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 14x + 8 = 2x + 44",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "12x = 36",
+            "x = 3"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 20 4/5",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "8/5x = 20 4/5",
+            "x = 13"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x + 5 = 1x + 25",
+          "canonicalAnswer": "5",
+          "workedSolution": [
+            "4x = 20",
+            "x = 5"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 8x − 46",
+          "canonicalAnswer": "2(4x − 23)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(4x − 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 60x − 51",
+          "canonicalAnswer": "3(20x − 17)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(20x − 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 126x + 119",
+          "canonicalAnswer": "7(18x + 17)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(18x + 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 38x − 16",
+          "canonicalAnswer": "2(19x − 8)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(19x − 8)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 60x − 190",
+          "canonicalAnswer": "10(6x − 19)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(6x − 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 144x + 117",
+          "canonicalAnswer": "9(16x + 13)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(16x + 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 264x + 275",
+          "canonicalAnswer": "11(24x + 25)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(24x + 25)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 96x + 40",
+          "canonicalAnswer": "8(12x + 5)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(12x + 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 12 then increased by 15 to make -177. Find the number.",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "Undo the adjustment: 12 times the number is -192.",
+            "Divide by 12: the number is -16."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $76 on 4 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "19",
+          "workedSolution": [
+            "Divide the total cost of $76 by 4 notebooks.",
+            "Each notebook costs $19."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 15 grams of flour for 3 servings. How much flour is needed for 6 servings?",
+          "canonicalAnswer": "30",
+          "workedSolution": [
+            "The recipe uses 5 grams per serving.",
+            "5 grams times 6 servings is 30 grams."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 12 then increased by 2 to make 242. Find the number.",
+          "canonicalAnswer": "20",
+          "workedSolution": [
+            "Undo the adjustment: 12 times the number is 240.",
+            "Divide by 12: the number is 20."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 14 then increased by 17 to make -81. Find the number.",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "Undo the adjustment: 14 times the number is -98.",
+            "Divide by 14: the number is -7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 7 then decreased by 12 to make 30. Find the number.",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "Undo the adjustment: 7 times the number is 42.",
+            "Divide by 7: the number is 6."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 25 then decreased by 18 to make -68. Find the number.",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "Undo the adjustment: 25 times the number is -50.",
+            "Divide by 25: the number is -2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 18 then increased by 25 to make -137. Find the number.",
+          "canonicalAnswer": "-9",
+          "workedSolution": [
+            "Undo the adjustment: 18 times the number is -162.",
+            "Divide by 18: the number is -9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 16.4 + 21.5",
+          "canonicalAnswer": "37.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 16.4 + 21.5.",
+            "The answer is 37.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 10.8 - 19.1",
+          "canonicalAnswer": "-8.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 10.8 - 19.1.",
+            "The answer is -8.3."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 11.9 × 24.3",
+          "canonicalAnswer": "289.17",
+          "workedSolution": [
+            "Set up the decimal calculation: 11.9 × 24.3.",
+            "The answer is 289.17."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 21.5 + 6.7",
+          "canonicalAnswer": "28.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 21.5 + 6.7.",
+            "The answer is 28.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 14.8 - 22.8",
+          "canonicalAnswer": "-8",
+          "workedSolution": [
+            "Set up the decimal calculation: 14.8 - 22.8.",
+            "The answer is -8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 15.0 × 22.5",
+          "canonicalAnswer": "337.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.0 × 22.5.",
+            "The answer is 337.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 20.3 + 3.7",
+          "canonicalAnswer": "24",
+          "workedSolution": [
+            "Set up the decimal calculation: 20.3 + 3.7.",
+            "The answer is 24."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 15.1 - 7.4",
+          "canonicalAnswer": "7.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.1 - 7.4.",
+            "The answer is 7.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_v3_4_8955770c6af5_linear_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the rule of the line through (-1, 6) and (1, 16).",
+          "canonicalAnswer": "y = 5x + 11",
+          "workedSolution": [
+            "Use y = mx + b with m = 5 and b = 11.",
+            "The rule answer is y = 5x + 11."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "rule",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 5,
+              "intercept": 11
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 6
+              },
+              {
+                "x": 1,
+                "y": 16
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 6
+              },
+              {
+                "x": 0,
+                "y": 11
+              },
+              {
+                "x": 1,
+                "y": 16
+              }
+            ],
+            "answer": "y = 5x + 11",
+            "distractors": [
+              "y = -5x + 11",
+              "y = 5x - 11",
+              "y = 11x + 5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 5 and b = 11.",
+              "The rule answer is y = 5x + 11."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v3_4_8955770c6af5_linear_2",
+          "topic": "two_step_equation",
+          "prompt": "Complete the table for y = 6x - 6.",
+          "canonicalAnswer": "(-1,-12); (0,-6); (1,0)",
+          "workedSolution": [
+            "Use y = mx + b with m = 6 and b = -6.",
+            "The table answer is (-1,-12); (0,-6); (1,0)."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "table",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 6,
+              "intercept": -6
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -12
+              },
+              {
+                "x": 1,
+                "y": 0
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -12
+              },
+              {
+                "x": 0,
+                "y": -6
+              },
+              {
+                "x": 1,
+                "y": 0
+              }
+            ],
+            "answer": "(-1,-12); (0,-6); (1,0)",
+            "distractors": [
+              "(-1,12); (0,6); (1,0)",
+              "(-12,-1); (-6,0); (0,1)",
+              "(-1,-11); (0,-5); (1,1)"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 6 and b = -6.",
+              "The table answer is (-1,-12); (0,-6); (1,0)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v3_4_8955770c6af5_linear_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the gradient of the line through (-1, 13) and (1, 9).",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "Use y = mx + b with m = -2 and b = 11.",
+            "The gradient answer is -2."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "gradient",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": -2,
+              "intercept": 11
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 13
+              },
+              {
+                "x": 1,
+                "y": 9
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 13
+              },
+              {
+                "x": 0,
+                "y": 11
+              },
+              {
+                "x": 1,
+                "y": 9
+              }
+            ],
+            "answer": "-2",
+            "distractors": [
+              "2",
+              "-1",
+              "-3"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = -2 and b = 11.",
+              "The gradient answer is -2."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v3_4_8955770c6af5_linear_4",
+          "topic": "two_step_equation",
+          "prompt": "Find the y-intercept of the line through (-1, 11) and (1, 17).",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "Use y = mx + b with m = 3 and b = 14.",
+            "The intercept answer is 14."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "intercept",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 3,
+              "intercept": 14
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 11
+              },
+              {
+                "x": 1,
+                "y": 17
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 11
+              },
+              {
+                "x": 0,
+                "y": 14
+              },
+              {
+                "x": 1,
+                "y": 17
+              }
+            ],
+            "answer": "14",
+            "distractors": [
+              "-14",
+              "15",
+              "13"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 3 and b = 14.",
+              "The intercept answer is 14."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the roots of y = -2((x - 3)^2 - 4).",
+          "canonicalAnswer": "1, 5",
+          "workedSolution": [
+            "At a root, y = 0, so (x - 3)^2 = 4.",
+            "Taking both square roots gives x = 3 plus or minus 2.",
+            "The roots are 1, 5."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "roots",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": 3,
+              "k": 8
+            },
+            "roots": [
+              1,
+              5
+            ],
+            "vertex": {
+              "x": 3,
+              "y": 8
+            },
+            "symmetryAxis": 3,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "1, 5",
+            "distractors": [
+              "1, 2",
+              "3, 5",
+              "-1, -5"
+            ],
+            "workedSteps": [
+              "At a root, y = 0, so (x - 3)^2 = 4.",
+              "Taking both square roots gives x = 3 plus or minus 2.",
+              "The roots are 1, 5."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_2",
+          "topic": "two_step_equation",
+          "prompt": "Find the turning point of y = 2(x - 2)^2 + -8.",
+          "canonicalAnswer": "(2, -8)",
+          "workedSolution": [
+            "Compare y = 2(x - 2)^2 + -8 with y = a(x - h)^2 + k.",
+            "The squared term is zero at x = 2, where y = -8.",
+            "The turning point is (2, -8)."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "turning_point",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 2,
+              "h": 2,
+              "k": -8
+            },
+            "roots": [
+              0,
+              4
+            ],
+            "vertex": {
+              "x": 2,
+              "y": -8
+            },
+            "symmetryAxis": 2,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "(2, -8)",
+            "distractors": [
+              "(3, -8)",
+              "(2, 8)",
+              "(-8, 2)"
+            ],
+            "workedSteps": [
+              "Compare y = 2(x - 2)^2 + -8 with y = a(x - h)^2 + k.",
+              "The squared term is zero at x = 2, where y = -8.",
+              "The turning point is (2, -8)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the equation of the symmetry axis for y = -1(x - -1)^2 + 4.",
+          "canonicalAnswer": "x = -1",
+          "workedSolution": [
+            "The graph is in vertex form y = a(x - h)^2 + k.",
+            "Points equally far from h = -1 have equal squared terms and equal y values.",
+            "The symmetry axis is x = -1."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "symmetry",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -1,
+              "h": -1,
+              "k": 4
+            },
+            "roots": [
+              -3,
+              1
+            ],
+            "vertex": {
+              "x": -1,
+              "y": 4
+            },
+            "symmetryAxis": -1,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "x = -1",
+            "distractors": [
+              "x = 1",
+              "x = 0",
+              "y = -1"
+            ],
+            "workedSteps": [
+              "The graph is in vertex form y = a(x - h)^2 + k.",
+              "Points equally far from h = -1 have equal squared terms and equal y values.",
+              "The symmetry axis is x = -1."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_4",
+          "topic": "two_step_equation",
+          "prompt": "State a, h and k for y = 2(x - 0)^2 + -2.",
+          "canonicalAnswer": "a = 2, h = 0, k = -2",
+          "workedSolution": [
+            "Compare the expression with vertex form y = a(x - h)^2 + k.",
+            "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+            "Therefore a = 2, h = 0, k = -2."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "transformation",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 2,
+              "h": 0,
+              "k": -2
+            },
+            "roots": [
+              -1,
+              1
+            ],
+            "vertex": {
+              "x": 0,
+              "y": -2
+            },
+            "symmetryAxis": 0,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "a = 2, h = 0, k = -2",
+            "distractors": [
+              "a = -2, h = 0, k = -2",
+              "a = 2, h = 0, k = 2",
+              "alternative 3"
+            ],
+            "workedSteps": [
+              "Compare the expression with vertex form y = a(x - h)^2 + k.",
+              "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+              "Therefore a = 2, h = 0, k = -2."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_3_v3_4_8955770c6af5_v4_34947b746cdf",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_3_fraction_1",
+          "topic": "fraction",
+          "prompt": "1/2 + 5/16",
+          "canonicalAnswer": "13/16",
+          "workedSolution": [
+            "Convert the terms: 16/32 + 10/32. Add to get 26/32; reduce to 13/16, then convert to 13/16."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_2",
+          "topic": "fraction",
+          "prompt": "8/15 − 13/27",
+          "canonicalAnswer": "7/135",
+          "workedSolution": [
+            "Convert the terms: 216/405 − 195/405. Subtract to get 21/405; reduce to 7/135, then convert to 7/135."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_3",
+          "topic": "fraction",
+          "prompt": "14/16 × 5/12",
+          "canonicalAnswer": "35/96",
+          "workedSolution": [
+            "Multiply to get 70/192; reduce to 35/96, then convert to 35/96."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_4",
+          "topic": "fraction",
+          "prompt": "7/25 ÷ 4/8",
+          "canonicalAnswer": "14/25",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 7/25 × 8/4.",
+            "Multiply to get 56/100; reduce to 14/25, then convert to 14/25."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_5",
+          "topic": "fraction",
+          "prompt": "16/21 + 3/4",
+          "canonicalAnswer": "1 43/84",
+          "workedSolution": [
+            "Convert the terms: 64/84 + 63/84. Add to get 127/84; reduce to 127/84, then convert to 1 43/84."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_6",
+          "topic": "fraction",
+          "prompt": "14/25 − 14/19",
+          "canonicalAnswer": "-84/475",
+          "workedSolution": [
+            "Convert the terms: 266/475 − 350/475. Subtract to get -84/475; reduce to -84/475, then convert to -84/475."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_7",
+          "topic": "fraction",
+          "prompt": "2/4 × 2/4",
+          "canonicalAnswer": "1/4",
+          "workedSolution": [
+            "Multiply to get 4/16; reduce to 1/4, then convert to 1/4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_8",
+          "topic": "fraction",
+          "prompt": "15/24 ÷ 15/18",
+          "canonicalAnswer": "3/4",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 15/24 × 18/15.",
+            "Multiply to get 270/360; reduce to 3/4, then convert to 3/4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -16",
+          "canonicalAnswer": "-10",
+          "workedSolution": [
+            "8/5x = -16",
+            "x = -10"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 9x − 20 = 6x − 38",
+          "canonicalAnswer": "-6",
+          "workedSolution": [
+            "3x = 18",
+            "x = -6"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 10x − 5 = 1x + 94",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "9x = 99",
+            "x = 11"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = 32 2/5",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "2.7x = 32 2/5",
+            "x = 12"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 3x + 24 = 1x + 20",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "2x = 4",
+            "x = -2"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x − 5 = 3x − 35",
+          "canonicalAnswer": "-15",
+          "workedSolution": [
+            "2x = 30",
+            "x = -15"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -20 4/5",
+          "canonicalAnswer": "-13",
+          "workedSolution": [
+            "8/5x = -20 4/5",
+            "x = -13"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 8x + 8 = 7x − 10",
+          "canonicalAnswer": "-18",
+          "workedSolution": [
+            "1x = 18",
+            "x = -18"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 28x + 133",
+          "canonicalAnswer": "7(4x + 19)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(4x + 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 18x + 225",
+          "canonicalAnswer": "9(2x + 25)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(2x + 25)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 42x − 48",
+          "canonicalAnswer": "6(7x − 8)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(7x − 8)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 126x − 138",
+          "canonicalAnswer": "6(21x − 23)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(21x − 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 84x + 114",
+          "canonicalAnswer": "6(14x + 19)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(14x + 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 48x + 18",
+          "canonicalAnswer": "6(8x + 3)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(8x + 3)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 25x + 70",
+          "canonicalAnswer": "5(5x + 14)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(5x + 14)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 36x − 69",
+          "canonicalAnswer": "3(12x − 23)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(12x − 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 23 then decreased by 20 to make 555. Find the number.",
+          "canonicalAnswer": "25",
+          "workedSolution": [
+            "Undo the adjustment: 23 times the number is 575.",
+            "Divide by 23: the number is 25."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $70 on 7 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "Divide the total cost of $70 by 7 notebooks.",
+            "Each notebook costs $10."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 108 km in 6 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "Divide 108 km by 6 hours.",
+            "The average speed is 18 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 6 then increased by 15 to make -129. Find the number.",
+          "canonicalAnswer": "-24",
+          "workedSolution": [
+            "Undo the adjustment: 6 times the number is -144.",
+            "Divide by 6: the number is -24."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 3 then decreased by 19 to make -52. Find the number.",
+          "canonicalAnswer": "-11",
+          "workedSolution": [
+            "Undo the adjustment: 3 times the number is -33.",
+            "Divide by 3: the number is -11."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 17 then decreased by 16 to make -186. Find the number.",
+          "canonicalAnswer": "-10",
+          "workedSolution": [
+            "Undo the adjustment: 17 times the number is -170.",
+            "Divide by 17: the number is -10."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 5 then decreased by 8 to make -68. Find the number.",
+          "canonicalAnswer": "-12",
+          "workedSolution": [
+            "Undo the adjustment: 5 times the number is -60.",
+            "Divide by 5: the number is -12."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 13 then decreased by 14 to make 298. Find the number.",
+          "canonicalAnswer": "24",
+          "workedSolution": [
+            "Undo the adjustment: 13 times the number is 312.",
+            "Divide by 13: the number is 24."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 23.4 + 10.8",
+          "canonicalAnswer": "34.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 23.4 + 10.8.",
+            "The answer is 34.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 14.5 - 10.3",
+          "canonicalAnswer": "4.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 14.5 - 10.3.",
+            "The answer is 4.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 4.9 × 5.5",
+          "canonicalAnswer": "26.95",
+          "workedSolution": [
+            "Set up the decimal calculation: 4.9 × 5.5.",
+            "The answer is 26.95."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 22.6 + 6.1",
+          "canonicalAnswer": "28.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 22.6 + 6.1.",
+            "The answer is 28.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 15.4 - 19.7",
+          "canonicalAnswer": "-4.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.4 - 19.7.",
+            "The answer is -4.3."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 5.7 × 22.9",
+          "canonicalAnswer": "130.53",
+          "workedSolution": [
+            "Set up the decimal calculation: 5.7 × 22.9.",
+            "The answer is 130.53."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 5.5 + 6.6",
+          "canonicalAnswer": "12.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 5.5 + 6.6.",
+            "The answer is 12.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 21.0 - 16.4",
+          "canonicalAnswer": "4.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 21.0 - 16.4.",
+            "The answer is 4.6."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_v3_4_8955770c6af5_linear_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the rule of the line through (-1, 9) and (1, 19).",
+          "canonicalAnswer": "y = 5x + 14",
+          "workedSolution": [
+            "Use y = mx + b with m = 5 and b = 14.",
+            "The rule answer is y = 5x + 14."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "rule",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 5,
+              "intercept": 14
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 9
+              },
+              {
+                "x": 1,
+                "y": 19
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 9
+              },
+              {
+                "x": 0,
+                "y": 14
+              },
+              {
+                "x": 1,
+                "y": 19
+              }
+            ],
+            "answer": "y = 5x + 14",
+            "distractors": [
+              "y = -5x + 14",
+              "y = 5x - 14",
+              "y = 14x + 5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 5 and b = 14.",
+              "The rule answer is y = 5x + 14."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v3_4_8955770c6af5_linear_2",
+          "topic": "two_step_equation",
+          "prompt": "Complete the table for y = 1x - 5.",
+          "canonicalAnswer": "(-1,-6); (0,-5); (1,-4)",
+          "workedSolution": [
+            "Use y = mx + b with m = 1 and b = -5.",
+            "The table answer is (-1,-6); (0,-5); (1,-4)."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "table",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 1,
+              "intercept": -5
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -6
+              },
+              {
+                "x": 1,
+                "y": -4
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -6
+              },
+              {
+                "x": 0,
+                "y": -5
+              },
+              {
+                "x": 1,
+                "y": -4
+              }
+            ],
+            "answer": "(-1,-6); (0,-5); (1,-4)",
+            "distractors": [
+              "(-1,6); (0,5); (1,4)",
+              "(-6,-1); (-5,0); (-4,1)",
+              "(-1,-5); (0,-4); (1,-3)"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 1 and b = -5.",
+              "The table answer is (-1,-6); (0,-5); (1,-4)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v3_4_8955770c6af5_linear_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the gradient of the line through (-1, -3) and (1, 9).",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "Use y = mx + b with m = 6 and b = 3.",
+            "The gradient answer is 6."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "gradient",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 6,
+              "intercept": 3
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -3
+              },
+              {
+                "x": 1,
+                "y": 9
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -3
+              },
+              {
+                "x": 0,
+                "y": 3
+              },
+              {
+                "x": 1,
+                "y": 9
+              }
+            ],
+            "answer": "6",
+            "distractors": [
+              "-6",
+              "7",
+              "5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 6 and b = 3.",
+              "The gradient answer is 6."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v3_4_8955770c6af5_linear_4",
+          "topic": "two_step_equation",
+          "prompt": "Find the y-intercept of the line through (-1, 15) and (1, 7).",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "Use y = mx + b with m = -4 and b = 11.",
+            "The intercept answer is 11."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "intercept",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": -4,
+              "intercept": 11
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 15
+              },
+              {
+                "x": 1,
+                "y": 7
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 15
+              },
+              {
+                "x": 0,
+                "y": 11
+              },
+              {
+                "x": 1,
+                "y": 7
+              }
+            ],
+            "answer": "11",
+            "distractors": [
+              "-11",
+              "12",
+              "10"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = -4 and b = 11.",
+              "The intercept answer is 11."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the roots of y = -2((x - 4)^2 - 1).",
+          "canonicalAnswer": "3, 5",
+          "workedSolution": [
+            "At a root, y = 0, so (x - 4)^2 = 1.",
+            "Taking both square roots gives x = 4 plus or minus 1.",
+            "The roots are 3, 5."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "roots",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": 4,
+              "k": 2
+            },
+            "roots": [
+              3,
+              5
+            ],
+            "vertex": {
+              "x": 4,
+              "y": 2
+            },
+            "symmetryAxis": 4,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "3, 5",
+            "distractors": [
+              "3, 4",
+              "4, 5",
+              "-3, -5"
+            ],
+            "workedSteps": [
+              "At a root, y = 0, so (x - 4)^2 = 1.",
+              "Taking both square roots gives x = 4 plus or minus 1.",
+              "The roots are 3, 5."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_2",
+          "topic": "two_step_equation",
+          "prompt": "Find the turning point of y = 2(x - -1)^2 + -2.",
+          "canonicalAnswer": "(-1, -2)",
+          "workedSolution": [
+            "Compare y = 2(x - -1)^2 + -2 with y = a(x - h)^2 + k.",
+            "The squared term is zero at x = -1, where y = -2.",
+            "The turning point is (-1, -2)."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "turning_point",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 2,
+              "h": -1,
+              "k": -2
+            },
+            "roots": [
+              -2,
+              0
+            ],
+            "vertex": {
+              "x": -1,
+              "y": -2
+            },
+            "symmetryAxis": -1,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "(-1, -2)",
+            "distractors": [
+              "(0, -2)",
+              "(-1, 2)",
+              "(-2, -1)"
+            ],
+            "workedSteps": [
+              "Compare y = 2(x - -1)^2 + -2 with y = a(x - h)^2 + k.",
+              "The squared term is zero at x = -1, where y = -2.",
+              "The turning point is (-1, -2)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the equation of the symmetry axis for y = 1(x - -1)^2 + -1.",
+          "canonicalAnswer": "x = -1",
+          "workedSolution": [
+            "The graph is in vertex form y = a(x - h)^2 + k.",
+            "Points equally far from h = -1 have equal squared terms and equal y values.",
+            "The symmetry axis is x = -1."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "symmetry",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 1,
+              "h": -1,
+              "k": -1
+            },
+            "roots": [
+              -2,
+              0
+            ],
+            "vertex": {
+              "x": -1,
+              "y": -1
+            },
+            "symmetryAxis": -1,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "x = -1",
+            "distractors": [
+              "x = 1",
+              "x = 0",
+              "y = -1"
+            ],
+            "workedSteps": [
+              "The graph is in vertex form y = a(x - h)^2 + k.",
+              "Points equally far from h = -1 have equal squared terms and equal y values.",
+              "The symmetry axis is x = -1."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_4",
+          "topic": "two_step_equation",
+          "prompt": "State a, h and k for y = 2(x - 4)^2 + -18.",
+          "canonicalAnswer": "a = 2, h = 4, k = -18",
+          "workedSolution": [
+            "Compare the expression with vertex form y = a(x - h)^2 + k.",
+            "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+            "Therefore a = 2, h = 4, k = -18."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "transformation",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 2,
+              "h": 4,
+              "k": -18
+            },
+            "roots": [
+              1,
+              7
+            ],
+            "vertex": {
+              "x": 4,
+              "y": -18
+            },
+            "symmetryAxis": 4,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "a = 2, h = 4, k = -18",
+            "distractors": [
+              "a = -2, h = 4, k = -18",
+              "a = 2, h = -4, k = -18",
+              "a = 2, h = 4, k = 18"
+            ],
+            "workedSteps": [
+              "Compare the expression with vertex form y = a(x - h)^2 + k.",
+              "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+              "Therefore a = 2, h = 4, k = -18."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_4_v3_4_8955770c6af5_v4_34947b746cdf",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_4_fraction_1",
+          "topic": "fraction",
+          "prompt": "12/16 + 14/17",
+          "canonicalAnswer": "1 39/68",
+          "workedSolution": [
+            "Convert the terms: 204/272 + 224/272. Add to get 428/272; reduce to 107/68, then convert to 1 39/68."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_2",
+          "topic": "fraction",
+          "prompt": "1/12 − 20/27",
+          "canonicalAnswer": "-71/108",
+          "workedSolution": [
+            "Convert the terms: 27/324 − 240/324. Subtract to get -213/324; reduce to -71/108, then convert to -71/108."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_3",
+          "topic": "fraction",
+          "prompt": "20/21 × 3/4",
+          "canonicalAnswer": "5/7",
+          "workedSolution": [
+            "Multiply to get 60/84; reduce to 5/7, then convert to 5/7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_4",
+          "topic": "fraction",
+          "prompt": "7/13 ÷ 23/28",
+          "canonicalAnswer": "196/299",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 7/13 × 28/23.",
+            "Multiply to get 196/299; reduce to 196/299, then convert to 196/299."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_5",
+          "topic": "fraction",
+          "prompt": "4/9 + 1/2",
+          "canonicalAnswer": "17/18",
+          "workedSolution": [
+            "Convert the terms: 8/18 + 9/18. Add to get 17/18; reduce to 17/18, then convert to 17/18."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_6",
+          "topic": "fraction",
+          "prompt": "2/25 − 16/25",
+          "canonicalAnswer": "-14/25",
+          "workedSolution": [
+            "Convert the terms: 50/625 − 400/625. Subtract to get -350/625; reduce to -14/25, then convert to -14/25."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_7",
+          "topic": "fraction",
+          "prompt": "1/2 × 7/11",
+          "canonicalAnswer": "7/22",
+          "workedSolution": [
+            "Multiply to get 7/22; reduce to 7/22, then convert to 7/22."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_8",
+          "topic": "fraction",
+          "prompt": "7/11 ÷ 7/15",
+          "canonicalAnswer": "1 4/11",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 7/11 × 15/7.",
+            "Multiply to get 105/77; reduce to 15/11, then convert to 1 4/11."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -24",
+          "canonicalAnswer": "-15",
+          "workedSolution": [
+            "8/5x = -24",
+            "x = -15"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 8x − 25 = 7x − 49",
+          "canonicalAnswer": "-24",
+          "workedSolution": [
+            "1x = 24",
+            "x = -24"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 12x + 4 = 3x − 185",
+          "canonicalAnswer": "-21",
+          "workedSolution": [
+            "9x = 189",
+            "x = -21"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = 35 1/10",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "2.7x = 35 1/10",
+            "x = 13"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 24x + 9 = 17x − 82",
+          "canonicalAnswer": "-13",
+          "workedSolution": [
+            "7x = 91",
+            "x = -13"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x − 25 = 1x − 17",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "4x = 8",
+            "x = 2"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 33 3/5",
+          "canonicalAnswer": "21",
+          "workedSolution": [
+            "8/5x = 33 3/5",
+            "x = 21"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 14x + 4 = 5x + 103",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "9x = 99",
+            "x = 11"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 84x − 288",
+          "canonicalAnswer": "12(7x − 24)",
+          "workedSolution": [
+            "The greatest common factor is 12.",
+            "Take out 12 to get 12(7x − 24)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 102x + 84",
+          "canonicalAnswer": "6(17x + 14)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(17x + 14)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 108x + 66",
+          "canonicalAnswer": "6(18x + 11)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(18x + 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 225x − 54",
+          "canonicalAnswer": "9(25x − 6)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(25x − 6)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 96x + 114",
+          "canonicalAnswer": "6(16x + 19)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(16x + 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 150x − 96",
+          "canonicalAnswer": "6(25x − 16)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(25x − 16)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 138x − 42",
+          "canonicalAnswer": "6(23x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(23x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 153x + 72",
+          "canonicalAnswer": "9(17x + 8)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(17x + 8)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 17 then increased by 22 to make 192. Find the number.",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "Undo the adjustment: 17 times the number is 170.",
+            "Divide by 17: the number is 10."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $65 on 5 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "Divide the total cost of $65 by 5 notebooks.",
+            "Each notebook costs $13."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 36 grams of flour for 6 servings. How much flour is needed for 2 servings?",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "The recipe uses 6 grams per serving.",
+            "6 grams times 2 servings is 12 grams."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 12 then increased by 23 to make 107. Find the number.",
+          "canonicalAnswer": "7",
+          "workedSolution": [
+            "Undo the adjustment: 12 times the number is 84.",
+            "Divide by 12: the number is 7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 24 then decreased by 15 to make -447. Find the number.",
+          "canonicalAnswer": "-18",
+          "workedSolution": [
+            "Undo the adjustment: 24 times the number is -432.",
+            "Divide by 24: the number is -18."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 5 then decreased by 24 to make 51. Find the number.",
+          "canonicalAnswer": "15",
+          "workedSolution": [
+            "Undo the adjustment: 5 times the number is 75.",
+            "Divide by 5: the number is 15."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 16 then increased by 20 to make -124. Find the number.",
+          "canonicalAnswer": "-9",
+          "workedSolution": [
+            "Undo the adjustment: 16 times the number is -144.",
+            "Divide by 16: the number is -9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 13 then decreased by 20 to make -280. Find the number.",
+          "canonicalAnswer": "-20",
+          "workedSolution": [
+            "Undo the adjustment: 13 times the number is -260.",
+            "Divide by 13: the number is -20."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 1.1 + 19.8",
+          "canonicalAnswer": "20.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 1.1 + 19.8.",
+            "The answer is 20.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 15.7 - 18.4",
+          "canonicalAnswer": "-2.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.7 - 18.4.",
+            "The answer is -2.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 13.8 × 14.9",
+          "canonicalAnswer": "205.62",
+          "workedSolution": [
+            "Set up the decimal calculation: 13.8 × 14.9.",
+            "The answer is 205.62."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 13.7 + 19.6",
+          "canonicalAnswer": "33.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 13.7 + 19.6.",
+            "The answer is 33.3."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 1.8 - 22.5",
+          "canonicalAnswer": "-20.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 1.8 - 22.5.",
+            "The answer is -20.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 3.5 × 12.7",
+          "canonicalAnswer": "44.45",
+          "workedSolution": [
+            "Set up the decimal calculation: 3.5 × 12.7.",
+            "The answer is 44.45."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 2.9 + 9.0",
+          "canonicalAnswer": "11.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 2.9 + 9.0.",
+            "The answer is 11.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 6.7 - 4.1",
+          "canonicalAnswer": "2.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 6.7 - 4.1.",
+            "The answer is 2.6."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_v3_4_8955770c6af5_linear_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the rule of the line through (-1, -19) and (1, -9).",
+          "canonicalAnswer": "y = 5x - 14",
+          "workedSolution": [
+            "Use y = mx + b with m = 5 and b = -14.",
+            "The rule answer is y = 5x - 14."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "rule",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 5,
+              "intercept": -14
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -19
+              },
+              {
+                "x": 1,
+                "y": -9
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -19
+              },
+              {
+                "x": 0,
+                "y": -14
+              },
+              {
+                "x": 1,
+                "y": -9
+              }
+            ],
+            "answer": "y = 5x - 14",
+            "distractors": [
+              "y = -5x - 14",
+              "y = 5x + 14",
+              "y = -14x + 5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 5 and b = -14.",
+              "The rule answer is y = 5x - 14."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v3_4_8955770c6af5_linear_2",
+          "topic": "two_step_equation",
+          "prompt": "Complete the table for y = -3x - 4.",
+          "canonicalAnswer": "(-1,-1); (0,-4); (1,-7)",
+          "workedSolution": [
+            "Use y = mx + b with m = -3 and b = -4.",
+            "The table answer is (-1,-1); (0,-4); (1,-7)."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "table",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": -3,
+              "intercept": -4
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -1
+              },
+              {
+                "x": 1,
+                "y": -7
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -1
+              },
+              {
+                "x": 0,
+                "y": -4
+              },
+              {
+                "x": 1,
+                "y": -7
+              }
+            ],
+            "answer": "(-1,-1); (0,-4); (1,-7)",
+            "distractors": [
+              "(-1,1); (0,4); (1,7)",
+              "(-1,-1); (-4,0); (-7,1)",
+              "(-1,0); (0,-3); (1,-6)"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = -3 and b = -4.",
+              "The table answer is (-1,-1); (0,-4); (1,-7)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v3_4_8955770c6af5_linear_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the gradient of the line through (-1, -7) and (1, -3).",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "Use y = mx + b with m = 2 and b = -5.",
+            "The gradient answer is 2."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "gradient",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 2,
+              "intercept": -5
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -7
+              },
+              {
+                "x": 1,
+                "y": -3
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -7
+              },
+              {
+                "x": 0,
+                "y": -5
+              },
+              {
+                "x": 1,
+                "y": -3
+              }
+            ],
+            "answer": "2",
+            "distractors": [
+              "-2",
+              "3",
+              "1"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 2 and b = -5.",
+              "The gradient answer is 2."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v3_4_8955770c6af5_linear_4",
+          "topic": "two_step_equation",
+          "prompt": "Find the y-intercept of the line through (-1, 6) and (1, 10).",
+          "canonicalAnswer": "8",
+          "workedSolution": [
+            "Use y = mx + b with m = 2 and b = 8.",
+            "The intercept answer is 8."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "intercept",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 2,
+              "intercept": 8
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 6
+              },
+              {
+                "x": 1,
+                "y": 10
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 6
+              },
+              {
+                "x": 0,
+                "y": 8
+              },
+              {
+                "x": 1,
+                "y": 10
+              }
+            ],
+            "answer": "8",
+            "distractors": [
+              "-8",
+              "9",
+              "7"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 2 and b = 8.",
+              "The intercept answer is 8."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the roots of y = -2((x - -4)^2 - 9).",
+          "canonicalAnswer": "-7, -1",
+          "workedSolution": [
+            "At a root, y = 0, so (x - -4)^2 = 9.",
+            "Taking both square roots gives x = -4 plus or minus 3.",
+            "The roots are -7, -1."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "roots",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": -4,
+              "k": 18
+            },
+            "roots": [
+              -7,
+              -1
+            ],
+            "vertex": {
+              "x": -4,
+              "y": 18
+            },
+            "symmetryAxis": -4,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "-7, -1",
+            "distractors": [
+              "-7, -6",
+              "-4, -1",
+              "7, 1"
+            ],
+            "workedSteps": [
+              "At a root, y = 0, so (x - -4)^2 = 9.",
+              "Taking both square roots gives x = -4 plus or minus 3.",
+              "The roots are -7, -1."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_2",
+          "topic": "two_step_equation",
+          "prompt": "Find the turning point of y = 2(x - -4)^2 + -2.",
+          "canonicalAnswer": "(-4, -2)",
+          "workedSolution": [
+            "Compare y = 2(x - -4)^2 + -2 with y = a(x - h)^2 + k.",
+            "The squared term is zero at x = -4, where y = -2.",
+            "The turning point is (-4, -2)."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "turning_point",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 2,
+              "h": -4,
+              "k": -2
+            },
+            "roots": [
+              -5,
+              -3
+            ],
+            "vertex": {
+              "x": -4,
+              "y": -2
+            },
+            "symmetryAxis": -4,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "(-4, -2)",
+            "distractors": [
+              "(-3, -2)",
+              "(-4, 2)",
+              "(-2, -4)"
+            ],
+            "workedSteps": [
+              "Compare y = 2(x - -4)^2 + -2 with y = a(x - h)^2 + k.",
+              "The squared term is zero at x = -4, where y = -2.",
+              "The turning point is (-4, -2)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the equation of the symmetry axis for y = -1(x - -2)^2 + 4.",
+          "canonicalAnswer": "x = -2",
+          "workedSolution": [
+            "The graph is in vertex form y = a(x - h)^2 + k.",
+            "Points equally far from h = -2 have equal squared terms and equal y values.",
+            "The symmetry axis is x = -2."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "symmetry",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -1,
+              "h": -2,
+              "k": 4
+            },
+            "roots": [
+              -4,
+              0
+            ],
+            "vertex": {
+              "x": -2,
+              "y": 4
+            },
+            "symmetryAxis": -2,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "x = -2",
+            "distractors": [
+              "x = 2",
+              "x = -1",
+              "y = -2"
+            ],
+            "workedSteps": [
+              "The graph is in vertex form y = a(x - h)^2 + k.",
+              "Points equally far from h = -2 have equal squared terms and equal y values.",
+              "The symmetry axis is x = -2."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_4",
+          "topic": "two_step_equation",
+          "prompt": "State a, h and k for y = 2(x - -1)^2 + -8.",
+          "canonicalAnswer": "a = 2, h = -1, k = -8",
+          "workedSolution": [
+            "Compare the expression with vertex form y = a(x - h)^2 + k.",
+            "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+            "Therefore a = 2, h = -1, k = -8."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "transformation",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 2,
+              "h": -1,
+              "k": -8
+            },
+            "roots": [
+              -3,
+              1
+            ],
+            "vertex": {
+              "x": -1,
+              "y": -8
+            },
+            "symmetryAxis": -1,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "a = 2, h = -1, k = -8",
+            "distractors": [
+              "a = -2, h = -1, k = -8",
+              "a = 2, h = 1, k = -8",
+              "a = 2, h = -1, k = 8"
+            ],
+            "workedSteps": [
+              "Compare the expression with vertex form y = a(x - h)^2 + k.",
+              "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+              "Therefore a = 2, h = -1, k = -8."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_5_v3_4_8955770c6af5_v4_34947b746cdf",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_5_fraction_1",
+          "topic": "fraction",
+          "prompt": "15/16 + 3/10",
+          "canonicalAnswer": "1 19/80",
+          "workedSolution": [
+            "Convert the terms: 150/160 + 48/160. Add to get 198/160; reduce to 99/80, then convert to 1 19/80."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_2",
+          "topic": "fraction",
+          "prompt": "1/2 − 7/12",
+          "canonicalAnswer": "-1/12",
+          "workedSolution": [
+            "Convert the terms: 12/24 − 14/24. Subtract to get -2/24; reduce to -1/12, then convert to -1/12."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_3",
+          "topic": "fraction",
+          "prompt": "1/16 × 1/15",
+          "canonicalAnswer": "1/240",
+          "workedSolution": [
+            "Multiply to get 1/240; reduce to 1/240, then convert to 1/240."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_4",
+          "topic": "fraction",
+          "prompt": "3/5 ÷ 9/27",
+          "canonicalAnswer": "1 4/5",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 3/5 × 27/9.",
+            "Multiply to get 81/45; reduce to 9/5, then convert to 1 4/5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_5",
+          "topic": "fraction",
+          "prompt": "2/14 + 5/22",
+          "canonicalAnswer": "57/154",
+          "workedSolution": [
+            "Convert the terms: 44/308 + 70/308. Add to get 114/308; reduce to 57/154, then convert to 57/154."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_6",
+          "topic": "fraction",
+          "prompt": "5/10 − 14/20",
+          "canonicalAnswer": "-1/5",
+          "workedSolution": [
+            "Convert the terms: 100/200 − 140/200. Subtract to get -40/200; reduce to -1/5, then convert to -1/5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_7",
+          "topic": "fraction",
+          "prompt": "17/27 × 6/17",
+          "canonicalAnswer": "2/9",
+          "workedSolution": [
+            "Multiply to get 102/459; reduce to 2/9, then convert to 2/9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_8",
+          "topic": "fraction",
+          "prompt": "5/9 ÷ 18/19",
+          "canonicalAnswer": "95/162",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 5/9 × 19/18.",
+            "Multiply to get 95/162; reduce to 95/162, then convert to 95/162."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -25 3/5",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "8/5x = -25 3/5",
+            "x = -16"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 14x − 11 = 10x − 59",
+          "canonicalAnswer": "-12",
+          "workedSolution": [
+            "4x = 48",
+            "x = -12"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 6x + 20 = 1x − 25",
+          "canonicalAnswer": "-9",
+          "workedSolution": [
+            "5x = 45",
+            "x = -9"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = 27",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "2.7x = 27",
+            "x = 10"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 4x − 20 = 3x − 3",
+          "canonicalAnswer": "17",
+          "workedSolution": [
+            "1x = 17",
+            "x = 17"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 17x + 9 = 11x − 21",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "6x = 30",
+            "x = -5"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 4 4/5",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "8/5x = 4 4/5",
+            "x = 3"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 18x − 4 = 4x − 256",
+          "canonicalAnswer": "-18",
+          "workedSolution": [
+            "14x = 252",
+            "x = -18"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 153x + 54",
+          "canonicalAnswer": "9(17x + 6)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(17x + 6)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 55x + 5",
+          "canonicalAnswer": "5(11x + 1)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(11x + 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 9x + 81",
+          "canonicalAnswer": "9(1x + 9)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(1x + 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 24x + 80",
+          "canonicalAnswer": "8(3x + 10)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(3x + 10)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 192x + 40",
+          "canonicalAnswer": "8(24x + 5)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(24x + 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 110x + 90",
+          "canonicalAnswer": "10(11x + 9)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(11x + 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 90x − 153",
+          "canonicalAnswer": "9(10x − 17)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(10x − 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 77x − 49",
+          "canonicalAnswer": "7(11x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(11x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 2 then decreased by 11 to make -33. Find the number.",
+          "canonicalAnswer": "-11",
+          "workedSolution": [
+            "Undo the adjustment: 2 times the number is -22.",
+            "Divide by 2: the number is -11."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $26 on 2 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "Divide the total cost of $26 by 2 notebooks.",
+            "Each notebook costs $13."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 85 km in 5 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "17",
+          "workedSolution": [
+            "Divide 85 km by 5 hours.",
+            "The average speed is 17 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 24 then increased by 17 to make -271. Find the number.",
+          "canonicalAnswer": "-12",
+          "workedSolution": [
+            "Undo the adjustment: 24 times the number is -288.",
+            "Divide by 24: the number is -12."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 22 then increased by 6 to make -38. Find the number.",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "Undo the adjustment: 22 times the number is -44.",
+            "Divide by 22: the number is -2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 6 then decreased by 10 to make -34. Find the number.",
+          "canonicalAnswer": "-4",
+          "workedSolution": [
+            "Undo the adjustment: 6 times the number is -24.",
+            "Divide by 6: the number is -4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 19 then increased by 25 to make -336. Find the number.",
+          "canonicalAnswer": "-19",
+          "workedSolution": [
+            "Undo the adjustment: 19 times the number is -361.",
+            "Divide by 19: the number is -19."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 23 then decreased by 4 to make 502. Find the number.",
+          "canonicalAnswer": "22",
+          "workedSolution": [
+            "Undo the adjustment: 23 times the number is 506.",
+            "Divide by 23: the number is 22."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 10.6 + 16.9",
+          "canonicalAnswer": "27.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 10.6 + 16.9.",
+            "The answer is 27.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 13.5 - 12.8",
+          "canonicalAnswer": "0.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 13.5 - 12.8.",
+            "The answer is 0.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 11.6 × 14.8",
+          "canonicalAnswer": "171.68",
+          "workedSolution": [
+            "Set up the decimal calculation: 11.6 × 14.8.",
+            "The answer is 171.68."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 4.2 + 4.8",
+          "canonicalAnswer": "9",
+          "workedSolution": [
+            "Set up the decimal calculation: 4.2 + 4.8.",
+            "The answer is 9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 23.5 - 17.3",
+          "canonicalAnswer": "6.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 23.5 - 17.3.",
+            "The answer is 6.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 10.1 × 3.6",
+          "canonicalAnswer": "36.36",
+          "workedSolution": [
+            "Set up the decimal calculation: 10.1 × 3.6.",
+            "The answer is 36.36."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 6.1 + 2.9",
+          "canonicalAnswer": "9",
+          "workedSolution": [
+            "Set up the decimal calculation: 6.1 + 2.9.",
+            "The answer is 9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 1.3 - 1.3",
+          "canonicalAnswer": "0",
+          "workedSolution": [
+            "Set up the decimal calculation: 1.3 - 1.3.",
+            "The answer is 0."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_v3_4_8955770c6af5_linear_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the rule of the line through (-1, -16) and (1, -6).",
+          "canonicalAnswer": "y = 5x - 11",
+          "workedSolution": [
+            "Use y = mx + b with m = 5 and b = -11.",
+            "The rule answer is y = 5x - 11."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "rule",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 5,
+              "intercept": -11
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -16
+              },
+              {
+                "x": 1,
+                "y": -6
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -16
+              },
+              {
+                "x": 0,
+                "y": -11
+              },
+              {
+                "x": 1,
+                "y": -6
+              }
+            ],
+            "answer": "y = 5x - 11",
+            "distractors": [
+              "y = -5x - 11",
+              "y = 5x + 11",
+              "y = -11x + 5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 5 and b = -11.",
+              "The rule answer is y = 5x - 11."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v3_4_8955770c6af5_linear_2",
+          "topic": "two_step_equation",
+          "prompt": "Complete the table for y = 6x - 3.",
+          "canonicalAnswer": "(-1,-9); (0,-3); (1,3)",
+          "workedSolution": [
+            "Use y = mx + b with m = 6 and b = -3.",
+            "The table answer is (-1,-9); (0,-3); (1,3)."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "table",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 6,
+              "intercept": -3
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -9
+              },
+              {
+                "x": 1,
+                "y": 3
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -9
+              },
+              {
+                "x": 0,
+                "y": -3
+              },
+              {
+                "x": 1,
+                "y": 3
+              }
+            ],
+            "answer": "(-1,-9); (0,-3); (1,3)",
+            "distractors": [
+              "(-1,9); (0,3); (1,-3)",
+              "(-9,-1); (-3,0); (3,1)",
+              "(-1,-8); (0,-2); (1,4)"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 6 and b = -3.",
+              "The table answer is (-1,-9); (0,-3); (1,3)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v3_4_8955770c6af5_linear_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the gradient of the line through (-1, -10) and (1, -14).",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "Use y = mx + b with m = -2 and b = -12.",
+            "The gradient answer is -2."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "gradient",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": -2,
+              "intercept": -12
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -10
+              },
+              {
+                "x": 1,
+                "y": -14
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -10
+              },
+              {
+                "x": 0,
+                "y": -12
+              },
+              {
+                "x": 1,
+                "y": -14
+              }
+            ],
+            "answer": "-2",
+            "distractors": [
+              "2",
+              "-1",
+              "-3"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = -2 and b = -12.",
+              "The gradient answer is -2."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v3_4_8955770c6af5_linear_4",
+          "topic": "two_step_equation",
+          "prompt": "Find the y-intercept of the line through (-1, 12) and (1, 0).",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "Use y = mx + b with m = -6 and b = 6.",
+            "The intercept answer is 6."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "intercept",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": -6,
+              "intercept": 6
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 12
+              },
+              {
+                "x": 1,
+                "y": 0
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 12
+              },
+              {
+                "x": 0,
+                "y": 6
+              },
+              {
+                "x": 1,
+                "y": 0
+              }
+            ],
+            "answer": "6",
+            "distractors": [
+              "-6",
+              "7",
+              "5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = -6 and b = 6.",
+              "The intercept answer is 6."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the roots of y = -2((x - -3)^2 - 4).",
+          "canonicalAnswer": "-5, -1",
+          "workedSolution": [
+            "At a root, y = 0, so (x - -3)^2 = 4.",
+            "Taking both square roots gives x = -3 plus or minus 2.",
+            "The roots are -5, -1."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "roots",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": -3,
+              "k": 8
+            },
+            "roots": [
+              -5,
+              -1
+            ],
+            "vertex": {
+              "x": -3,
+              "y": 8
+            },
+            "symmetryAxis": -3,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "-5, -1",
+            "distractors": [
+              "-5, -4",
+              "-3, -1",
+              "5, 1"
+            ],
+            "workedSteps": [
+              "At a root, y = 0, so (x - -3)^2 = 4.",
+              "Taking both square roots gives x = -3 plus or minus 2.",
+              "The roots are -5, -1."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_2",
+          "topic": "two_step_equation",
+          "prompt": "Find the turning point of y = -2(x - 2)^2 + 18.",
+          "canonicalAnswer": "(2, 18)",
+          "workedSolution": [
+            "Compare y = -2(x - 2)^2 + 18 with y = a(x - h)^2 + k.",
+            "The squared term is zero at x = 2, where y = 18.",
+            "The turning point is (2, 18)."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "turning_point",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": 2,
+              "k": 18
+            },
+            "roots": [
+              -1,
+              5
+            ],
+            "vertex": {
+              "x": 2,
+              "y": 18
+            },
+            "symmetryAxis": 2,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "(2, 18)",
+            "distractors": [
+              "(3, 18)",
+              "(2, -18)",
+              "(18, 2)"
+            ],
+            "workedSteps": [
+              "Compare y = -2(x - 2)^2 + 18 with y = a(x - h)^2 + k.",
+              "The squared term is zero at x = 2, where y = 18.",
+              "The turning point is (2, 18)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the equation of the symmetry axis for y = 1(x - -3)^2 + -1.",
+          "canonicalAnswer": "x = -3",
+          "workedSolution": [
+            "The graph is in vertex form y = a(x - h)^2 + k.",
+            "Points equally far from h = -3 have equal squared terms and equal y values.",
+            "The symmetry axis is x = -3."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "symmetry",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 1,
+              "h": -3,
+              "k": -1
+            },
+            "roots": [
+              -4,
+              -2
+            ],
+            "vertex": {
+              "x": -3,
+              "y": -1
+            },
+            "symmetryAxis": -3,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "x = -3",
+            "distractors": [
+              "x = 3",
+              "x = -2",
+              "y = -3"
+            ],
+            "workedSteps": [
+              "The graph is in vertex form y = a(x - h)^2 + k.",
+              "Points equally far from h = -3 have equal squared terms and equal y values.",
+              "The symmetry axis is x = -3."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_4",
+          "topic": "two_step_equation",
+          "prompt": "State a, h and k for y = -2(x - 3)^2 + 2.",
+          "canonicalAnswer": "a = -2, h = 3, k = 2",
+          "workedSolution": [
+            "Compare the expression with vertex form y = a(x - h)^2 + k.",
+            "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+            "Therefore a = -2, h = 3, k = 2."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "transformation",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": 3,
+              "k": 2
+            },
+            "roots": [
+              2,
+              4
+            ],
+            "vertex": {
+              "x": 3,
+              "y": 2
+            },
+            "symmetryAxis": 3,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "a = -2, h = 3, k = 2",
+            "distractors": [
+              "a = 2, h = 3, k = 2",
+              "a = -2, h = -3, k = 2",
+              "a = -2, h = 3, k = -2"
+            ],
+            "workedSteps": [
+              "Compare the expression with vertex form y = a(x - h)^2 + k.",
+              "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+              "Therefore a = -2, h = 3, k = 2."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_6_v3_4_8955770c6af5_v4_34947b746cdf",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_6_fraction_1",
+          "topic": "fraction",
+          "prompt": "7/18 + 10/13",
+          "canonicalAnswer": "1 37/234",
+          "workedSolution": [
+            "Convert the terms: 91/234 + 180/234. Add to get 271/234; reduce to 271/234, then convert to 1 37/234."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_2",
+          "topic": "fraction",
+          "prompt": "14/26 − 1/11",
+          "canonicalAnswer": "64/143",
+          "workedSolution": [
+            "Convert the terms: 154/286 − 26/286. Subtract to get 128/286; reduce to 64/143, then convert to 64/143."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_3",
+          "topic": "fraction",
+          "prompt": "1/2 × 3/6",
+          "canonicalAnswer": "1/4",
+          "workedSolution": [
+            "Multiply to get 3/12; reduce to 1/4, then convert to 1/4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_4",
+          "topic": "fraction",
+          "prompt": "2/19 ÷ 10/15",
+          "canonicalAnswer": "3/19",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 2/19 × 15/10.",
+            "Multiply to get 30/190; reduce to 3/19, then convert to 3/19."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_5",
+          "topic": "fraction",
+          "prompt": "5/11 + 6/16",
+          "canonicalAnswer": "73/88",
+          "workedSolution": [
+            "Convert the terms: 80/176 + 66/176. Add to get 146/176; reduce to 73/88, then convert to 73/88."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_6",
+          "topic": "fraction",
+          "prompt": "6/9 − 5/27",
+          "canonicalAnswer": "13/27",
+          "workedSolution": [
+            "Convert the terms: 162/243 − 45/243. Subtract to get 117/243; reduce to 13/27, then convert to 13/27."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_7",
+          "topic": "fraction",
+          "prompt": "19/21 × 16/22",
+          "canonicalAnswer": "152/231",
+          "workedSolution": [
+            "Multiply to get 304/462; reduce to 152/231, then convert to 152/231."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_8",
+          "topic": "fraction",
+          "prompt": "1/5 ÷ 24/27",
+          "canonicalAnswer": "9/40",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 1/5 × 27/24.",
+            "Multiply to get 27/120; reduce to 9/40, then convert to 9/40."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 22 2/5",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "8/5x = 22 2/5",
+            "x = 14"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 7x − 3 = 3x − 15",
+          "canonicalAnswer": "-3",
+          "workedSolution": [
+            "4x = 12",
+            "x = -3"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 16x + 20 = 9x − 43",
+          "canonicalAnswer": "-9",
+          "workedSolution": [
+            "7x = 63",
+            "x = -9"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = -8 1/10",
+          "canonicalAnswer": "-3",
+          "workedSolution": [
+            "2.7x = -8 1/10",
+            "x = -3"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 10x + 20 = 2x + 220",
+          "canonicalAnswer": "25",
+          "workedSolution": [
+            "8x = 200",
+            "x = 25"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 23x − 9 = 12x − 229",
+          "canonicalAnswer": "-20",
+          "workedSolution": [
+            "11x = 220",
+            "x = -20"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 40",
+          "canonicalAnswer": "25",
+          "workedSolution": [
+            "8/5x = 40",
+            "x = 25"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 22x + 21 = 1x − 63",
+          "canonicalAnswer": "-4",
+          "workedSolution": [
+            "21x = 84",
+            "x = -4"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 63x − 45",
+          "canonicalAnswer": "9(7x − 5)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(7x − 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 198x + 253",
+          "canonicalAnswer": "11(18x + 23)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(18x + 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 4x − 68",
+          "canonicalAnswer": "4(1x − 17)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(1x − 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 133x + 147",
+          "canonicalAnswer": "7(19x + 21)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(19x + 21)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 66x + 60",
+          "canonicalAnswer": "6(11x + 10)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(11x + 10)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 275x − 231",
+          "canonicalAnswer": "11(25x − 21)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(25x − 21)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 225x + 81",
+          "canonicalAnswer": "9(25x + 9)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(25x + 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 14x + 175",
+          "canonicalAnswer": "7(2x + 25)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(2x + 25)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 10 then increased by 25 to make -45. Find the number.",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "Undo the adjustment: 10 times the number is -70.",
+            "Divide by 10: the number is -7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $14 on 2 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "7",
+          "workedSolution": [
+            "Divide the total cost of $14 by 2 notebooks.",
+            "Each notebook costs $7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 85 grams of flour for 5 servings. How much flour is needed for 4 servings?",
+          "canonicalAnswer": "68",
+          "workedSolution": [
+            "The recipe uses 17 grams per serving.",
+            "17 grams times 4 servings is 68 grams."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 17 then decreased by 15 to make 87. Find the number.",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "Undo the adjustment: 17 times the number is 102.",
+            "Divide by 17: the number is 6."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 15 then decreased by 6 to make -246. Find the number.",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "Undo the adjustment: 15 times the number is -240.",
+            "Divide by 15: the number is -16."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 19 then decreased by 19 to make 38. Find the number.",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "Undo the adjustment: 19 times the number is 57.",
+            "Divide by 19: the number is 3."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 20 then decreased by 22 to make -202. Find the number.",
+          "canonicalAnswer": "-9",
+          "workedSolution": [
+            "Undo the adjustment: 20 times the number is -180.",
+            "Divide by 20: the number is -9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 20 then increased by 2 to make -158. Find the number.",
+          "canonicalAnswer": "-8",
+          "workedSolution": [
+            "Undo the adjustment: 20 times the number is -160.",
+            "Divide by 20: the number is -8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 9.0 + 12.7",
+          "canonicalAnswer": "21.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 9.0 + 12.7.",
+            "The answer is 21.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 23.3 - 8.6",
+          "canonicalAnswer": "14.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 23.3 - 8.6.",
+            "The answer is 14.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 1.9 × 4.1",
+          "canonicalAnswer": "7.79",
+          "workedSolution": [
+            "Set up the decimal calculation: 1.9 × 4.1.",
+            "The answer is 7.79."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 18.3 + 2.7",
+          "canonicalAnswer": "21",
+          "workedSolution": [
+            "Set up the decimal calculation: 18.3 + 2.7.",
+            "The answer is 21."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 13.1 - 17.4",
+          "canonicalAnswer": "-4.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 13.1 - 17.4.",
+            "The answer is -4.3."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 18.6 × 21.8",
+          "canonicalAnswer": "405.48",
+          "workedSolution": [
+            "Set up the decimal calculation: 18.6 × 21.8.",
+            "The answer is 405.48."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 21.5 + 3.7",
+          "canonicalAnswer": "25.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 21.5 + 3.7.",
+            "The answer is 25.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 2.0 - 9.0",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "Set up the decimal calculation: 2.0 - 9.0.",
+            "The answer is -7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_v3_4_8955770c6af5_linear_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the rule of the line through (-1, -13) and (1, -3).",
+          "canonicalAnswer": "y = 5x - 8",
+          "workedSolution": [
+            "Use y = mx + b with m = 5 and b = -8.",
+            "The rule answer is y = 5x - 8."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "rule",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 5,
+              "intercept": -8
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -13
+              },
+              {
+                "x": 1,
+                "y": -3
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -13
+              },
+              {
+                "x": 0,
+                "y": -8
+              },
+              {
+                "x": 1,
+                "y": -3
+              }
+            ],
+            "answer": "y = 5x - 8",
+            "distractors": [
+              "y = -5x - 8",
+              "y = 5x + 8",
+              "y = -8x + 5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 5 and b = -8.",
+              "The rule answer is y = 5x - 8."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v3_4_8955770c6af5_linear_2",
+          "topic": "two_step_equation",
+          "prompt": "Complete the table for y = 2x - 2.",
+          "canonicalAnswer": "(-1,-4); (0,-2); (1,0)",
+          "workedSolution": [
+            "Use y = mx + b with m = 2 and b = -2.",
+            "The table answer is (-1,-4); (0,-2); (1,0)."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "table",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 2,
+              "intercept": -2
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -4
+              },
+              {
+                "x": 1,
+                "y": 0
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -4
+              },
+              {
+                "x": 0,
+                "y": -2
+              },
+              {
+                "x": 1,
+                "y": 0
+              }
+            ],
+            "answer": "(-1,-4); (0,-2); (1,0)",
+            "distractors": [
+              "(-1,4); (0,2); (1,0)",
+              "(-4,-1); (-2,0); (0,1)",
+              "(-1,-3); (0,-1); (1,1)"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 2 and b = -2.",
+              "The table answer is (-1,-4); (0,-2); (1,0)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v3_4_8955770c6af5_linear_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the gradient of the line through (-1, 5) and (1, 17).",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "Use y = mx + b with m = 6 and b = 11.",
+            "The gradient answer is 6."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "gradient",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 6,
+              "intercept": 11
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 5
+              },
+              {
+                "x": 1,
+                "y": 17
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 5
+              },
+              {
+                "x": 0,
+                "y": 11
+              },
+              {
+                "x": 1,
+                "y": 17
+              }
+            ],
+            "answer": "6",
+            "distractors": [
+              "-6",
+              "7",
+              "5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 6 and b = 11.",
+              "The gradient answer is 6."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v3_4_8955770c6af5_linear_4",
+          "topic": "two_step_equation",
+          "prompt": "Find the y-intercept of the line through (-1, 2) and (1, 4).",
+          "canonicalAnswer": "3",
+          "workedSolution": [
+            "Use y = mx + b with m = 1 and b = 3.",
+            "The intercept answer is 3."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "intercept",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 1,
+              "intercept": 3
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 2
+              },
+              {
+                "x": 1,
+                "y": 4
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 2
+              },
+              {
+                "x": 0,
+                "y": 3
+              },
+              {
+                "x": 1,
+                "y": 4
+              }
+            ],
+            "answer": "3",
+            "distractors": [
+              "-3",
+              "4",
+              "2"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 1 and b = 3.",
+              "The intercept answer is 3."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the roots of y = -2((x - -2)^2 - 1).",
+          "canonicalAnswer": "-3, -1",
+          "workedSolution": [
+            "At a root, y = 0, so (x - -2)^2 = 1.",
+            "Taking both square roots gives x = -2 plus or minus 1.",
+            "The roots are -3, -1."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "roots",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": -2,
+              "k": 2
+            },
+            "roots": [
+              -3,
+              -1
+            ],
+            "vertex": {
+              "x": -2,
+              "y": 2
+            },
+            "symmetryAxis": -2,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "-3, -1",
+            "distractors": [
+              "-3, -2",
+              "-2, -1",
+              "3, 1"
+            ],
+            "workedSteps": [
+              "At a root, y = 0, so (x - -2)^2 = 1.",
+              "Taking both square roots gives x = -2 plus or minus 1.",
+              "The roots are -3, -1."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_2",
+          "topic": "two_step_equation",
+          "prompt": "Find the turning point of y = -2(x - -1)^2 + 8.",
+          "canonicalAnswer": "(-1, 8)",
+          "workedSolution": [
+            "Compare y = -2(x - -1)^2 + 8 with y = a(x - h)^2 + k.",
+            "The squared term is zero at x = -1, where y = 8.",
+            "The turning point is (-1, 8)."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "turning_point",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": -1,
+              "k": 8
+            },
+            "roots": [
+              -3,
+              1
+            ],
+            "vertex": {
+              "x": -1,
+              "y": 8
+            },
+            "symmetryAxis": -1,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "(-1, 8)",
+            "distractors": [
+              "(0, 8)",
+              "(-1, -8)",
+              "(8, -1)"
+            ],
+            "workedSteps": [
+              "Compare y = -2(x - -1)^2 + 8 with y = a(x - h)^2 + k.",
+              "The squared term is zero at x = -1, where y = 8.",
+              "The turning point is (-1, 8)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the equation of the symmetry axis for y = -2(x - -4)^2 + 8.",
+          "canonicalAnswer": "x = -4",
+          "workedSolution": [
+            "The graph is in vertex form y = a(x - h)^2 + k.",
+            "Points equally far from h = -4 have equal squared terms and equal y values.",
+            "The symmetry axis is x = -4."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "symmetry",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": -4,
+              "k": 8
+            },
+            "roots": [
+              -6,
+              -2
+            ],
+            "vertex": {
+              "x": -4,
+              "y": 8
+            },
+            "symmetryAxis": -4,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "x = -4",
+            "distractors": [
+              "x = 4",
+              "x = -3",
+              "y = -4"
+            ],
+            "workedSteps": [
+              "The graph is in vertex form y = a(x - h)^2 + k.",
+              "Points equally far from h = -4 have equal squared terms and equal y values.",
+              "The symmetry axis is x = -4."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_4",
+          "topic": "two_step_equation",
+          "prompt": "State a, h and k for y = -2(x - -2)^2 + 18.",
+          "canonicalAnswer": "a = -2, h = -2, k = 18",
+          "workedSolution": [
+            "Compare the expression with vertex form y = a(x - h)^2 + k.",
+            "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+            "Therefore a = -2, h = -2, k = 18."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "transformation",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": -2,
+              "k": 18
+            },
+            "roots": [
+              -5,
+              1
+            ],
+            "vertex": {
+              "x": -2,
+              "y": 18
+            },
+            "symmetryAxis": -2,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "a = -2, h = -2, k = 18",
+            "distractors": [
+              "a = 2, h = -2, k = 18",
+              "a = -2, h = 2, k = 18",
+              "a = -2, h = -2, k = -18"
+            ],
+            "workedSteps": [
+              "Compare the expression with vertex form y = a(x - h)^2 + k.",
+              "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+              "Therefore a = -2, h = -2, k = 18."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_7_v3_4_8955770c6af5_v4_34947b746cdf",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_7_fraction_1",
+          "topic": "fraction",
+          "prompt": "1/2 + 17/27",
+          "canonicalAnswer": "1 7/54",
+          "workedSolution": [
+            "Convert the terms: 27/54 + 34/54. Add to get 61/54; reduce to 61/54, then convert to 1 7/54."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_2",
+          "topic": "fraction",
+          "prompt": "7/29 − 3/5",
+          "canonicalAnswer": "-52/145",
+          "workedSolution": [
+            "Convert the terms: 35/145 − 87/145. Subtract to get -52/145; reduce to -52/145, then convert to -52/145."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_3",
+          "topic": "fraction",
+          "prompt": "23/26 × 1/6",
+          "canonicalAnswer": "23/156",
+          "workedSolution": [
+            "Multiply to get 23/156; reduce to 23/156, then convert to 23/156."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_4",
+          "topic": "fraction",
+          "prompt": "6/20 ÷ 13/18",
+          "canonicalAnswer": "27/65",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 6/20 × 18/13.",
+            "Multiply to get 108/260; reduce to 27/65, then convert to 27/65."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_5",
+          "topic": "fraction",
+          "prompt": "11/19 + 1/4",
+          "canonicalAnswer": "63/76",
+          "workedSolution": [
+            "Convert the terms: 44/76 + 19/76. Add to get 63/76; reduce to 63/76, then convert to 63/76."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_6",
+          "topic": "fraction",
+          "prompt": "1/19 − 5/18",
+          "canonicalAnswer": "-77/342",
+          "workedSolution": [
+            "Convert the terms: 18/342 − 95/342. Subtract to get -77/342; reduce to -77/342, then convert to -77/342."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_7",
+          "topic": "fraction",
+          "prompt": "18/21 × 1/7",
+          "canonicalAnswer": "6/49",
+          "workedSolution": [
+            "Multiply to get 18/147; reduce to 6/49, then convert to 6/49."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_8",
+          "topic": "fraction",
+          "prompt": "1/2 ÷ 11/23",
+          "canonicalAnswer": "1 1/22",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 1/2 × 23/11.",
+            "Multiply to get 23/22; reduce to 23/22, then convert to 1 1/22."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 36 4/5",
+          "canonicalAnswer": "23",
+          "workedSolution": [
+            "8/5x = 36 4/5",
+            "x = 23"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x + 24 = 2x + 78",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "3x = 54",
+            "x = 18"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 12x − 13 = 3x − 166",
+          "canonicalAnswer": "-17",
+          "workedSolution": [
+            "9x = 153",
+            "x = -17"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = 29 7/10",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "2.7x = 29 7/10",
+            "x = 11"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 21x − 8 = 13x + 8",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "8x = 16",
+            "x = 2"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 13x − 6 = 10x + 39",
+          "canonicalAnswer": "15",
+          "workedSolution": [
+            "3x = 45",
+            "x = 15"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -11 1/5",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "8/5x = -11 1/5",
+            "x = -7"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 18x + 11 = 2x − 21",
+          "canonicalAnswer": "-2",
+          "workedSolution": [
+            "16x = 32",
+            "x = -2"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 20x − 210",
+          "canonicalAnswer": "10(2x − 21)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(2x − 21)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 120x − 55",
+          "canonicalAnswer": "5(24x − 11)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(24x − 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 12x + 38",
+          "canonicalAnswer": "2(6x + 19)",
+          "workedSolution": [
+            "The greatest common factor is 2.",
+            "Take out 2 to get 2(6x + 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 192x + 108",
+          "canonicalAnswer": "12(16x + 9)",
+          "workedSolution": [
+            "The greatest common factor is 12.",
+            "Take out 12 to get 12(16x + 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 126x + 60",
+          "canonicalAnswer": "6(21x + 10)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(21x + 10)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 168x − 119",
+          "canonicalAnswer": "7(24x − 17)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(24x − 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 32x − 52",
+          "canonicalAnswer": "4(8x − 13)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(8x − 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 144x − 104",
+          "canonicalAnswer": "8(18x − 13)",
+          "workedSolution": [
+            "The greatest common factor is 8.",
+            "Take out 8 to get 8(18x − 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 9 then decreased by 4 to make 149. Find the number.",
+          "canonicalAnswer": "17",
+          "workedSolution": [
+            "Undo the adjustment: 9 times the number is 153.",
+            "Divide by 9: the number is 17."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $132 on 6 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "22",
+          "workedSolution": [
+            "Divide the total cost of $132 by 6 notebooks.",
+            "Each notebook costs $22."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 54 km in 3 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "Divide 54 km by 3 hours.",
+            "The average speed is 18 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 25 then decreased by 2 to make -202. Find the number.",
+          "canonicalAnswer": "-8",
+          "workedSolution": [
+            "Undo the adjustment: 25 times the number is -200.",
+            "Divide by 25: the number is -8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 10 then decreased by 13 to make -193. Find the number.",
+          "canonicalAnswer": "-18",
+          "workedSolution": [
+            "Undo the adjustment: 10 times the number is -180.",
+            "Divide by 10: the number is -18."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 19 then increased by 9 to make -124. Find the number.",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "Undo the adjustment: 19 times the number is -133.",
+            "Divide by 19: the number is -7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 15 then increased by 10 to make 235. Find the number.",
+          "canonicalAnswer": "15",
+          "workedSolution": [
+            "Undo the adjustment: 15 times the number is 225.",
+            "Divide by 15: the number is 15."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 21 then increased by 14 to make 413. Find the number.",
+          "canonicalAnswer": "19",
+          "workedSolution": [
+            "Undo the adjustment: 21 times the number is 399.",
+            "Divide by 21: the number is 19."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 2.8 + 3.0",
+          "canonicalAnswer": "5.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 2.8 + 3.0.",
+            "The answer is 5.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 17.6 - 15.9",
+          "canonicalAnswer": "1.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 17.6 - 15.9.",
+            "The answer is 1.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 23.4 × 12.7",
+          "canonicalAnswer": "297.18",
+          "workedSolution": [
+            "Set up the decimal calculation: 23.4 × 12.7.",
+            "The answer is 297.18."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 16.6 + 2.0",
+          "canonicalAnswer": "18.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 16.6 + 2.0.",
+            "The answer is 18.6."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 3.0 - 22.4",
+          "canonicalAnswer": "-19.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 3.0 - 22.4.",
+            "The answer is -19.4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 24.7 × 10.3",
+          "canonicalAnswer": "254.41",
+          "workedSolution": [
+            "Set up the decimal calculation: 24.7 × 10.3.",
+            "The answer is 254.41."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 11.1 + 24.3",
+          "canonicalAnswer": "35.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 11.1 + 24.3.",
+            "The answer is 35.4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 14.9 - 23.7",
+          "canonicalAnswer": "-8.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 14.9 - 23.7.",
+            "The answer is -8.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_v3_4_8955770c6af5_linear_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the rule of the line through (-1, -11) and (1, -1).",
+          "canonicalAnswer": "y = 5x - 6",
+          "workedSolution": [
+            "Use y = mx + b with m = 5 and b = -6.",
+            "The rule answer is y = 5x - 6."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "rule",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 5,
+              "intercept": -6
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -11
+              },
+              {
+                "x": 1,
+                "y": -1
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -11
+              },
+              {
+                "x": 0,
+                "y": -6
+              },
+              {
+                "x": 1,
+                "y": -1
+              }
+            ],
+            "answer": "y = 5x - 6",
+            "distractors": [
+              "y = -5x - 6",
+              "y = 5x + 6",
+              "y = -6x + 5"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 5 and b = -6.",
+              "The rule answer is y = 5x - 6."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v3_4_8955770c6af5_linear_2",
+          "topic": "two_step_equation",
+          "prompt": "Complete the table for y = -2x + 0.",
+          "canonicalAnswer": "(-1,2); (0,0); (1,-2)",
+          "workedSolution": [
+            "Use y = mx + b with m = -2 and b = 0.",
+            "The table answer is (-1,2); (0,0); (1,-2)."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "table",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": -2,
+              "intercept": 0
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 2
+              },
+              {
+                "x": 1,
+                "y": -2
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 2
+              },
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 1,
+                "y": -2
+              }
+            ],
+            "answer": "(-1,2); (0,0); (1,-2)",
+            "distractors": [
+              "(-1,-2); (0,0); (1,2)",
+              "(2,-1); (0,0); (-2,1)",
+              "(-1,3); (0,1); (1,-1)"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = -2 and b = 0.",
+              "The table answer is (-1,2); (0,0); (1,-2)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v3_4_8955770c6af5_linear_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the gradient of the line through (-1, 1) and (1, 5).",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "Use y = mx + b with m = 2 and b = 3.",
+            "The gradient answer is 2."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "gradient",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 2,
+              "intercept": 3
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": 1
+              },
+              {
+                "x": 1,
+                "y": 5
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": 1
+              },
+              {
+                "x": 0,
+                "y": 3
+              },
+              {
+                "x": 1,
+                "y": 5
+              }
+            ],
+            "answer": "2",
+            "distractors": [
+              "-2",
+              "3",
+              "1"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 2 and b = 3.",
+              "The gradient answer is 2."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v3_4_8955770c6af5_linear_4",
+          "topic": "two_step_equation",
+          "prompt": "Find the y-intercept of the line through (-1, -4) and (1, 6).",
+          "canonicalAnswer": "1",
+          "workedSolution": [
+            "Use y = mx + b with m = 5 and b = 1.",
+            "The intercept answer is 1."
+          ],
+          "exerciseFamily": "linear_functions",
+          "linearExercise": {
+            "taskType": "intercept",
+            "difficulty": "developing",
+            "prerequisites": [
+              "integer_coordinates",
+              "negative_gradient"
+            ],
+            "curriculum": "AC9M8A01",
+            "function": {
+              "slope": 5,
+              "intercept": 1
+            },
+            "graphBounds": {
+              "xMin": -2,
+              "xMax": 2,
+              "yMin": -100,
+              "yMax": 100
+            },
+            "coordinates": [
+              {
+                "x": -1,
+                "y": -4
+              },
+              {
+                "x": 1,
+                "y": 6
+              }
+            ],
+            "table": [
+              {
+                "x": -1,
+                "y": -4
+              },
+              {
+                "x": 0,
+                "y": 1
+              },
+              {
+                "x": 1,
+                "y": 6
+              }
+            ],
+            "answer": "1",
+            "distractors": [
+              "-1",
+              "2",
+              "0"
+            ],
+            "workedSteps": [
+              "Use y = mx + b with m = 5 and b = 1.",
+              "The intercept answer is 1."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_1",
+          "topic": "two_step_equation",
+          "prompt": "Find the roots of y = -2((x - -2)^2 - 9).",
+          "canonicalAnswer": "-5, 1",
+          "workedSolution": [
+            "At a root, y = 0, so (x - -2)^2 = 9.",
+            "Taking both square roots gives x = -2 plus or minus 3.",
+            "The roots are -5, 1."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "roots",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": -2,
+              "k": 18
+            },
+            "roots": [
+              -5,
+              1
+            ],
+            "vertex": {
+              "x": -2,
+              "y": 18
+            },
+            "symmetryAxis": -2,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "-5, 1",
+            "distractors": [
+              "-5, -4",
+              "-2, 1",
+              "5, -1"
+            ],
+            "workedSteps": [
+              "At a root, y = 0, so (x - -2)^2 = 9.",
+              "Taking both square roots gives x = -2 plus or minus 3.",
+              "The roots are -5, 1."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_2",
+          "topic": "two_step_equation",
+          "prompt": "Find the turning point of y = -2(x - -4)^2 + 2.",
+          "canonicalAnswer": "(-4, 2)",
+          "workedSolution": [
+            "Compare y = -2(x - -4)^2 + 2 with y = a(x - h)^2 + k.",
+            "The squared term is zero at x = -4, where y = 2.",
+            "The turning point is (-4, 2)."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "turning_point",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": -4,
+              "k": 2
+            },
+            "roots": [
+              -5,
+              -3
+            ],
+            "vertex": {
+              "x": -4,
+              "y": 2
+            },
+            "symmetryAxis": -4,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "(-4, 2)",
+            "distractors": [
+              "(-3, 2)",
+              "(-4, -2)",
+              "(2, -4)"
+            ],
+            "workedSteps": [
+              "Compare y = -2(x - -4)^2 + 2 with y = a(x - h)^2 + k.",
+              "The squared term is zero at x = -4, where y = 2.",
+              "The turning point is (-4, 2)."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_3",
+          "topic": "two_step_equation",
+          "prompt": "Find the equation of the symmetry axis for y = 1(x - -4)^2 + -1.",
+          "canonicalAnswer": "x = -4",
+          "workedSolution": [
+            "The graph is in vertex form y = a(x - h)^2 + k.",
+            "Points equally far from h = -4 have equal squared terms and equal y values.",
+            "The symmetry axis is x = -4."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "symmetry",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": 1,
+              "h": -4,
+              "k": -1
+            },
+            "roots": [
+              -5,
+              -3
+            ],
+            "vertex": {
+              "x": -4,
+              "y": -1
+            },
+            "symmetryAxis": -4,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "x = -4",
+            "distractors": [
+              "x = 4",
+              "x = -3",
+              "y = -4"
+            ],
+            "workedSteps": [
+              "The graph is in vertex form y = a(x - h)^2 + k.",
+              "Points equally far from h = -4 have equal squared terms and equal y values.",
+              "The symmetry axis is x = -4."
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v3_4_8955770c6af5_v4_34947b746cdf_quadratic_4",
+          "topic": "two_step_equation",
+          "prompt": "State a, h and k for y = -2(x - 2)^2 + 8.",
+          "canonicalAnswer": "a = -2, h = 2, k = 8",
+          "workedSolution": [
+            "Compare the expression with vertex form y = a(x - h)^2 + k.",
+            "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+            "Therefore a = -2, h = 2, k = 8."
+          ],
+          "exerciseFamily": "quadratic_functions",
+          "quadraticExercise": {
+            "taskType": "transformation",
+            "difficulty": "developing",
+            "curriculum": "AC9M9A04",
+            "function": {
+              "a": -2,
+              "h": 2,
+              "k": 8
+            },
+            "roots": [
+              0,
+              4
+            ],
+            "vertex": {
+              "x": 2,
+              "y": 8
+            },
+            "symmetryAxis": 2,
+            "graphBounds": {
+              "xMin": -12,
+              "xMax": 12,
+              "yMin": -144,
+              "yMax": 144
+            },
+            "answer": "a = -2, h = 2, k = 8",
+            "distractors": [
+              "a = 2, h = 2, k = 8",
+              "a = -2, h = -2, k = 8",
+              "a = -2, h = 2, k = -8"
+            ],
+            "workedSteps": [
+              "Compare the expression with vertex form y = a(x - h)^2 + k.",
+              "Read the multiplier a, the horizontal shift h inside (x - h), and the vertical shift k.",
+              "Therefore a = -2, h = 2, k = 8."
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "functionsAndGraphsAllocation": 4,
+  "quadraticFunctionsAllocation": 4
+}

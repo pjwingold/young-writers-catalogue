@@ -1,0 +1,5521 @@
+{
+  "schemaVersion": 2,
+  "catalogueVersion": 1,
+  "weekKey": "2026-W46",
+  "generatedAt": "2026-11-09T01:02:55.827Z",
+  "generatorVersion": 2,
+  "blueprintSource": "gemini",
+  "mathsLevel": 9,
+  "days": [
+    {
+      "id": "maths_2026_w46_day_1_v2_introductory_4_527f3f0f0b3e",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_1_fraction_1",
+          "topic": "fraction",
+          "prompt": "6/12 + 15/44",
+          "canonicalAnswer": "37/44",
+          "workedSolution": [
+            "Convert the terms: 264/528 + 180/528. Add to get 444/528; reduce to 37/44, then convert to 37/44."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_2",
+          "topic": "fraction",
+          "prompt": "8/28 − 11/20",
+          "canonicalAnswer": "-37/140",
+          "workedSolution": [
+            "Convert the terms: 160/560 − 308/560. Subtract to get -148/560; reduce to -37/140, then convert to -37/140."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_3",
+          "topic": "fraction",
+          "prompt": "9/21 × 2/8",
+          "canonicalAnswer": "3/28",
+          "workedSolution": [
+            "Multiply to get 18/168; reduce to 3/28, then convert to 3/28."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_4",
+          "topic": "fraction",
+          "prompt": "12/18 ÷ 5/16",
+          "canonicalAnswer": "2 2/15",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 12/18 × 16/5.",
+            "Multiply to get 192/90; reduce to 32/15, then convert to 2 2/15."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_5",
+          "topic": "fraction",
+          "prompt": "26/49 + 42/49",
+          "canonicalAnswer": "1 19/49",
+          "workedSolution": [
+            "Convert the terms: 1274/2401 + 2058/2401. Add to get 3332/2401; reduce to 68/49, then convert to 1 19/49."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_6",
+          "topic": "fraction",
+          "prompt": "12/28 − 17/28",
+          "canonicalAnswer": "-5/28",
+          "workedSolution": [
+            "Convert the terms: 336/784 − 476/784. Subtract to get -140/784; reduce to -5/28, then convert to -5/28."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_7",
+          "topic": "fraction",
+          "prompt": "15/36 × 19/21",
+          "canonicalAnswer": "95/252",
+          "workedSolution": [
+            "Multiply to get 285/756; reduce to 95/252, then convert to 95/252."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_fraction_8",
+          "topic": "fraction",
+          "prompt": "4/16 ÷ 1/2",
+          "canonicalAnswer": "1/2",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 4/16 × 2/1.",
+            "Multiply to get 8/16; reduce to 1/2, then convert to 1/2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -48",
+          "canonicalAnswer": "-30",
+          "workedSolution": [
+            "8/5x = -48",
+            "x = -30"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 26x + 1 = 24x + 9",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "2x = 8",
+            "x = 4"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 39x − 1 = 16x + 597",
+          "canonicalAnswer": "26",
+          "workedSolution": [
+            "23x = 598",
+            "x = 26"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = -108",
+          "canonicalAnswer": "-40",
+          "workedSolution": [
+            "2.7x = -108",
+            "x = -40"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 36x − 30 = 28x − 174",
+          "canonicalAnswer": "-18",
+          "workedSolution": [
+            "8x = 144",
+            "x = -18"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 23x + 3 = 22x + 34",
+          "canonicalAnswer": "31",
+          "workedSolution": [
+            "1x = 31",
+            "x = 31"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -30 2/5",
+          "canonicalAnswer": "-19",
+          "workedSolution": [
+            "8/5x = -30 2/5",
+            "x = -19"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 11x − 24 = 3x + 80",
+          "canonicalAnswer": "13",
+          "workedSolution": [
+            "8x = 104",
+            "x = 13"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 70x − 480",
+          "canonicalAnswer": "10(7x − 48)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(7x − 48)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 170x + 185",
+          "canonicalAnswer": "5(34x + 37)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(34x + 37)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 390x − 1053",
+          "canonicalAnswer": "39(10x − 27)",
+          "workedSolution": [
+            "The greatest common factor is 39.",
+            "Take out 39 to get 39(10x − 27)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 957x + 825",
+          "canonicalAnswer": "33(29x + 25)",
+          "workedSolution": [
+            "The greatest common factor is 33.",
+            "Take out 33 to get 33(29x + 25)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 135x − 459",
+          "canonicalAnswer": "27(5x − 17)",
+          "workedSolution": [
+            "The greatest common factor is 27.",
+            "Take out 27 to get 27(5x − 17)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 256x + 240",
+          "canonicalAnswer": "16(16x + 15)",
+          "workedSolution": [
+            "The greatest common factor is 16.",
+            "Take out 16 to get 16(16x + 15)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 900x + 1110",
+          "canonicalAnswer": "30(30x + 37)",
+          "workedSolution": [
+            "The greatest common factor is 30.",
+            "Take out 30 to get 30(30x + 37)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 130x − 91",
+          "canonicalAnswer": "13(10x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 13.",
+            "Take out 13 to get 13(10x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 22 then increased by 2 to make 684. Find the number.",
+          "canonicalAnswer": "31",
+          "workedSolution": [
+            "Undo the adjustment: 22 times the number is 682.",
+            "Divide by 22: the number is 31."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $198 on 6 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "33",
+          "workedSolution": [
+            "Divide the total cost of $198 by 6 notebooks.",
+            "Each notebook costs $33."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 192 km in 4 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "48",
+          "workedSolution": [
+            "Divide 192 km by 4 hours.",
+            "The average speed is 48 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 3 then increased by 27 to make 105. Find the number.",
+          "canonicalAnswer": "26",
+          "workedSolution": [
+            "Undo the adjustment: 3 times the number is 78.",
+            "Divide by 3: the number is 26."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 45 then increased by 36 to make -189. Find the number.",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "Undo the adjustment: 45 times the number is -225.",
+            "Divide by 45: the number is -5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 16 then increased by 50 to make -206. Find the number.",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "Undo the adjustment: 16 times the number is -256.",
+            "Divide by 16: the number is -16."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 19 then decreased by 46 to make -445. Find the number.",
+          "canonicalAnswer": "-21",
+          "workedSolution": [
+            "Undo the adjustment: 19 times the number is -399.",
+            "Divide by 19: the number is -21."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 2 then increased by 19 to make 27. Find the number.",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "Undo the adjustment: 2 times the number is 8.",
+            "Divide by 2: the number is 4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 11.3 + 1.6",
+          "canonicalAnswer": "12.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 11.3 + 1.6.",
+            "The answer is 12.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 7.9 - 14.6",
+          "canonicalAnswer": "-6.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 7.9 - 14.6.",
+            "The answer is -6.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 42.4 × 29.5",
+          "canonicalAnswer": "1250.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 42.4 × 29.5.",
+            "The answer is 1250.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 20.3 + 8.3",
+          "canonicalAnswer": "28.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 20.3 + 8.3.",
+            "The answer is 28.6."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 15.5 - 30.6",
+          "canonicalAnswer": "-15.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.5 - 30.6.",
+            "The answer is -15.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 46.9 × 16.1",
+          "canonicalAnswer": "755.09",
+          "workedSolution": [
+            "Set up the decimal calculation: 46.9 × 16.1.",
+            "The answer is 755.09."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 19.8 + 3.7",
+          "canonicalAnswer": "23.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 19.8 + 3.7.",
+            "The answer is 23.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 10.0 - 17.4",
+          "canonicalAnswer": "-7.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 10.0 - 17.4.",
+            "The answer is -7.4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_1_v2_introductory_4_527f3f0f0b3e_simultaneous_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 4x + 5y = 41\n(2) 4x + 3y = 31",
+          "canonicalAnswer": "x = 4, y = 5",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 4x + 5y = 41.",
+            "Multiply equation 2 by 1: 4x + 3y = 31.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 2y = 10.",
+            "Divide both sides by 2: y = 5.",
+            "Substitute y = 5 in equation 1: 4x = 41 − (5)(5) = 16; divide by 4 to get x = 4.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 3 and 5.",
+            "Multiply equation 1 by 3: 12x + 15y = 123.",
+            "Multiply equation 2 by 5: 20x + 15y = 155.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -8x = -32.",
+            "Divide both sides by -8: x = 4.",
+            "Substitute x = 4 in equation 1: 5y = 41 − (4)(4) = 25; divide by 5 to get y = 5.",
+            "Check equation 1: (4)(4) + (5)(5) = 41.",
+            "Check equation 2: (4)(4) + (3)(5) = 31.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 4, y = 5."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 4,
+                "y": 5,
+                "constant": 41
+              },
+              {
+                "x": 4,
+                "y": 3,
+                "constant": 31
+              }
+            ],
+            "solution": {
+              "x": 4,
+              "y": 5
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 4,
+                    "y": 5,
+                    "constant": 41
+                  },
+                  {
+                    "x": 4,
+                    "y": 3,
+                    "constant": 31
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 2,
+                  "constant": 10
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  3,
+                  5
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 12,
+                    "y": 15,
+                    "constant": 123
+                  },
+                  {
+                    "x": 20,
+                    "y": 15,
+                    "constant": 155
+                  }
+                ],
+                "reduced": {
+                  "x": -8,
+                  "y": 0,
+                  "constant": -32
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v2_introductory_4_527f3f0f0b3e_simultaneous_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 1x + 4y = 25\n(2) 1x + 2y = 15",
+          "canonicalAnswer": "x = 5, y = 5",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 1x + 4y = 25.",
+            "Multiply equation 2 by 1: 1x + 2y = 15.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 2y = 10.",
+            "Divide both sides by 2: y = 5.",
+            "Substitute y = 5 in equation 1: 1x = 25 − (4)(5) = 5; divide by 1 to get x = 5.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 1 and 2.",
+            "Multiply equation 1 by 1: 1x + 4y = 25.",
+            "Multiply equation 2 by 2: 2x + 4y = 30.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1x = -5.",
+            "Divide both sides by -1: x = 5.",
+            "Substitute x = 5 in equation 1: 4y = 25 − (1)(5) = 20; divide by 4 to get y = 5.",
+            "Check equation 1: (1)(5) + (4)(5) = 25.",
+            "Check equation 2: (1)(5) + (2)(5) = 15.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 5, y = 5."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 1,
+                "y": 4,
+                "constant": 25
+              },
+              {
+                "x": 1,
+                "y": 2,
+                "constant": 15
+              }
+            ],
+            "solution": {
+              "x": 5,
+              "y": 5
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 4,
+                    "constant": 25
+                  },
+                  {
+                    "x": 1,
+                    "y": 2,
+                    "constant": 15
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 2,
+                  "constant": 10
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  1,
+                  2
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 4,
+                    "constant": 25
+                  },
+                  {
+                    "x": 2,
+                    "y": 4,
+                    "constant": 30
+                  }
+                ],
+                "reduced": {
+                  "x": -1,
+                  "y": 0,
+                  "constant": -5
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v2_introductory_4_527f3f0f0b3e_simultaneous_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 5x + 3y = 32\n(2) 5x + 4y = 36",
+          "canonicalAnswer": "x = 4, y = 4",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 5x + 3y = 32.",
+            "Multiply equation 2 by 1: 5x + 4y = 36.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1y = -4.",
+            "Divide both sides by -1: y = 4.",
+            "Substitute y = 4 in equation 1: 5x = 32 − (3)(4) = 20; divide by 5 to get x = 4.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 4 and 3.",
+            "Multiply equation 1 by 4: 20x + 12y = 128.",
+            "Multiply equation 2 by 3: 15x + 12y = 108.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 5x = 20.",
+            "Divide both sides by 5: x = 4.",
+            "Substitute x = 4 in equation 1: 3y = 32 − (5)(4) = 12; divide by 3 to get y = 4.",
+            "Check equation 1: (5)(4) + (3)(4) = 32.",
+            "Check equation 2: (5)(4) + (4)(4) = 36.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 4, y = 4."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 5,
+                "y": 3,
+                "constant": 32
+              },
+              {
+                "x": 5,
+                "y": 4,
+                "constant": 36
+              }
+            ],
+            "solution": {
+              "x": 4,
+              "y": 4
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 5,
+                    "y": 3,
+                    "constant": 32
+                  },
+                  {
+                    "x": 5,
+                    "y": 4,
+                    "constant": 36
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -1,
+                  "constant": -4
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  4,
+                  3
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 20,
+                    "y": 12,
+                    "constant": 128
+                  },
+                  {
+                    "x": 15,
+                    "y": 12,
+                    "constant": 108
+                  }
+                ],
+                "reduced": {
+                  "x": 5,
+                  "y": 0,
+                  "constant": 20
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_1_v2_introductory_4_527f3f0f0b3e_simultaneous_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 2x + 3y = 20\n(2) 2x + 1y = 8",
+          "canonicalAnswer": "x = 1, y = 6",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 2x + 3y = 20.",
+            "Multiply equation 2 by 1: 2x + 1y = 8.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 2y = 12.",
+            "Divide both sides by 2: y = 6.",
+            "Substitute y = 6 in equation 1: 2x = 20 − (3)(6) = 2; divide by 2 to get x = 1.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 1 and 3.",
+            "Multiply equation 1 by 1: 2x + 3y = 20.",
+            "Multiply equation 2 by 3: 6x + 3y = 24.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -4x = -4.",
+            "Divide both sides by -4: x = 1.",
+            "Substitute x = 1 in equation 1: 3y = 20 − (2)(1) = 18; divide by 3 to get y = 6.",
+            "Check equation 1: (2)(1) + (3)(6) = 20.",
+            "Check equation 2: (2)(1) + (1)(6) = 8.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 1, y = 6."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 2,
+                "y": 3,
+                "constant": 20
+              },
+              {
+                "x": 2,
+                "y": 1,
+                "constant": 8
+              }
+            ],
+            "solution": {
+              "x": 1,
+              "y": 6
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 2,
+                    "y": 3,
+                    "constant": 20
+                  },
+                  {
+                    "x": 2,
+                    "y": 1,
+                    "constant": 8
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 2,
+                  "constant": 12
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  1,
+                  3
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 2,
+                    "y": 3,
+                    "constant": 20
+                  },
+                  {
+                    "x": 6,
+                    "y": 3,
+                    "constant": 24
+                  }
+                ],
+                "reduced": {
+                  "x": -4,
+                  "y": 0,
+                  "constant": -4
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_2_v2_introductory_4_527f3f0f0b3e",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_2_fraction_1",
+          "topic": "fraction",
+          "prompt": "21/44 + 8/13",
+          "canonicalAnswer": "1 53/572",
+          "workedSolution": [
+            "Convert the terms: 273/572 + 352/572. Add to get 625/572; reduce to 625/572, then convert to 1 53/572."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_2",
+          "topic": "fraction",
+          "prompt": "21/33 − 13/47",
+          "canonicalAnswer": "186/517",
+          "workedSolution": [
+            "Convert the terms: 987/1551 − 429/1551. Subtract to get 558/1551; reduce to 186/517, then convert to 186/517."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_3",
+          "topic": "fraction",
+          "prompt": "6/8 × 28/33",
+          "canonicalAnswer": "7/11",
+          "workedSolution": [
+            "Multiply to get 168/264; reduce to 7/11, then convert to 7/11."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_4",
+          "topic": "fraction",
+          "prompt": "32/46 ÷ 28/42",
+          "canonicalAnswer": "1 1/23",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 32/46 × 42/28.",
+            "Multiply to get 1344/1288; reduce to 24/23, then convert to 1 1/23."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_5",
+          "topic": "fraction",
+          "prompt": "3/21 + 37/44",
+          "canonicalAnswer": "303/308",
+          "workedSolution": [
+            "Convert the terms: 132/924 + 777/924. Add to get 909/924; reduce to 303/308, then convert to 303/308."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_6",
+          "topic": "fraction",
+          "prompt": "5/7 − 9/18",
+          "canonicalAnswer": "3/14",
+          "workedSolution": [
+            "Convert the terms: 90/126 − 63/126. Subtract to get 27/126; reduce to 3/14, then convert to 3/14."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_7",
+          "topic": "fraction",
+          "prompt": "1/3 × 33/46",
+          "canonicalAnswer": "11/46",
+          "workedSolution": [
+            "Multiply to get 33/138; reduce to 11/46, then convert to 11/46."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_fraction_8",
+          "topic": "fraction",
+          "prompt": "32/41 ÷ 12/36",
+          "canonicalAnswer": "2 14/41",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 32/41 × 36/12.",
+            "Multiply to get 1152/492; reduce to 96/41, then convert to 2 14/41."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -9 3/5",
+          "canonicalAnswer": "-6",
+          "workedSolution": [
+            "8/5x = -9 3/5",
+            "x = -6"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 49x − 48 = 13x − 228",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "36x = 180",
+            "x = -5"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 48x − 10 = 41x − 220",
+          "canonicalAnswer": "-30",
+          "workedSolution": [
+            "7x = 210",
+            "x = -30"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = -27",
+          "canonicalAnswer": "-10",
+          "workedSolution": [
+            "2.7x = -27",
+            "x = -10"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 28x + 8 = 3x + 458",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "25x = 450",
+            "x = 18"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 45x − 39 = 20x − 739",
+          "canonicalAnswer": "-28",
+          "workedSolution": [
+            "25x = 700",
+            "x = -28"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -75 1/5",
+          "canonicalAnswer": "-47",
+          "workedSolution": [
+            "8/5x = -75 1/5",
+            "x = -47"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 46x − 14 = 5x − 793",
+          "canonicalAnswer": "-19",
+          "workedSolution": [
+            "41x = 779",
+            "x = -19"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 320x − 736",
+          "canonicalAnswer": "32(10x − 23)",
+          "workedSolution": [
+            "The greatest common factor is 32.",
+            "Take out 32 to get 32(10x − 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 792x + 836",
+          "canonicalAnswer": "44(18x + 19)",
+          "workedSolution": [
+            "The greatest common factor is 44.",
+            "Take out 44 to get 44(18x + 19)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 242x − 638",
+          "canonicalAnswer": "22(11x − 29)",
+          "workedSolution": [
+            "The greatest common factor is 22.",
+            "Take out 22 to get 22(11x − 29)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 230x − 205",
+          "canonicalAnswer": "5(46x − 41)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(46x − 41)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 392x − 126",
+          "canonicalAnswer": "14(28x − 9)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(28x − 9)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 120x − 500",
+          "canonicalAnswer": "20(6x − 25)",
+          "workedSolution": [
+            "The greatest common factor is 20.",
+            "Take out 20 to get 20(6x − 25)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 72x − 816",
+          "canonicalAnswer": "24(3x − 34)",
+          "workedSolution": [
+            "The greatest common factor is 24.",
+            "Take out 24 to get 24(3x − 34)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 1504x − 611",
+          "canonicalAnswer": "47(32x − 13)",
+          "workedSolution": [
+            "The greatest common factor is 47.",
+            "Take out 47 to get 47(32x − 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 4 then increased by 5 to make 53. Find the number.",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "Undo the adjustment: 4 times the number is 48.",
+            "Divide by 4: the number is 12."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $28 on 4 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "7",
+          "workedSolution": [
+            "Divide the total cost of $28 by 4 notebooks.",
+            "Each notebook costs $7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 14 grams of flour for 2 servings. How much flour is needed for 4 servings?",
+          "canonicalAnswer": "28",
+          "workedSolution": [
+            "The recipe uses 7 grams per serving.",
+            "7 grams times 4 servings is 28 grams."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 42 then increased by 5 to make 1853. Find the number.",
+          "canonicalAnswer": "44",
+          "workedSolution": [
+            "Undo the adjustment: 42 times the number is 1848.",
+            "Divide by 42: the number is 44."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 28 then increased by 10 to make -270. Find the number.",
+          "canonicalAnswer": "-10",
+          "workedSolution": [
+            "Undo the adjustment: 28 times the number is -280.",
+            "Divide by 28: the number is -10."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 41 then decreased by 8 to make -951. Find the number.",
+          "canonicalAnswer": "-23",
+          "workedSolution": [
+            "Undo the adjustment: 41 times the number is -943.",
+            "Divide by 41: the number is -23."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 37 then decreased by 16 to make -534. Find the number.",
+          "canonicalAnswer": "-14",
+          "workedSolution": [
+            "Undo the adjustment: 37 times the number is -518.",
+            "Divide by 37: the number is -14."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 2 then decreased by 36 to make 20. Find the number.",
+          "canonicalAnswer": "28",
+          "workedSolution": [
+            "Undo the adjustment: 2 times the number is 56.",
+            "Divide by 2: the number is 28."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 31.8 + 16.9",
+          "canonicalAnswer": "48.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 31.8 + 16.9.",
+            "The answer is 48.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 11.3 - 22.5",
+          "canonicalAnswer": "-11.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 11.3 - 22.5.",
+            "The answer is -11.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 19.3 × 20.1",
+          "canonicalAnswer": "387.93",
+          "workedSolution": [
+            "Set up the decimal calculation: 19.3 × 20.1.",
+            "The answer is 387.93."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 34.9 + 45.9",
+          "canonicalAnswer": "80.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 34.9 + 45.9.",
+            "The answer is 80.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 38.1 - 6.0",
+          "canonicalAnswer": "32.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 38.1 - 6.0.",
+            "The answer is 32.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 5.1 × 26.8",
+          "canonicalAnswer": "136.68",
+          "workedSolution": [
+            "Set up the decimal calculation: 5.1 × 26.8.",
+            "The answer is 136.68."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 29.1 + 5.4",
+          "canonicalAnswer": "34.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 29.1 + 5.4.",
+            "The answer is 34.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 15.3 - 17.8",
+          "canonicalAnswer": "-2.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 15.3 - 17.8.",
+            "The answer is -2.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_2_v2_introductory_4_527f3f0f0b3e_simultaneous_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 2x + 5y = 17\n(2) 2x + 4y = 16",
+          "canonicalAnswer": "x = 6, y = 1",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 2x + 5y = 17.",
+            "Multiply equation 2 by 1: 2x + 4y = 16.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 1y = 1.",
+            "Divide both sides by 1: y = 1.",
+            "Substitute y = 1 in equation 1: 2x = 17 − (5)(1) = 12; divide by 2 to get x = 6.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 4 and 5.",
+            "Multiply equation 1 by 4: 8x + 20y = 68.",
+            "Multiply equation 2 by 5: 10x + 20y = 80.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -2x = -12.",
+            "Divide both sides by -2: x = 6.",
+            "Substitute x = 6 in equation 1: 5y = 17 − (2)(6) = 5; divide by 5 to get y = 1.",
+            "Check equation 1: (2)(6) + (5)(1) = 17.",
+            "Check equation 2: (2)(6) + (4)(1) = 16.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 6, y = 1."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 2,
+                "y": 5,
+                "constant": 17
+              },
+              {
+                "x": 2,
+                "y": 4,
+                "constant": 16
+              }
+            ],
+            "solution": {
+              "x": 6,
+              "y": 1
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 2,
+                    "y": 5,
+                    "constant": 17
+                  },
+                  {
+                    "x": 2,
+                    "y": 4,
+                    "constant": 16
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 1,
+                  "constant": 1
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  4,
+                  5
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 8,
+                    "y": 20,
+                    "constant": 68
+                  },
+                  {
+                    "x": 10,
+                    "y": 20,
+                    "constant": 80
+                  }
+                ],
+                "reduced": {
+                  "x": -2,
+                  "y": 0,
+                  "constant": -12
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v2_introductory_4_527f3f0f0b3e_simultaneous_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 2x + 5y = 21\n(2) 2x + 3y = 15",
+          "canonicalAnswer": "x = 3, y = 3",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 2x + 5y = 21.",
+            "Multiply equation 2 by 1: 2x + 3y = 15.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 2y = 6.",
+            "Divide both sides by 2: y = 3.",
+            "Substitute y = 3 in equation 1: 2x = 21 − (5)(3) = 6; divide by 2 to get x = 3.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 3 and 5.",
+            "Multiply equation 1 by 3: 6x + 15y = 63.",
+            "Multiply equation 2 by 5: 10x + 15y = 75.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -4x = -12.",
+            "Divide both sides by -4: x = 3.",
+            "Substitute x = 3 in equation 1: 5y = 21 − (2)(3) = 15; divide by 5 to get y = 3.",
+            "Check equation 1: (2)(3) + (5)(3) = 21.",
+            "Check equation 2: (2)(3) + (3)(3) = 15.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 3, y = 3."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 2,
+                "y": 5,
+                "constant": 21
+              },
+              {
+                "x": 2,
+                "y": 3,
+                "constant": 15
+              }
+            ],
+            "solution": {
+              "x": 3,
+              "y": 3
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 2,
+                    "y": 5,
+                    "constant": 21
+                  },
+                  {
+                    "x": 2,
+                    "y": 3,
+                    "constant": 15
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 2,
+                  "constant": 6
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  3,
+                  5
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 6,
+                    "y": 15,
+                    "constant": 63
+                  },
+                  {
+                    "x": 10,
+                    "y": 15,
+                    "constant": 75
+                  }
+                ],
+                "reduced": {
+                  "x": -4,
+                  "y": 0,
+                  "constant": -12
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v2_introductory_4_527f3f0f0b3e_simultaneous_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 2x + 3y = 17\n(2) 2x + 5y = 23",
+          "canonicalAnswer": "x = 4, y = 3",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 2x + 3y = 17.",
+            "Multiply equation 2 by 1: 2x + 5y = 23.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -2y = -6.",
+            "Divide both sides by -2: y = 3.",
+            "Substitute y = 3 in equation 1: 2x = 17 − (3)(3) = 8; divide by 2 to get x = 4.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 5 and 3.",
+            "Multiply equation 1 by 5: 10x + 15y = 85.",
+            "Multiply equation 2 by 3: 6x + 15y = 69.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 4x = 16.",
+            "Divide both sides by 4: x = 4.",
+            "Substitute x = 4 in equation 1: 3y = 17 − (2)(4) = 9; divide by 3 to get y = 3.",
+            "Check equation 1: (2)(4) + (3)(3) = 17.",
+            "Check equation 2: (2)(4) + (5)(3) = 23.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 4, y = 3."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 2,
+                "y": 3,
+                "constant": 17
+              },
+              {
+                "x": 2,
+                "y": 5,
+                "constant": 23
+              }
+            ],
+            "solution": {
+              "x": 4,
+              "y": 3
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 2,
+                    "y": 3,
+                    "constant": 17
+                  },
+                  {
+                    "x": 2,
+                    "y": 5,
+                    "constant": 23
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -2,
+                  "constant": -6
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  5,
+                  3
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 10,
+                    "y": 15,
+                    "constant": 85
+                  },
+                  {
+                    "x": 6,
+                    "y": 15,
+                    "constant": 69
+                  }
+                ],
+                "reduced": {
+                  "x": 4,
+                  "y": 0,
+                  "constant": 16
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_2_v2_introductory_4_527f3f0f0b3e_simultaneous_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 4x + 3y = 20\n(2) 4x + 2y = 16",
+          "canonicalAnswer": "x = 2, y = 4",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 4x + 3y = 20.",
+            "Multiply equation 2 by 1: 4x + 2y = 16.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 1y = 4.",
+            "Divide both sides by 1: y = 4.",
+            "Substitute y = 4 in equation 1: 4x = 20 − (3)(4) = 8; divide by 4 to get x = 2.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 2 and 3.",
+            "Multiply equation 1 by 2: 8x + 6y = 40.",
+            "Multiply equation 2 by 3: 12x + 6y = 48.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -4x = -8.",
+            "Divide both sides by -4: x = 2.",
+            "Substitute x = 2 in equation 1: 3y = 20 − (4)(2) = 12; divide by 3 to get y = 4.",
+            "Check equation 1: (4)(2) + (3)(4) = 20.",
+            "Check equation 2: (4)(2) + (2)(4) = 16.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 2, y = 4."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 4,
+                "y": 3,
+                "constant": 20
+              },
+              {
+                "x": 4,
+                "y": 2,
+                "constant": 16
+              }
+            ],
+            "solution": {
+              "x": 2,
+              "y": 4
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 4,
+                    "y": 3,
+                    "constant": 20
+                  },
+                  {
+                    "x": 4,
+                    "y": 2,
+                    "constant": 16
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 1,
+                  "constant": 4
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  2,
+                  3
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 8,
+                    "y": 6,
+                    "constant": 40
+                  },
+                  {
+                    "x": 12,
+                    "y": 6,
+                    "constant": 48
+                  }
+                ],
+                "reduced": {
+                  "x": -4,
+                  "y": 0,
+                  "constant": -8
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_3_v2_introductory_4_527f3f0f0b3e",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_3_fraction_1",
+          "topic": "fraction",
+          "prompt": "2/16 + 33/40",
+          "canonicalAnswer": "19/20",
+          "workedSolution": [
+            "Convert the terms: 80/640 + 528/640. Add to get 608/640; reduce to 19/20, then convert to 19/20."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_2",
+          "topic": "fraction",
+          "prompt": "2/23 − 19/21",
+          "canonicalAnswer": "-395/483",
+          "workedSolution": [
+            "Convert the terms: 42/483 − 437/483. Subtract to get -395/483; reduce to -395/483, then convert to -395/483."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_3",
+          "topic": "fraction",
+          "prompt": "17/46 × 1/11",
+          "canonicalAnswer": "17/506",
+          "workedSolution": [
+            "Multiply to get 17/506; reduce to 17/506, then convert to 17/506."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_4",
+          "topic": "fraction",
+          "prompt": "37/43 ÷ 27/46",
+          "canonicalAnswer": "1 541/1161",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 37/43 × 46/27.",
+            "Multiply to get 1702/1161; reduce to 1702/1161, then convert to 1 541/1161."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_5",
+          "topic": "fraction",
+          "prompt": "1/2 + 10/15",
+          "canonicalAnswer": "1 1/6",
+          "workedSolution": [
+            "Convert the terms: 15/30 + 20/30. Add to get 35/30; reduce to 7/6, then convert to 1 1/6."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_6",
+          "topic": "fraction",
+          "prompt": "22/32 − 40/46",
+          "canonicalAnswer": "-67/368",
+          "workedSolution": [
+            "Convert the terms: 1012/1472 − 1280/1472. Subtract to get -268/1472; reduce to -67/368, then convert to -67/368."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_7",
+          "topic": "fraction",
+          "prompt": "1/18 × 8/26",
+          "canonicalAnswer": "2/117",
+          "workedSolution": [
+            "Multiply to get 8/468; reduce to 2/117, then convert to 2/117."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_fraction_8",
+          "topic": "fraction",
+          "prompt": "2/38 ÷ 17/35",
+          "canonicalAnswer": "35/323",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 2/38 × 35/17.",
+            "Multiply to get 70/646; reduce to 35/323, then convert to 35/323."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 41 3/5",
+          "canonicalAnswer": "26",
+          "workedSolution": [
+            "8/5x = 41 3/5",
+            "x = 26"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 10x − 2 = 7x − 137",
+          "canonicalAnswer": "-45",
+          "workedSolution": [
+            "3x = 135",
+            "x = -45"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 39x − 42 = 20x − 688",
+          "canonicalAnswer": "-34",
+          "workedSolution": [
+            "19x = 646",
+            "x = -34"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = -118 4/5",
+          "canonicalAnswer": "-44",
+          "workedSolution": [
+            "2.7x = -118 4/5",
+            "x = -44"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 39x + 48 = 7x + 1072",
+          "canonicalAnswer": "32",
+          "workedSolution": [
+            "32x = 1024",
+            "x = 32"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 47x − 30 = 40x − 142",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "7x = 112",
+            "x = -16"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -73 3/5",
+          "canonicalAnswer": "-46",
+          "workedSolution": [
+            "8/5x = -73 3/5",
+            "x = -46"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 27x − 43 = 2x + 307",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "25x = 350",
+            "x = 14"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 322x − 14",
+          "canonicalAnswer": "14(23x − 1)",
+          "workedSolution": [
+            "The greatest common factor is 14.",
+            "Take out 14 to get 14(23x − 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 442x + 130",
+          "canonicalAnswer": "26(17x + 5)",
+          "workedSolution": [
+            "The greatest common factor is 26.",
+            "Take out 26 to get 26(17x + 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 440x + 370",
+          "canonicalAnswer": "10(44x + 37)",
+          "workedSolution": [
+            "The greatest common factor is 10.",
+            "Take out 10 to get 10(44x + 37)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 1035x − 1890",
+          "canonicalAnswer": "45(23x − 42)",
+          "workedSolution": [
+            "The greatest common factor is 45.",
+            "Take out 45 to get 45(23x − 42)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 275x − 154",
+          "canonicalAnswer": "11(25x − 14)",
+          "workedSolution": [
+            "The greatest common factor is 11.",
+            "Take out 11 to get 11(25x − 14)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 320x + 220",
+          "canonicalAnswer": "20(16x + 11)",
+          "workedSolution": [
+            "The greatest common factor is 20.",
+            "Take out 20 to get 20(16x + 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 342x − 207",
+          "canonicalAnswer": "9(38x − 23)",
+          "workedSolution": [
+            "The greatest common factor is 9.",
+            "Take out 9 to get 9(38x − 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 66x + 144",
+          "canonicalAnswer": "6(11x + 24)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(11x + 24)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 2 then increased by 21 to make 43. Find the number.",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "Undo the adjustment: 2 times the number is 22.",
+            "Divide by 2: the number is 11."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $98 on 2 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "49",
+          "workedSolution": [
+            "Divide the total cost of $98 by 2 notebooks.",
+            "Each notebook costs $49."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 186 km in 6 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "31",
+          "workedSolution": [
+            "Divide 186 km by 6 hours.",
+            "The average speed is 31 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 8 then decreased by 47 to make 97. Find the number.",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "Undo the adjustment: 8 times the number is 144.",
+            "Divide by 8: the number is 18."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 12 then increased by 3 to make 123. Find the number.",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "Undo the adjustment: 12 times the number is 120.",
+            "Divide by 12: the number is 10."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 42 then increased by 42 to make 714. Find the number.",
+          "canonicalAnswer": "16",
+          "workedSolution": [
+            "Undo the adjustment: 42 times the number is 672.",
+            "Divide by 42: the number is 16."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 43 then decreased by 19 to make -1739. Find the number.",
+          "canonicalAnswer": "-40",
+          "workedSolution": [
+            "Undo the adjustment: 43 times the number is -1720.",
+            "Divide by 43: the number is -40."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 5 then increased by 21 to make -119. Find the number.",
+          "canonicalAnswer": "-28",
+          "workedSolution": [
+            "Undo the adjustment: 5 times the number is -140.",
+            "Divide by 5: the number is -28."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 16.3 + 36.6",
+          "canonicalAnswer": "52.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 16.3 + 36.6.",
+            "The answer is 52.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 24.2 - 48.2",
+          "canonicalAnswer": "-24",
+          "workedSolution": [
+            "Set up the decimal calculation: 24.2 - 48.2.",
+            "The answer is -24."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 38.4 × 8.1",
+          "canonicalAnswer": "311.04",
+          "workedSolution": [
+            "Set up the decimal calculation: 38.4 × 8.1.",
+            "The answer is 311.04."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 10.7 + 21.8",
+          "canonicalAnswer": "32.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 10.7 + 21.8.",
+            "The answer is 32.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 25.9 - 11.4",
+          "canonicalAnswer": "14.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 25.9 - 11.4.",
+            "The answer is 14.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 47.4 × 31.8",
+          "canonicalAnswer": "1507.32",
+          "workedSolution": [
+            "Set up the decimal calculation: 47.4 × 31.8.",
+            "The answer is 1507.32."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 29.9 + 7.1",
+          "canonicalAnswer": "37",
+          "workedSolution": [
+            "Set up the decimal calculation: 29.9 + 7.1.",
+            "The answer is 37."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 35.4 - 34.2",
+          "canonicalAnswer": "1.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 35.4 - 34.2.",
+            "The answer is 1.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_3_v2_introductory_4_527f3f0f0b3e_simultaneous_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 5x + 2y = 20\n(2) 5x + 4y = 30",
+          "canonicalAnswer": "x = 2, y = 5",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 5x + 2y = 20.",
+            "Multiply equation 2 by 1: 5x + 4y = 30.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -2y = -10.",
+            "Divide both sides by -2: y = 5.",
+            "Substitute y = 5 in equation 1: 5x = 20 − (2)(5) = 10; divide by 5 to get x = 2.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 2 and 1.",
+            "Multiply equation 1 by 2: 10x + 4y = 40.",
+            "Multiply equation 2 by 1: 5x + 4y = 30.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 5x = 10.",
+            "Divide both sides by 5: x = 2.",
+            "Substitute x = 2 in equation 1: 2y = 20 − (5)(2) = 10; divide by 2 to get y = 5.",
+            "Check equation 1: (5)(2) + (2)(5) = 20.",
+            "Check equation 2: (5)(2) + (4)(5) = 30.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 2, y = 5."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 5,
+                "y": 2,
+                "constant": 20
+              },
+              {
+                "x": 5,
+                "y": 4,
+                "constant": 30
+              }
+            ],
+            "solution": {
+              "x": 2,
+              "y": 5
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 5,
+                    "y": 2,
+                    "constant": 20
+                  },
+                  {
+                    "x": 5,
+                    "y": 4,
+                    "constant": 30
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -2,
+                  "constant": -10
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  2,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 10,
+                    "y": 4,
+                    "constant": 40
+                  },
+                  {
+                    "x": 5,
+                    "y": 4,
+                    "constant": 30
+                  }
+                ],
+                "reduced": {
+                  "x": 5,
+                  "y": 0,
+                  "constant": 10
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v2_introductory_4_527f3f0f0b3e_simultaneous_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 1x + 1y = 7\n(2) 1x + 2y = 13",
+          "canonicalAnswer": "x = 1, y = 6",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 1x + 1y = 7.",
+            "Multiply equation 2 by 1: 1x + 2y = 13.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1y = -6.",
+            "Divide both sides by -1: y = 6.",
+            "Substitute y = 6 in equation 1: 1x = 7 − (1)(6) = 1; divide by 1 to get x = 1.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 2 and 1.",
+            "Multiply equation 1 by 2: 2x + 2y = 14.",
+            "Multiply equation 2 by 1: 1x + 2y = 13.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 1x = 1.",
+            "Divide both sides by 1: x = 1.",
+            "Substitute x = 1 in equation 1: 1y = 7 − (1)(1) = 6; divide by 1 to get y = 6.",
+            "Check equation 1: (1)(1) + (1)(6) = 7.",
+            "Check equation 2: (1)(1) + (2)(6) = 13.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 1, y = 6."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 1,
+                "y": 1,
+                "constant": 7
+              },
+              {
+                "x": 1,
+                "y": 2,
+                "constant": 13
+              }
+            ],
+            "solution": {
+              "x": 1,
+              "y": 6
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 1,
+                    "constant": 7
+                  },
+                  {
+                    "x": 1,
+                    "y": 2,
+                    "constant": 13
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -1,
+                  "constant": -6
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  2,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 2,
+                    "y": 2,
+                    "constant": 14
+                  },
+                  {
+                    "x": 1,
+                    "y": 2,
+                    "constant": 13
+                  }
+                ],
+                "reduced": {
+                  "x": 1,
+                  "y": 0,
+                  "constant": 1
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v2_introductory_4_527f3f0f0b3e_simultaneous_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 1x + 1y = 7\n(2) 1x + 4y = 10",
+          "canonicalAnswer": "x = 6, y = 1",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 1x + 1y = 7.",
+            "Multiply equation 2 by 1: 1x + 4y = 10.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -3y = -3.",
+            "Divide both sides by -3: y = 1.",
+            "Substitute y = 1 in equation 1: 1x = 7 − (1)(1) = 6; divide by 1 to get x = 6.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 4 and 1.",
+            "Multiply equation 1 by 4: 4x + 4y = 28.",
+            "Multiply equation 2 by 1: 1x + 4y = 10.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 3x = 18.",
+            "Divide both sides by 3: x = 6.",
+            "Substitute x = 6 in equation 1: 1y = 7 − (1)(6) = 1; divide by 1 to get y = 1.",
+            "Check equation 1: (1)(6) + (1)(1) = 7.",
+            "Check equation 2: (1)(6) + (4)(1) = 10.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 6, y = 1."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 1,
+                "y": 1,
+                "constant": 7
+              },
+              {
+                "x": 1,
+                "y": 4,
+                "constant": 10
+              }
+            ],
+            "solution": {
+              "x": 6,
+              "y": 1
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 1,
+                    "constant": 7
+                  },
+                  {
+                    "x": 1,
+                    "y": 4,
+                    "constant": 10
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -3,
+                  "constant": -3
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  4,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 4,
+                    "y": 4,
+                    "constant": 28
+                  },
+                  {
+                    "x": 1,
+                    "y": 4,
+                    "constant": 10
+                  }
+                ],
+                "reduced": {
+                  "x": 3,
+                  "y": 0,
+                  "constant": 18
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_3_v2_introductory_4_527f3f0f0b3e_simultaneous_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 5x + 3y = 31\n(2) 5x + 2y = 29",
+          "canonicalAnswer": "x = 5, y = 2",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 5x + 3y = 31.",
+            "Multiply equation 2 by 1: 5x + 2y = 29.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 1y = 2.",
+            "Divide both sides by 1: y = 2.",
+            "Substitute y = 2 in equation 1: 5x = 31 − (3)(2) = 25; divide by 5 to get x = 5.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 2 and 3.",
+            "Multiply equation 1 by 2: 10x + 6y = 62.",
+            "Multiply equation 2 by 3: 15x + 6y = 87.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -5x = -25.",
+            "Divide both sides by -5: x = 5.",
+            "Substitute x = 5 in equation 1: 3y = 31 − (5)(5) = 6; divide by 3 to get y = 2.",
+            "Check equation 1: (5)(5) + (3)(2) = 31.",
+            "Check equation 2: (5)(5) + (2)(2) = 29.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 5, y = 2."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 5,
+                "y": 3,
+                "constant": 31
+              },
+              {
+                "x": 5,
+                "y": 2,
+                "constant": 29
+              }
+            ],
+            "solution": {
+              "x": 5,
+              "y": 2
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 5,
+                    "y": 3,
+                    "constant": 31
+                  },
+                  {
+                    "x": 5,
+                    "y": 2,
+                    "constant": 29
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 1,
+                  "constant": 2
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  2,
+                  3
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 10,
+                    "y": 6,
+                    "constant": 62
+                  },
+                  {
+                    "x": 15,
+                    "y": 6,
+                    "constant": 87
+                  }
+                ],
+                "reduced": {
+                  "x": -5,
+                  "y": 0,
+                  "constant": -25
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_4_v2_introductory_4_527f3f0f0b3e",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_4_fraction_1",
+          "topic": "fraction",
+          "prompt": "13/17 + 13/24",
+          "canonicalAnswer": "1 125/408",
+          "workedSolution": [
+            "Convert the terms: 312/408 + 221/408. Add to get 533/408; reduce to 533/408, then convert to 1 125/408."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_2",
+          "topic": "fraction",
+          "prompt": "6/10 − 22/35",
+          "canonicalAnswer": "-1/35",
+          "workedSolution": [
+            "Convert the terms: 210/350 − 220/350. Subtract to get -10/350; reduce to -1/35, then convert to -1/35."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_3",
+          "topic": "fraction",
+          "prompt": "34/47 × 39/47",
+          "canonicalAnswer": "1326/2209",
+          "workedSolution": [
+            "Multiply to get 1326/2209; reduce to 1326/2209, then convert to 1326/2209."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_4",
+          "topic": "fraction",
+          "prompt": "16/35 ÷ 12/36",
+          "canonicalAnswer": "1 13/35",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 16/35 × 36/12.",
+            "Multiply to get 576/420; reduce to 48/35, then convert to 1 13/35."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_5",
+          "topic": "fraction",
+          "prompt": "13/19 + 1/33",
+          "canonicalAnswer": "448/627",
+          "workedSolution": [
+            "Convert the terms: 429/627 + 19/627. Add to get 448/627; reduce to 448/627, then convert to 448/627."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_6",
+          "topic": "fraction",
+          "prompt": "28/42 − 11/16",
+          "canonicalAnswer": "-1/48",
+          "workedSolution": [
+            "Convert the terms: 448/672 − 462/672. Subtract to get -14/672; reduce to -1/48, then convert to -1/48."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_7",
+          "topic": "fraction",
+          "prompt": "24/48 × 24/25",
+          "canonicalAnswer": "12/25",
+          "workedSolution": [
+            "Multiply to get 576/1200; reduce to 12/25, then convert to 12/25."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_fraction_8",
+          "topic": "fraction",
+          "prompt": "23/46 ÷ 25/49",
+          "canonicalAnswer": "49/50",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 23/46 × 49/25.",
+            "Multiply to get 1127/1150; reduce to 49/50, then convert to 49/50."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -51 1/5",
+          "canonicalAnswer": "-32",
+          "workedSolution": [
+            "8/5x = -51 1/5",
+            "x = -32"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 32x − 23 = 16x + 393",
+          "canonicalAnswer": "26",
+          "workedSolution": [
+            "16x = 416",
+            "x = 26"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 22x − 34 = 12x + 66",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "10x = 100",
+            "x = 10"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = -126 9/10",
+          "canonicalAnswer": "-47",
+          "workedSolution": [
+            "2.7x = -126 9/10",
+            "x = -47"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 38x + 32 = 34x − 132",
+          "canonicalAnswer": "-41",
+          "workedSolution": [
+            "4x = 164",
+            "x = -41"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 4x + 34 = 1x + 76",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "3x = 42",
+            "x = 14"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 22 2/5",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "8/5x = 22 2/5",
+            "x = 14"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 15x + 29 = 9x − 25",
+          "canonicalAnswer": "-9",
+          "workedSolution": [
+            "6x = 54",
+            "x = -9"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 312x + 819",
+          "canonicalAnswer": "39(8x + 21)",
+          "workedSolution": [
+            "The greatest common factor is 39.",
+            "Take out 39 to get 39(8x + 21)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 245x − 336",
+          "canonicalAnswer": "7(35x − 48)",
+          "workedSolution": [
+            "The greatest common factor is 7.",
+            "Take out 7 to get 7(35x − 48)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 126x − 483",
+          "canonicalAnswer": "21(6x − 23)",
+          "workedSolution": [
+            "The greatest common factor is 21.",
+            "Take out 21 to get 21(6x − 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 697x − 574",
+          "canonicalAnswer": "41(17x − 14)",
+          "workedSolution": [
+            "The greatest common factor is 41.",
+            "Take out 41 to get 41(17x − 14)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 336x − 276",
+          "canonicalAnswer": "12(28x − 23)",
+          "workedSolution": [
+            "The greatest common factor is 12.",
+            "Take out 12 to get 12(28x − 23)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 1215x + 180",
+          "canonicalAnswer": "45(27x + 4)",
+          "workedSolution": [
+            "The greatest common factor is 45.",
+            "Take out 45 to get 45(27x + 4)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 1161x + 1591",
+          "canonicalAnswer": "43(27x + 37)",
+          "workedSolution": [
+            "The greatest common factor is 43.",
+            "Take out 43 to get 43(27x + 37)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 1054x − 714",
+          "canonicalAnswer": "34(31x − 21)",
+          "workedSolution": [
+            "The greatest common factor is 34.",
+            "Take out 34 to get 34(31x − 21)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 28 then decreased by 28 to make 1120. Find the number.",
+          "canonicalAnswer": "41",
+          "workedSolution": [
+            "Undo the adjustment: 28 times the number is 1148.",
+            "Divide by 28: the number is 41."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $36 on 3 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "12",
+          "workedSolution": [
+            "Divide the total cost of $36 by 3 notebooks.",
+            "Each notebook costs $12."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 252 grams of flour for 6 servings. How much flour is needed for 2 servings?",
+          "canonicalAnswer": "84",
+          "workedSolution": [
+            "The recipe uses 42 grams per serving.",
+            "42 grams times 2 servings is 84 grams."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 9 then increased by 41 to make -103. Find the number.",
+          "canonicalAnswer": "-16",
+          "workedSolution": [
+            "Undo the adjustment: 9 times the number is -144.",
+            "Divide by 9: the number is -16."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 32 then decreased by 3 to make 349. Find the number.",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "Undo the adjustment: 32 times the number is 352.",
+            "Divide by 32: the number is 11."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 12 then decreased by 25 to make 407. Find the number.",
+          "canonicalAnswer": "36",
+          "workedSolution": [
+            "Undo the adjustment: 12 times the number is 432.",
+            "Divide by 12: the number is 36."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 22 then decreased by 15 to make 315. Find the number.",
+          "canonicalAnswer": "15",
+          "workedSolution": [
+            "Undo the adjustment: 22 times the number is 330.",
+            "Divide by 22: the number is 15."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 49 then increased by 17 to make -1159. Find the number.",
+          "canonicalAnswer": "-24",
+          "workedSolution": [
+            "Undo the adjustment: 49 times the number is -1176.",
+            "Divide by 49: the number is -24."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 19.9 + 40.8",
+          "canonicalAnswer": "60.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 19.9 + 40.8.",
+            "The answer is 60.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 32.2 - 28.2",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "Set up the decimal calculation: 32.2 - 28.2.",
+            "The answer is 4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 1.5 × 22.5",
+          "canonicalAnswer": "33.75",
+          "workedSolution": [
+            "Set up the decimal calculation: 1.5 × 22.5.",
+            "The answer is 33.75."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 29.1 + 15.0",
+          "canonicalAnswer": "44.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 29.1 + 15.0.",
+            "The answer is 44.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 25.1 - 10.0",
+          "canonicalAnswer": "15.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 25.1 - 10.0.",
+            "The answer is 15.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 16.6 × 29.2",
+          "canonicalAnswer": "484.72",
+          "workedSolution": [
+            "Set up the decimal calculation: 16.6 × 29.2.",
+            "The answer is 484.72."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 4.7 + 44.8",
+          "canonicalAnswer": "49.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 4.7 + 44.8.",
+            "The answer is 49.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 45.5 - 28.3",
+          "canonicalAnswer": "17.2",
+          "workedSolution": [
+            "Set up the decimal calculation: 45.5 - 28.3.",
+            "The answer is 17.2."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_4_v2_introductory_4_527f3f0f0b3e_simultaneous_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 4x + 3y = 33\n(2) 4x + 1y = 27",
+          "canonicalAnswer": "x = 6, y = 3",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 4x + 3y = 33.",
+            "Multiply equation 2 by 1: 4x + 1y = 27.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 2y = 6.",
+            "Divide both sides by 2: y = 3.",
+            "Substitute y = 3 in equation 1: 4x = 33 − (3)(3) = 24; divide by 4 to get x = 6.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 1 and 3.",
+            "Multiply equation 1 by 1: 4x + 3y = 33.",
+            "Multiply equation 2 by 3: 12x + 3y = 81.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -8x = -48.",
+            "Divide both sides by -8: x = 6.",
+            "Substitute x = 6 in equation 1: 3y = 33 − (4)(6) = 9; divide by 3 to get y = 3.",
+            "Check equation 1: (4)(6) + (3)(3) = 33.",
+            "Check equation 2: (4)(6) + (1)(3) = 27.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 6, y = 3."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 4,
+                "y": 3,
+                "constant": 33
+              },
+              {
+                "x": 4,
+                "y": 1,
+                "constant": 27
+              }
+            ],
+            "solution": {
+              "x": 6,
+              "y": 3
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 4,
+                    "y": 3,
+                    "constant": 33
+                  },
+                  {
+                    "x": 4,
+                    "y": 1,
+                    "constant": 27
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 2,
+                  "constant": 6
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  1,
+                  3
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 4,
+                    "y": 3,
+                    "constant": 33
+                  },
+                  {
+                    "x": 12,
+                    "y": 3,
+                    "constant": 81
+                  }
+                ],
+                "reduced": {
+                  "x": -8,
+                  "y": 0,
+                  "constant": -48
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v2_introductory_4_527f3f0f0b3e_simultaneous_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 2x + 3y = 26\n(2) 2x + 2y = 20",
+          "canonicalAnswer": "x = 4, y = 6",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 2x + 3y = 26.",
+            "Multiply equation 2 by 1: 2x + 2y = 20.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 1y = 6.",
+            "Divide both sides by 1: y = 6.",
+            "Substitute y = 6 in equation 1: 2x = 26 − (3)(6) = 8; divide by 2 to get x = 4.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 2 and 3.",
+            "Multiply equation 1 by 2: 4x + 6y = 52.",
+            "Multiply equation 2 by 3: 6x + 6y = 60.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -2x = -8.",
+            "Divide both sides by -2: x = 4.",
+            "Substitute x = 4 in equation 1: 3y = 26 − (2)(4) = 18; divide by 3 to get y = 6.",
+            "Check equation 1: (2)(4) + (3)(6) = 26.",
+            "Check equation 2: (2)(4) + (2)(6) = 20.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 4, y = 6."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 2,
+                "y": 3,
+                "constant": 26
+              },
+              {
+                "x": 2,
+                "y": 2,
+                "constant": 20
+              }
+            ],
+            "solution": {
+              "x": 4,
+              "y": 6
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 2,
+                    "y": 3,
+                    "constant": 26
+                  },
+                  {
+                    "x": 2,
+                    "y": 2,
+                    "constant": 20
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 1,
+                  "constant": 6
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  2,
+                  3
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 4,
+                    "y": 6,
+                    "constant": 52
+                  },
+                  {
+                    "x": 6,
+                    "y": 6,
+                    "constant": 60
+                  }
+                ],
+                "reduced": {
+                  "x": -2,
+                  "y": 0,
+                  "constant": -8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v2_introductory_4_527f3f0f0b3e_simultaneous_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 3x + 4y = 30\n(2) 3x + 5y = 33",
+          "canonicalAnswer": "x = 6, y = 3",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 3x + 4y = 30.",
+            "Multiply equation 2 by 1: 3x + 5y = 33.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1y = -3.",
+            "Divide both sides by -1: y = 3.",
+            "Substitute y = 3 in equation 1: 3x = 30 − (4)(3) = 18; divide by 3 to get x = 6.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 5 and 4.",
+            "Multiply equation 1 by 5: 15x + 20y = 150.",
+            "Multiply equation 2 by 4: 12x + 20y = 132.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 3x = 18.",
+            "Divide both sides by 3: x = 6.",
+            "Substitute x = 6 in equation 1: 4y = 30 − (3)(6) = 12; divide by 4 to get y = 3.",
+            "Check equation 1: (3)(6) + (4)(3) = 30.",
+            "Check equation 2: (3)(6) + (5)(3) = 33.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 6, y = 3."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 3,
+                "y": 4,
+                "constant": 30
+              },
+              {
+                "x": 3,
+                "y": 5,
+                "constant": 33
+              }
+            ],
+            "solution": {
+              "x": 6,
+              "y": 3
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 3,
+                    "y": 4,
+                    "constant": 30
+                  },
+                  {
+                    "x": 3,
+                    "y": 5,
+                    "constant": 33
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -1,
+                  "constant": -3
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  5,
+                  4
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 15,
+                    "y": 20,
+                    "constant": 150
+                  },
+                  {
+                    "x": 12,
+                    "y": 20,
+                    "constant": 132
+                  }
+                ],
+                "reduced": {
+                  "x": 3,
+                  "y": 0,
+                  "constant": 18
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_4_v2_introductory_4_527f3f0f0b3e_simultaneous_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 3x + 5y = 35\n(2) 3x + 1y = 19",
+          "canonicalAnswer": "x = 5, y = 4",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 3x + 5y = 35.",
+            "Multiply equation 2 by 1: 3x + 1y = 19.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 4y = 16.",
+            "Divide both sides by 4: y = 4.",
+            "Substitute y = 4 in equation 1: 3x = 35 − (5)(4) = 15; divide by 3 to get x = 5.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 1 and 5.",
+            "Multiply equation 1 by 1: 3x + 5y = 35.",
+            "Multiply equation 2 by 5: 15x + 5y = 95.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -12x = -60.",
+            "Divide both sides by -12: x = 5.",
+            "Substitute x = 5 in equation 1: 5y = 35 − (3)(5) = 20; divide by 5 to get y = 4.",
+            "Check equation 1: (3)(5) + (5)(4) = 35.",
+            "Check equation 2: (3)(5) + (1)(4) = 19.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 5, y = 4."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 3,
+                "y": 5,
+                "constant": 35
+              },
+              {
+                "x": 3,
+                "y": 1,
+                "constant": 19
+              }
+            ],
+            "solution": {
+              "x": 5,
+              "y": 4
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 3,
+                    "y": 5,
+                    "constant": 35
+                  },
+                  {
+                    "x": 3,
+                    "y": 1,
+                    "constant": 19
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 4,
+                  "constant": 16
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  1,
+                  5
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 3,
+                    "y": 5,
+                    "constant": 35
+                  },
+                  {
+                    "x": 15,
+                    "y": 5,
+                    "constant": 95
+                  }
+                ],
+                "reduced": {
+                  "x": -12,
+                  "y": 0,
+                  "constant": -60
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_5_v2_introductory_4_527f3f0f0b3e",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_5_fraction_1",
+          "topic": "fraction",
+          "prompt": "3/5 + 13/26",
+          "canonicalAnswer": "1 1/10",
+          "workedSolution": [
+            "Convert the terms: 78/130 + 65/130. Add to get 143/130; reduce to 11/10, then convert to 1 1/10."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_2",
+          "topic": "fraction",
+          "prompt": "22/40 − 4/23",
+          "canonicalAnswer": "173/460",
+          "workedSolution": [
+            "Convert the terms: 506/920 − 160/920. Subtract to get 346/920; reduce to 173/460, then convert to 173/460."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_3",
+          "topic": "fraction",
+          "prompt": "12/25 × 3/31",
+          "canonicalAnswer": "36/775",
+          "workedSolution": [
+            "Multiply to get 36/775; reduce to 36/775, then convert to 36/775."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_4",
+          "topic": "fraction",
+          "prompt": "3/5 ÷ 7/8",
+          "canonicalAnswer": "24/35",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 3/5 × 8/7.",
+            "Multiply to get 24/35; reduce to 24/35, then convert to 24/35."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_5",
+          "topic": "fraction",
+          "prompt": "1/10 + 6/41",
+          "canonicalAnswer": "101/410",
+          "workedSolution": [
+            "Convert the terms: 41/410 + 60/410. Add to get 101/410; reduce to 101/410, then convert to 101/410."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_6",
+          "topic": "fraction",
+          "prompt": "2/3 − 9/15",
+          "canonicalAnswer": "1/15",
+          "workedSolution": [
+            "Convert the terms: 30/45 − 27/45. Subtract to get 3/45; reduce to 1/15, then convert to 1/15."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_7",
+          "topic": "fraction",
+          "prompt": "4/5 × 3/6",
+          "canonicalAnswer": "2/5",
+          "workedSolution": [
+            "Multiply to get 12/30; reduce to 2/5, then convert to 2/5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_fraction_8",
+          "topic": "fraction",
+          "prompt": "5/11 ÷ 9/12",
+          "canonicalAnswer": "20/33",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 5/11 × 12/9.",
+            "Multiply to get 60/99; reduce to 20/33, then convert to 20/33."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 14 2/5",
+          "canonicalAnswer": "9",
+          "workedSolution": [
+            "8/5x = 14 2/5",
+            "x = 9"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 31x − 5 = 10x + 583",
+          "canonicalAnswer": "28",
+          "workedSolution": [
+            "21x = 588",
+            "x = 28"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 22x − 15 = 12x + 305",
+          "canonicalAnswer": "32",
+          "workedSolution": [
+            "10x = 320",
+            "x = 32"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = 97 1/5",
+          "canonicalAnswer": "36",
+          "workedSolution": [
+            "2.7x = 97 1/5",
+            "x = 36"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 5x + 29 = 1x + 73",
+          "canonicalAnswer": "11",
+          "workedSolution": [
+            "4x = 44",
+            "x = 11"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 37x − 34 = 30x + 36",
+          "canonicalAnswer": "10",
+          "workedSolution": [
+            "7x = 70",
+            "x = 10"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 75 1/5",
+          "canonicalAnswer": "47",
+          "workedSolution": [
+            "8/5x = 75 1/5",
+            "x = 47"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 9x + 9 = 7x − 31",
+          "canonicalAnswer": "-20",
+          "workedSolution": [
+            "2x = 40",
+            "x = -20"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 464x + 29",
+          "canonicalAnswer": "29(16x + 1)",
+          "workedSolution": [
+            "The greatest common factor is 29.",
+            "Take out 29 to get 29(16x + 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 336x − 352",
+          "canonicalAnswer": "16(21x − 22)",
+          "workedSolution": [
+            "The greatest common factor is 16.",
+            "Take out 16 to get 16(21x − 22)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 714x − 273",
+          "canonicalAnswer": "21(34x − 13)",
+          "workedSolution": [
+            "The greatest common factor is 21.",
+            "Take out 21 to get 21(34x − 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 684x − 494",
+          "canonicalAnswer": "38(18x − 13)",
+          "workedSolution": [
+            "The greatest common factor is 38.",
+            "Take out 38 to get 38(18x − 13)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 141x − 132",
+          "canonicalAnswer": "3(47x − 44)",
+          "workedSolution": [
+            "The greatest common factor is 3.",
+            "Take out 3 to get 3(47x − 44)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 1548x − 2021",
+          "canonicalAnswer": "43(36x − 47)",
+          "workedSolution": [
+            "The greatest common factor is 43.",
+            "Take out 43 to get 43(36x − 47)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 693x − 588",
+          "canonicalAnswer": "21(33x − 28)",
+          "workedSolution": [
+            "The greatest common factor is 21.",
+            "Take out 21 to get 21(33x − 28)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 129x − 2150",
+          "canonicalAnswer": "43(3x − 50)",
+          "workedSolution": [
+            "The greatest common factor is 43.",
+            "Take out 43 to get 43(3x − 50)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 18 then increased by 18 to make -504. Find the number.",
+          "canonicalAnswer": "-29",
+          "workedSolution": [
+            "Undo the adjustment: 18 times the number is -522.",
+            "Divide by 18: the number is -29."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $470 on 10 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "47",
+          "workedSolution": [
+            "Divide the total cost of $470 by 10 notebooks.",
+            "Each notebook costs $47."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 24 km in 6 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "4",
+          "workedSolution": [
+            "Divide 24 km by 6 hours.",
+            "The average speed is 4 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 5 then decreased by 14 to make -264. Find the number.",
+          "canonicalAnswer": "-50",
+          "workedSolution": [
+            "Undo the adjustment: 5 times the number is -250.",
+            "Divide by 5: the number is -50."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 4 then decreased by 7 to make 65. Find the number.",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "Undo the adjustment: 4 times the number is 72.",
+            "Divide by 4: the number is 18."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 46 then increased by 38 to make -284. Find the number.",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "Undo the adjustment: 46 times the number is -322.",
+            "Divide by 46: the number is -7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 48 then decreased by 14 to make -2030. Find the number.",
+          "canonicalAnswer": "-42",
+          "workedSolution": [
+            "Undo the adjustment: 48 times the number is -2016.",
+            "Divide by 48: the number is -42."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 30 then decreased by 5 to make 715. Find the number.",
+          "canonicalAnswer": "24",
+          "workedSolution": [
+            "Undo the adjustment: 30 times the number is 720.",
+            "Divide by 30: the number is 24."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 3.2 + 47.3",
+          "canonicalAnswer": "50.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 3.2 + 47.3.",
+            "The answer is 50.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 44.8 - 10.7",
+          "canonicalAnswer": "34.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 44.8 - 10.7.",
+            "The answer is 34.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 7.2 × 41.7",
+          "canonicalAnswer": "300.24",
+          "workedSolution": [
+            "Set up the decimal calculation: 7.2 × 41.7.",
+            "The answer is 300.24."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 24.8 + 43.9",
+          "canonicalAnswer": "68.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 24.8 + 43.9.",
+            "The answer is 68.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 8.1 - 29.5",
+          "canonicalAnswer": "-21.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 8.1 - 29.5.",
+            "The answer is -21.4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 10.5 × 15.0",
+          "canonicalAnswer": "157.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 10.5 × 15.0.",
+            "The answer is 157.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 1.1 + 26.0",
+          "canonicalAnswer": "27.1",
+          "workedSolution": [
+            "Set up the decimal calculation: 1.1 + 26.0.",
+            "The answer is 27.1."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 42.0 - 19.2",
+          "canonicalAnswer": "22.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 42.0 - 19.2.",
+            "The answer is 22.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_5_v2_introductory_4_527f3f0f0b3e_simultaneous_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 1x + 2y = 7\n(2) 1x + 1y = 4",
+          "canonicalAnswer": "x = 1, y = 3",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 1x + 2y = 7.",
+            "Multiply equation 2 by 1: 1x + 1y = 4.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 1y = 3.",
+            "Divide both sides by 1: y = 3.",
+            "Substitute y = 3 in equation 1: 1x = 7 − (2)(3) = 1; divide by 1 to get x = 1.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 1 and 2.",
+            "Multiply equation 1 by 1: 1x + 2y = 7.",
+            "Multiply equation 2 by 2: 2x + 2y = 8.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1x = -1.",
+            "Divide both sides by -1: x = 1.",
+            "Substitute x = 1 in equation 1: 2y = 7 − (1)(1) = 6; divide by 2 to get y = 3.",
+            "Check equation 1: (1)(1) + (2)(3) = 7.",
+            "Check equation 2: (1)(1) + (1)(3) = 4.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 1, y = 3."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 1,
+                "y": 2,
+                "constant": 7
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "constant": 4
+              }
+            ],
+            "solution": {
+              "x": 1,
+              "y": 3
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 2,
+                    "constant": 7
+                  },
+                  {
+                    "x": 1,
+                    "y": 1,
+                    "constant": 4
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 1,
+                  "constant": 3
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  1,
+                  2
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 2,
+                    "constant": 7
+                  },
+                  {
+                    "x": 2,
+                    "y": 2,
+                    "constant": 8
+                  }
+                ],
+                "reduced": {
+                  "x": -1,
+                  "y": 0,
+                  "constant": -1
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v2_introductory_4_527f3f0f0b3e_simultaneous_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 1x + 2y = 8\n(2) 1x + 1y = 7",
+          "canonicalAnswer": "x = 6, y = 1",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 1x + 2y = 8.",
+            "Multiply equation 2 by 1: 1x + 1y = 7.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 1y = 1.",
+            "Divide both sides by 1: y = 1.",
+            "Substitute y = 1 in equation 1: 1x = 8 − (2)(1) = 6; divide by 1 to get x = 6.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 1 and 2.",
+            "Multiply equation 1 by 1: 1x + 2y = 8.",
+            "Multiply equation 2 by 2: 2x + 2y = 14.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1x = -6.",
+            "Divide both sides by -1: x = 6.",
+            "Substitute x = 6 in equation 1: 2y = 8 − (1)(6) = 2; divide by 2 to get y = 1.",
+            "Check equation 1: (1)(6) + (2)(1) = 8.",
+            "Check equation 2: (1)(6) + (1)(1) = 7.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 6, y = 1."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 1,
+                "y": 2,
+                "constant": 8
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "constant": 7
+              }
+            ],
+            "solution": {
+              "x": 6,
+              "y": 1
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 2,
+                    "constant": 8
+                  },
+                  {
+                    "x": 1,
+                    "y": 1,
+                    "constant": 7
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 1,
+                  "constant": 1
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  1,
+                  2
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 2,
+                    "constant": 8
+                  },
+                  {
+                    "x": 2,
+                    "y": 2,
+                    "constant": 14
+                  }
+                ],
+                "reduced": {
+                  "x": -1,
+                  "y": 0,
+                  "constant": -6
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v2_introductory_4_527f3f0f0b3e_simultaneous_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 3x + 2y = 28\n(2) 3x + 3y = 33",
+          "canonicalAnswer": "x = 6, y = 5",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 3x + 2y = 28.",
+            "Multiply equation 2 by 1: 3x + 3y = 33.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1y = -5.",
+            "Divide both sides by -1: y = 5.",
+            "Substitute y = 5 in equation 1: 3x = 28 − (2)(5) = 18; divide by 3 to get x = 6.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 3 and 2.",
+            "Multiply equation 1 by 3: 9x + 6y = 84.",
+            "Multiply equation 2 by 2: 6x + 6y = 66.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 3x = 18.",
+            "Divide both sides by 3: x = 6.",
+            "Substitute x = 6 in equation 1: 2y = 28 − (3)(6) = 10; divide by 2 to get y = 5.",
+            "Check equation 1: (3)(6) + (2)(5) = 28.",
+            "Check equation 2: (3)(6) + (3)(5) = 33.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 6, y = 5."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 3,
+                "y": 2,
+                "constant": 28
+              },
+              {
+                "x": 3,
+                "y": 3,
+                "constant": 33
+              }
+            ],
+            "solution": {
+              "x": 6,
+              "y": 5
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 3,
+                    "y": 2,
+                    "constant": 28
+                  },
+                  {
+                    "x": 3,
+                    "y": 3,
+                    "constant": 33
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -1,
+                  "constant": -5
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  3,
+                  2
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 9,
+                    "y": 6,
+                    "constant": 84
+                  },
+                  {
+                    "x": 6,
+                    "y": 6,
+                    "constant": 66
+                  }
+                ],
+                "reduced": {
+                  "x": 3,
+                  "y": 0,
+                  "constant": 18
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_5_v2_introductory_4_527f3f0f0b3e_simultaneous_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 2x + 4y = 32\n(2) 2x + 5y = 38",
+          "canonicalAnswer": "x = 4, y = 6",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 2x + 4y = 32.",
+            "Multiply equation 2 by 1: 2x + 5y = 38.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1y = -6.",
+            "Divide both sides by -1: y = 6.",
+            "Substitute y = 6 in equation 1: 2x = 32 − (4)(6) = 8; divide by 2 to get x = 4.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 5 and 4.",
+            "Multiply equation 1 by 5: 10x + 20y = 160.",
+            "Multiply equation 2 by 4: 8x + 20y = 152.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 2x = 8.",
+            "Divide both sides by 2: x = 4.",
+            "Substitute x = 4 in equation 1: 4y = 32 − (2)(4) = 24; divide by 4 to get y = 6.",
+            "Check equation 1: (2)(4) + (4)(6) = 32.",
+            "Check equation 2: (2)(4) + (5)(6) = 38.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 4, y = 6."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 2,
+                "y": 4,
+                "constant": 32
+              },
+              {
+                "x": 2,
+                "y": 5,
+                "constant": 38
+              }
+            ],
+            "solution": {
+              "x": 4,
+              "y": 6
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 2,
+                    "y": 4,
+                    "constant": 32
+                  },
+                  {
+                    "x": 2,
+                    "y": 5,
+                    "constant": 38
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -1,
+                  "constant": -6
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  5,
+                  4
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 10,
+                    "y": 20,
+                    "constant": 160
+                  },
+                  {
+                    "x": 8,
+                    "y": 20,
+                    "constant": 152
+                  }
+                ],
+                "reduced": {
+                  "x": 2,
+                  "y": 0,
+                  "constant": 8
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_6_v2_introductory_4_527f3f0f0b3e",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_6_fraction_1",
+          "topic": "fraction",
+          "prompt": "34/37 + 38/44",
+          "canonicalAnswer": "1 637/814",
+          "workedSolution": [
+            "Convert the terms: 1496/1628 + 1406/1628. Add to get 2902/1628; reduce to 1451/814, then convert to 1 637/814."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_2",
+          "topic": "fraction",
+          "prompt": "5/35 − 16/21",
+          "canonicalAnswer": "-13/21",
+          "workedSolution": [
+            "Convert the terms: 105/735 − 560/735. Subtract to get -455/735; reduce to -13/21, then convert to -13/21."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_3",
+          "topic": "fraction",
+          "prompt": "9/28 × 7/10",
+          "canonicalAnswer": "9/40",
+          "workedSolution": [
+            "Multiply to get 63/280; reduce to 9/40, then convert to 9/40."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_4",
+          "topic": "fraction",
+          "prompt": "18/26 ÷ 1/38",
+          "canonicalAnswer": "26 4/13",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 18/26 × 38/1.",
+            "Multiply to get 684/26; reduce to 342/13, then convert to 26 4/13."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_5",
+          "topic": "fraction",
+          "prompt": "2/16 + 16/22",
+          "canonicalAnswer": "75/88",
+          "workedSolution": [
+            "Convert the terms: 44/352 + 256/352. Add to get 300/352; reduce to 75/88, then convert to 75/88."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_6",
+          "topic": "fraction",
+          "prompt": "1/13 − 5/26",
+          "canonicalAnswer": "-3/26",
+          "workedSolution": [
+            "Convert the terms: 26/338 − 65/338. Subtract to get -39/338; reduce to -3/26, then convert to -3/26."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_7",
+          "topic": "fraction",
+          "prompt": "5/10 × 35/40",
+          "canonicalAnswer": "7/16",
+          "workedSolution": [
+            "Multiply to get 175/400; reduce to 7/16, then convert to 7/16."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_fraction_8",
+          "topic": "fraction",
+          "prompt": "3/7 ÷ 13/19",
+          "canonicalAnswer": "57/91",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 3/7 × 19/13.",
+            "Multiply to get 57/91; reduce to 57/91, then convert to 57/91."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 70 2/5",
+          "canonicalAnswer": "44",
+          "workedSolution": [
+            "8/5x = 70 2/5",
+            "x = 44"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 13x + 34 = 8x − 1",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "5x = 35",
+            "x = -7"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 34x − 33 = 1x − 1320",
+          "canonicalAnswer": "-39",
+          "workedSolution": [
+            "33x = 1287",
+            "x = -39"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = 108",
+          "canonicalAnswer": "40",
+          "workedSolution": [
+            "2.7x = 108",
+            "x = 40"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 9x + 23 = 5x + 3",
+          "canonicalAnswer": "-5",
+          "workedSolution": [
+            "4x = 20",
+            "x = -5"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 33x − 35 = 22x + 471",
+          "canonicalAnswer": "46",
+          "workedSolution": [
+            "11x = 506",
+            "x = 46"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = -56",
+          "canonicalAnswer": "-35",
+          "workedSolution": [
+            "8/5x = -56",
+            "x = -35"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 41x + 28 = 40x + 74",
+          "canonicalAnswer": "46",
+          "workedSolution": [
+            "1x = 46",
+            "x = 46"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 56x − 588",
+          "canonicalAnswer": "28(2x − 21)",
+          "workedSolution": [
+            "The greatest common factor is 28.",
+            "Take out 28 to get 28(2x − 21)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 150x + 25",
+          "canonicalAnswer": "25(6x + 1)",
+          "workedSolution": [
+            "The greatest common factor is 25.",
+            "Take out 25 to get 25(6x + 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 442x + 1258",
+          "canonicalAnswer": "34(13x + 37)",
+          "workedSolution": [
+            "The greatest common factor is 34.",
+            "Take out 34 to get 34(13x + 37)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 624x − 168",
+          "canonicalAnswer": "24(26x − 7)",
+          "workedSolution": [
+            "The greatest common factor is 24.",
+            "Take out 24 to get 24(26x − 7)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 1122x + 825",
+          "canonicalAnswer": "33(34x + 25)",
+          "workedSolution": [
+            "The greatest common factor is 33.",
+            "Take out 33 to get 33(34x + 25)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 1312x − 896",
+          "canonicalAnswer": "32(41x − 28)",
+          "workedSolution": [
+            "The greatest common factor is 32.",
+            "Take out 32 to get 32(41x − 28)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 414x + 324",
+          "canonicalAnswer": "18(23x + 18)",
+          "workedSolution": [
+            "The greatest common factor is 18.",
+            "Take out 18 to get 18(23x + 18)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 1443x + 1170",
+          "canonicalAnswer": "39(37x + 30)",
+          "workedSolution": [
+            "The greatest common factor is 39.",
+            "Take out 39 to get 39(37x + 30)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 44 then increased by 29 to make 1305. Find the number.",
+          "canonicalAnswer": "29",
+          "workedSolution": [
+            "Undo the adjustment: 44 times the number is 1276.",
+            "Divide by 44: the number is 29."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $42 on 3 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "14",
+          "workedSolution": [
+            "Divide the total cost of $42 by 3 notebooks.",
+            "Each notebook costs $14."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A recipe uses 138 grams of flour for 3 servings. How much flour is needed for 6 servings?",
+          "canonicalAnswer": "276",
+          "workedSolution": [
+            "The recipe uses 46 grams per serving.",
+            "46 grams times 6 servings is 276 grams."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 50 then increased by 36 to make 2236. Find the number.",
+          "canonicalAnswer": "44",
+          "workedSolution": [
+            "Undo the adjustment: 50 times the number is 2200.",
+            "Divide by 50: the number is 44."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 50 then increased by 19 to make -1281. Find the number.",
+          "canonicalAnswer": "-26",
+          "workedSolution": [
+            "Undo the adjustment: 50 times the number is -1300.",
+            "Divide by 50: the number is -26."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 34 then decreased by 36 to make 678. Find the number.",
+          "canonicalAnswer": "21",
+          "workedSolution": [
+            "Undo the adjustment: 34 times the number is 714.",
+            "Divide by 34: the number is 21."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 33 then increased by 30 to make -201. Find the number.",
+          "canonicalAnswer": "-7",
+          "workedSolution": [
+            "Undo the adjustment: 33 times the number is -231.",
+            "Divide by 33: the number is -7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 47 then decreased by 11 to make -2267. Find the number.",
+          "canonicalAnswer": "-48",
+          "workedSolution": [
+            "Undo the adjustment: 47 times the number is -2256.",
+            "Divide by 47: the number is -48."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 48.3 + 31.0",
+          "canonicalAnswer": "79.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 48.3 + 31.0.",
+            "The answer is 79.3."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 39.1 - 28.7",
+          "canonicalAnswer": "10.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 39.1 - 28.7.",
+            "The answer is 10.4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 40.0 × 27.6",
+          "canonicalAnswer": "1104",
+          "workedSolution": [
+            "Set up the decimal calculation: 40.0 × 27.6.",
+            "The answer is 1104."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 37.8 + 35.7",
+          "canonicalAnswer": "73.5",
+          "workedSolution": [
+            "Set up the decimal calculation: 37.8 + 35.7.",
+            "The answer is 73.5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 25.3 - 33.6",
+          "canonicalAnswer": "-8.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 25.3 - 33.6.",
+            "The answer is -8.3."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 4.2 × 15.4",
+          "canonicalAnswer": "64.68",
+          "workedSolution": [
+            "Set up the decimal calculation: 4.2 × 15.4.",
+            "The answer is 64.68."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 25.7 + 46.6",
+          "canonicalAnswer": "72.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 25.7 + 46.6.",
+            "The answer is 72.3."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 44.0 - 19.2",
+          "canonicalAnswer": "24.8",
+          "workedSolution": [
+            "Set up the decimal calculation: 44.0 - 19.2.",
+            "The answer is 24.8."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_6_v2_introductory_4_527f3f0f0b3e_simultaneous_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 5x + 1y = 22\n(2) 5x + 5y = 30",
+          "canonicalAnswer": "x = 4, y = 2",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 5x + 1y = 22.",
+            "Multiply equation 2 by 1: 5x + 5y = 30.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -4y = -8.",
+            "Divide both sides by -4: y = 2.",
+            "Substitute y = 2 in equation 1: 5x = 22 − (1)(2) = 20; divide by 5 to get x = 4.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 5 and 1.",
+            "Multiply equation 1 by 5: 25x + 5y = 110.",
+            "Multiply equation 2 by 1: 5x + 5y = 30.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 20x = 80.",
+            "Divide both sides by 20: x = 4.",
+            "Substitute x = 4 in equation 1: 1y = 22 − (5)(4) = 2; divide by 1 to get y = 2.",
+            "Check equation 1: (5)(4) + (1)(2) = 22.",
+            "Check equation 2: (5)(4) + (5)(2) = 30.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 4, y = 2."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 5,
+                "y": 1,
+                "constant": 22
+              },
+              {
+                "x": 5,
+                "y": 5,
+                "constant": 30
+              }
+            ],
+            "solution": {
+              "x": 4,
+              "y": 2
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 5,
+                    "y": 1,
+                    "constant": 22
+                  },
+                  {
+                    "x": 5,
+                    "y": 5,
+                    "constant": 30
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -4,
+                  "constant": -8
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  5,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 25,
+                    "y": 5,
+                    "constant": 110
+                  },
+                  {
+                    "x": 5,
+                    "y": 5,
+                    "constant": 30
+                  }
+                ],
+                "reduced": {
+                  "x": 20,
+                  "y": 0,
+                  "constant": 80
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v2_introductory_4_527f3f0f0b3e_simultaneous_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 4x + 2y = 32\n(2) 4x + 3y = 36",
+          "canonicalAnswer": "x = 6, y = 4",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 4x + 2y = 32.",
+            "Multiply equation 2 by 1: 4x + 3y = 36.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1y = -4.",
+            "Divide both sides by -1: y = 4.",
+            "Substitute y = 4 in equation 1: 4x = 32 − (2)(4) = 24; divide by 4 to get x = 6.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 3 and 2.",
+            "Multiply equation 1 by 3: 12x + 6y = 96.",
+            "Multiply equation 2 by 2: 8x + 6y = 72.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 4x = 24.",
+            "Divide both sides by 4: x = 6.",
+            "Substitute x = 6 in equation 1: 2y = 32 − (4)(6) = 8; divide by 2 to get y = 4.",
+            "Check equation 1: (4)(6) + (2)(4) = 32.",
+            "Check equation 2: (4)(6) + (3)(4) = 36.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 6, y = 4."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 4,
+                "y": 2,
+                "constant": 32
+              },
+              {
+                "x": 4,
+                "y": 3,
+                "constant": 36
+              }
+            ],
+            "solution": {
+              "x": 6,
+              "y": 4
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 4,
+                    "y": 2,
+                    "constant": 32
+                  },
+                  {
+                    "x": 4,
+                    "y": 3,
+                    "constant": 36
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -1,
+                  "constant": -4
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  3,
+                  2
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 12,
+                    "y": 6,
+                    "constant": 96
+                  },
+                  {
+                    "x": 8,
+                    "y": 6,
+                    "constant": 72
+                  }
+                ],
+                "reduced": {
+                  "x": 4,
+                  "y": 0,
+                  "constant": 24
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v2_introductory_4_527f3f0f0b3e_simultaneous_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 5x + 4y = 19\n(2) 5x + 1y = 16",
+          "canonicalAnswer": "x = 3, y = 1",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 5x + 4y = 19.",
+            "Multiply equation 2 by 1: 5x + 1y = 16.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 3y = 3.",
+            "Divide both sides by 3: y = 1.",
+            "Substitute y = 1 in equation 1: 5x = 19 − (4)(1) = 15; divide by 5 to get x = 3.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 1 and 4.",
+            "Multiply equation 1 by 1: 5x + 4y = 19.",
+            "Multiply equation 2 by 4: 20x + 4y = 64.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -15x = -45.",
+            "Divide both sides by -15: x = 3.",
+            "Substitute x = 3 in equation 1: 4y = 19 − (5)(3) = 4; divide by 4 to get y = 1.",
+            "Check equation 1: (5)(3) + (4)(1) = 19.",
+            "Check equation 2: (5)(3) + (1)(1) = 16.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 3, y = 1."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 5,
+                "y": 4,
+                "constant": 19
+              },
+              {
+                "x": 5,
+                "y": 1,
+                "constant": 16
+              }
+            ],
+            "solution": {
+              "x": 3,
+              "y": 1
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 5,
+                    "y": 4,
+                    "constant": 19
+                  },
+                  {
+                    "x": 5,
+                    "y": 1,
+                    "constant": 16
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 3,
+                  "constant": 3
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  1,
+                  4
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 5,
+                    "y": 4,
+                    "constant": 19
+                  },
+                  {
+                    "x": 20,
+                    "y": 4,
+                    "constant": 64
+                  }
+                ],
+                "reduced": {
+                  "x": -15,
+                  "y": 0,
+                  "constant": -45
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_6_v2_introductory_4_527f3f0f0b3e_simultaneous_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 5x + 2y = 27\n(2) 5x + 4y = 39",
+          "canonicalAnswer": "x = 3, y = 6",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 5x + 2y = 27.",
+            "Multiply equation 2 by 1: 5x + 4y = 39.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -2y = -12.",
+            "Divide both sides by -2: y = 6.",
+            "Substitute y = 6 in equation 1: 5x = 27 − (2)(6) = 15; divide by 5 to get x = 3.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 2 and 1.",
+            "Multiply equation 1 by 2: 10x + 4y = 54.",
+            "Multiply equation 2 by 1: 5x + 4y = 39.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 5x = 15.",
+            "Divide both sides by 5: x = 3.",
+            "Substitute x = 3 in equation 1: 2y = 27 − (5)(3) = 12; divide by 2 to get y = 6.",
+            "Check equation 1: (5)(3) + (2)(6) = 27.",
+            "Check equation 2: (5)(3) + (4)(6) = 39.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 3, y = 6."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 5,
+                "y": 2,
+                "constant": 27
+              },
+              {
+                "x": 5,
+                "y": 4,
+                "constant": 39
+              }
+            ],
+            "solution": {
+              "x": 3,
+              "y": 6
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 5,
+                    "y": 2,
+                    "constant": 27
+                  },
+                  {
+                    "x": 5,
+                    "y": 4,
+                    "constant": 39
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -2,
+                  "constant": -12
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  2,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 10,
+                    "y": 4,
+                    "constant": 54
+                  },
+                  {
+                    "x": 5,
+                    "y": 4,
+                    "constant": 39
+                  }
+                ],
+                "reduced": {
+                  "x": 5,
+                  "y": 0,
+                  "constant": 15
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "maths_2026_w46_day_7_v2_introductory_4_527f3f0f0b3e",
+      "questions": [
+        {
+          "id": "maths_2026_w46_day_7_fraction_1",
+          "topic": "fraction",
+          "prompt": "3/23 + 27/33",
+          "canonicalAnswer": "240/253",
+          "workedSolution": [
+            "Convert the terms: 99/759 + 621/759. Add to get 720/759; reduce to 240/253, then convert to 240/253."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_2",
+          "topic": "fraction",
+          "prompt": "16/33 − 6/11",
+          "canonicalAnswer": "-2/33",
+          "workedSolution": [
+            "Convert the terms: 176/363 − 198/363. Subtract to get -22/363; reduce to -2/33, then convert to -2/33."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_3",
+          "topic": "fraction",
+          "prompt": "1/38 × 3/8",
+          "canonicalAnswer": "3/304",
+          "workedSolution": [
+            "Multiply to get 3/304; reduce to 3/304, then convert to 3/304."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_4",
+          "topic": "fraction",
+          "prompt": "11/17 ÷ 12/29",
+          "canonicalAnswer": "1 115/204",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 11/17 × 29/12.",
+            "Multiply to get 319/204; reduce to 319/204, then convert to 1 115/204."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_5",
+          "topic": "fraction",
+          "prompt": "27/33 + 8/9",
+          "canonicalAnswer": "1 70/99",
+          "workedSolution": [
+            "Convert the terms: 243/297 + 264/297. Add to get 507/297; reduce to 169/99, then convert to 1 70/99."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_6",
+          "topic": "fraction",
+          "prompt": "9/18 − 18/35",
+          "canonicalAnswer": "-1/70",
+          "workedSolution": [
+            "Convert the terms: 315/630 − 324/630. Subtract to get -9/630; reduce to -1/70, then convert to -1/70."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_7",
+          "topic": "fraction",
+          "prompt": "1/34 × 19/23",
+          "canonicalAnswer": "19/782",
+          "workedSolution": [
+            "Multiply to get 19/782; reduce to 19/782, then convert to 19/782."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_fraction_8",
+          "topic": "fraction",
+          "prompt": "30/32 ÷ 27/43",
+          "canonicalAnswer": "1 71/144",
+          "workedSolution": [
+            "Rewrite division as multiplication by the reciprocal: 30/32 × 43/27.",
+            "Multiply to get 1290/864; reduce to 215/144, then convert to 1 71/144."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 56",
+          "canonicalAnswer": "35",
+          "workedSolution": [
+            "8/5x = 56",
+            "x = 35"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve 37x + 34 = 23x + 440",
+          "canonicalAnswer": "29",
+          "workedSolution": [
+            "14x = 406",
+            "x = 29"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve 7x − 21 = 1x + 129",
+          "canonicalAnswer": "25",
+          "workedSolution": [
+            "6x = 150",
+            "x = 25"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve 2x + 0.7x = -45 9/10",
+          "canonicalAnswer": "-17",
+          "workedSolution": [
+            "2.7x = -45 9/10",
+            "x = -17"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_5",
+          "topic": "two_step_equation",
+          "prompt": "Solve 9x + 41 = 2x + 209",
+          "canonicalAnswer": "24",
+          "workedSolution": [
+            "7x = 168",
+            "x = 24"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_6",
+          "topic": "two_step_equation",
+          "prompt": "Solve 17x + 21 = 14x + 27",
+          "canonicalAnswer": "2",
+          "workedSolution": [
+            "3x = 6",
+            "x = 2"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_7",
+          "topic": "two_step_equation",
+          "prompt": "Solve x + 3/5x = 28 4/5",
+          "canonicalAnswer": "18",
+          "workedSolution": [
+            "8/5x = 28 4/5",
+            "x = 18"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_equation_8",
+          "topic": "two_step_equation",
+          "prompt": "Solve 18x − 14 = 15x + 1",
+          "canonicalAnswer": "5",
+          "workedSolution": [
+            "3x = 15",
+            "x = 5"
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_1",
+          "topic": "factorisation",
+          "prompt": "Factorise 102x − 156",
+          "canonicalAnswer": "6(17x − 26)",
+          "workedSolution": [
+            "The greatest common factor is 6.",
+            "Take out 6 to get 6(17x − 26)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_2",
+          "topic": "factorisation",
+          "prompt": "Factorise 135x − 5",
+          "canonicalAnswer": "5(27x − 1)",
+          "workedSolution": [
+            "The greatest common factor is 5.",
+            "Take out 5 to get 5(27x − 1)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_3",
+          "topic": "factorisation",
+          "prompt": "Factorise 124x + 44",
+          "canonicalAnswer": "4(31x + 11)",
+          "workedSolution": [
+            "The greatest common factor is 4.",
+            "Take out 4 to get 4(31x + 11)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_4",
+          "topic": "factorisation",
+          "prompt": "Factorise 1120x − 96",
+          "canonicalAnswer": "32(35x − 3)",
+          "workedSolution": [
+            "The greatest common factor is 32.",
+            "Take out 32 to get 32(35x − 3)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_5",
+          "topic": "factorisation",
+          "prompt": "Factorise 874x − 893",
+          "canonicalAnswer": "19(46x − 47)",
+          "workedSolution": [
+            "The greatest common factor is 19.",
+            "Take out 19 to get 19(46x − 47)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_6",
+          "topic": "factorisation",
+          "prompt": "Factorise 1200x + 925",
+          "canonicalAnswer": "25(48x + 37)",
+          "workedSolution": [
+            "The greatest common factor is 25.",
+            "Take out 25 to get 25(48x + 37)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_7",
+          "topic": "factorisation",
+          "prompt": "Factorise 29x + 812",
+          "canonicalAnswer": "29(1x + 28)",
+          "workedSolution": [
+            "The greatest common factor is 29.",
+            "Take out 29 to get 29(1x + 28)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_factorisation_8",
+          "topic": "factorisation",
+          "prompt": "Factorise 1482x + 190",
+          "canonicalAnswer": "38(39x + 5)",
+          "workedSolution": [
+            "The greatest common factor is 38.",
+            "Take out 38 to get 38(39x + 5)."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_1",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 41 then increased by 35 to make 1511. Find the number.",
+          "canonicalAnswer": "36",
+          "workedSolution": [
+            "Undo the adjustment: 41 times the number is 1476.",
+            "Divide by 41: the number is 36."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_2",
+          "topic": "problem_solving",
+          "prompt": "A customer spends $144 on 9 notebooks. Each notebook has the same price. What is the price of one notebook?",
+          "canonicalAnswer": "16",
+          "workedSolution": [
+            "Divide the total cost of $144 by 9 notebooks.",
+            "Each notebook costs $16."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_3",
+          "topic": "problem_solving",
+          "prompt": "A cyclist travels 24 km in 4 hours at a constant speed. What is the average speed in km/h?",
+          "canonicalAnswer": "6",
+          "workedSolution": [
+            "Divide 24 km by 4 hours.",
+            "The average speed is 6 km/h."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_4",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 34 then increased by 8 to make 1572. Find the number.",
+          "canonicalAnswer": "46",
+          "workedSolution": [
+            "Undo the adjustment: 34 times the number is 1564.",
+            "Divide by 34: the number is 46."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_5",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 20 then increased by 44 to make 624. Find the number.",
+          "canonicalAnswer": "29",
+          "workedSolution": [
+            "Undo the adjustment: 20 times the number is 580.",
+            "Divide by 20: the number is 29."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_6",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 15 then increased by 37 to make 682. Find the number.",
+          "canonicalAnswer": "43",
+          "workedSolution": [
+            "Undo the adjustment: 15 times the number is 645.",
+            "Divide by 15: the number is 43."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_7",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 43 then decreased by 39 to make 176. Find the number.",
+          "canonicalAnswer": "5",
+          "workedSolution": [
+            "Undo the adjustment: 43 times the number is 215.",
+            "Divide by 43: the number is 5."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_problem_solving_8",
+          "topic": "problem_solving",
+          "prompt": "A number is multiplied by 39 then increased by 46 to make 1762. Find the number.",
+          "canonicalAnswer": "44",
+          "workedSolution": [
+            "Undo the adjustment: 39 times the number is 1716.",
+            "Divide by 39: the number is 44."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_1",
+          "topic": "decimal",
+          "prompt": "Calculate 14.9 + 25.5",
+          "canonicalAnswer": "40.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 14.9 + 25.5.",
+            "The answer is 40.4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_2",
+          "topic": "decimal",
+          "prompt": "Calculate 39.4 - 44.3",
+          "canonicalAnswer": "-4.9",
+          "workedSolution": [
+            "Set up the decimal calculation: 39.4 - 44.3.",
+            "The answer is -4.9."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_3",
+          "topic": "decimal",
+          "prompt": "Calculate 37.4 × 40.4",
+          "canonicalAnswer": "1510.96",
+          "workedSolution": [
+            "Set up the decimal calculation: 37.4 × 40.4.",
+            "The answer is 1510.96."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_4",
+          "topic": "decimal",
+          "prompt": "Calculate 2.6 + 33.0",
+          "canonicalAnswer": "35.6",
+          "workedSolution": [
+            "Set up the decimal calculation: 2.6 + 33.0.",
+            "The answer is 35.6."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_5",
+          "topic": "decimal",
+          "prompt": "Calculate 25.1 - 19.4",
+          "canonicalAnswer": "5.7",
+          "workedSolution": [
+            "Set up the decimal calculation: 25.1 - 19.4.",
+            "The answer is 5.7."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_6",
+          "topic": "decimal",
+          "prompt": "Calculate 39.9 × 41.5",
+          "canonicalAnswer": "1655.85",
+          "workedSolution": [
+            "Set up the decimal calculation: 39.9 × 41.5.",
+            "The answer is 1655.85."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_7",
+          "topic": "decimal",
+          "prompt": "Calculate 32.4 + 39.0",
+          "canonicalAnswer": "71.4",
+          "workedSolution": [
+            "Set up the decimal calculation: 32.4 + 39.0.",
+            "The answer is 71.4."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_decimal_8",
+          "topic": "decimal",
+          "prompt": "Calculate 32.7 - 31.4",
+          "canonicalAnswer": "1.3",
+          "workedSolution": [
+            "Set up the decimal calculation: 32.7 - 31.4.",
+            "The answer is 1.3."
+          ]
+        },
+        {
+          "id": "maths_2026_w46_day_7_v2_introductory_4_527f3f0f0b3e_simultaneous_1",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 1x + 1y = 7\n(2) 1x + 5y = 27",
+          "canonicalAnswer": "x = 2, y = 5",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 1x + 1y = 7.",
+            "Multiply equation 2 by 1: 1x + 5y = 27.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -4y = -20.",
+            "Divide both sides by -4: y = 5.",
+            "Substitute y = 5 in equation 1: 1x = 7 − (1)(5) = 2; divide by 1 to get x = 2.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 5 and 1.",
+            "Multiply equation 1 by 5: 5x + 5y = 35.",
+            "Multiply equation 2 by 1: 1x + 5y = 27.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 4x = 8.",
+            "Divide both sides by 4: x = 2.",
+            "Substitute x = 2 in equation 1: 1y = 7 − (1)(2) = 5; divide by 1 to get y = 5.",
+            "Check equation 1: (1)(2) + (1)(5) = 7.",
+            "Check equation 2: (1)(2) + (5)(5) = 27.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 2, y = 5."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 1,
+                "y": 1,
+                "constant": 7
+              },
+              {
+                "x": 1,
+                "y": 5,
+                "constant": 27
+              }
+            ],
+            "solution": {
+              "x": 2,
+              "y": 5
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 1,
+                    "constant": 7
+                  },
+                  {
+                    "x": 1,
+                    "y": 5,
+                    "constant": 27
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -4,
+                  "constant": -20
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  5,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 5,
+                    "y": 5,
+                    "constant": 35
+                  },
+                  {
+                    "x": 1,
+                    "y": 5,
+                    "constant": 27
+                  }
+                ],
+                "reduced": {
+                  "x": 4,
+                  "y": 0,
+                  "constant": 8
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v2_introductory_4_527f3f0f0b3e_simultaneous_2",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 5x + 4y = 27\n(2) 5x + 5y = 30",
+          "canonicalAnswer": "x = 3, y = 3",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 5x + 4y = 27.",
+            "Multiply equation 2 by 1: 5x + 5y = 30.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -1y = -3.",
+            "Divide both sides by -1: y = 3.",
+            "Substitute y = 3 in equation 1: 5x = 27 − (4)(3) = 15; divide by 5 to get x = 3.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 5 and 4.",
+            "Multiply equation 1 by 5: 25x + 20y = 135.",
+            "Multiply equation 2 by 4: 20x + 20y = 120.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 5x = 15.",
+            "Divide both sides by 5: x = 3.",
+            "Substitute x = 3 in equation 1: 4y = 27 − (5)(3) = 12; divide by 4 to get y = 3.",
+            "Check equation 1: (5)(3) + (4)(3) = 27.",
+            "Check equation 2: (5)(3) + (5)(3) = 30.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 3, y = 3."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 5,
+                "y": 4,
+                "constant": 27
+              },
+              {
+                "x": 5,
+                "y": 5,
+                "constant": 30
+              }
+            ],
+            "solution": {
+              "x": 3,
+              "y": 3
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 5,
+                    "y": 4,
+                    "constant": 27
+                  },
+                  {
+                    "x": 5,
+                    "y": 5,
+                    "constant": 30
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -1,
+                  "constant": -3
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  5,
+                  4
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 25,
+                    "y": 20,
+                    "constant": 135
+                  },
+                  {
+                    "x": 20,
+                    "y": 20,
+                    "constant": 120
+                  }
+                ],
+                "reduced": {
+                  "x": 5,
+                  "y": 0,
+                  "constant": 15
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v2_introductory_4_527f3f0f0b3e_simultaneous_3",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 2x + 2y = 16\n(2) 2x + 4y = 20",
+          "canonicalAnswer": "x = 6, y = 2",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 2x + 2y = 16.",
+            "Multiply equation 2 by 1: 2x + 4y = 20.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -2y = -4.",
+            "Divide both sides by -2: y = 2.",
+            "Substitute y = 2 in equation 1: 2x = 16 − (2)(2) = 12; divide by 2 to get x = 6.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 2 and 1.",
+            "Multiply equation 1 by 2: 4x + 4y = 32.",
+            "Multiply equation 2 by 1: 2x + 4y = 20.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 2x = 12.",
+            "Divide both sides by 2: x = 6.",
+            "Substitute x = 6 in equation 1: 2y = 16 − (2)(6) = 4; divide by 2 to get y = 2.",
+            "Check equation 1: (2)(6) + (2)(2) = 16.",
+            "Check equation 2: (2)(6) + (4)(2) = 20.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 6, y = 2."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 2,
+                "y": 2,
+                "constant": 16
+              },
+              {
+                "x": 2,
+                "y": 4,
+                "constant": 20
+              }
+            ],
+            "solution": {
+              "x": 6,
+              "y": 2
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 2,
+                    "y": 2,
+                    "constant": 16
+                  },
+                  {
+                    "x": 2,
+                    "y": 4,
+                    "constant": 20
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": -2,
+                  "constant": -4
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  2,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 4,
+                    "y": 4,
+                    "constant": 32
+                  },
+                  {
+                    "x": 2,
+                    "y": 4,
+                    "constant": 20
+                  }
+                ],
+                "reduced": {
+                  "x": 2,
+                  "y": 0,
+                  "constant": 12
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": "maths_2026_w46_day_7_v2_introductory_4_527f3f0f0b3e_simultaneous_4",
+          "topic": "two_step_equation",
+          "prompt": "Solve by elimination. Find x and y.\n(1) 1x + 3y = 10\n(2) 1x + 1y = 6",
+          "canonicalAnswer": "x = 4, y = 2",
+          "workedSolution": [
+            "Eliminate x: match its coefficient magnitudes using multipliers 1 and 1.",
+            "Multiply equation 1 by 1: 1x + 3y = 10.",
+            "Multiply equation 2 by 1: 1x + 1y = 6.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: 2y = 4.",
+            "Divide both sides by 2: y = 2.",
+            "Substitute y = 2 in equation 1: 1x = 10 − (3)(2) = 4; divide by 1 to get x = 4.",
+            "Eliminate y: match its coefficient magnitudes using multipliers 1 and 3.",
+            "Multiply equation 1 by 1: 1x + 3y = 10.",
+            "Multiply equation 2 by 3: 3x + 3y = 18.",
+            "Subtract the second scaled equation from the first, changing both signs on the left and the sign on the right: -2x = -8.",
+            "Divide both sides by -2: x = 4.",
+            "Substitute x = 4 in equation 1: 3y = 10 − (1)(4) = 6; divide by 3 to get y = 2.",
+            "Check equation 1: (1)(4) + (3)(2) = 10.",
+            "Check equation 2: (1)(4) + (1)(2) = 6.",
+            "Compare strategies: eliminating x uses the smaller total of positive multipliers, so it needs less scaling.",
+            "Both original equations are satisfied: x = 4, y = 2."
+          ],
+          "exerciseFamily": "simultaneous_linear_equations",
+          "simultaneous": {
+            "difficulty": "introductory",
+            "curriculum": "AC9M10A02",
+            "equations": [
+              {
+                "x": 1,
+                "y": 3,
+                "constant": 10
+              },
+              {
+                "x": 1,
+                "y": 1,
+                "constant": 6
+              }
+            ],
+            "solution": {
+              "x": 4,
+              "y": 2
+            },
+            "strategies": [
+              {
+                "eliminate": "x",
+                "multipliers": [
+                  1,
+                  1
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 3,
+                    "constant": 10
+                  },
+                  {
+                    "x": 1,
+                    "y": 1,
+                    "constant": 6
+                  }
+                ],
+                "reduced": {
+                  "x": 0,
+                  "y": 2,
+                  "constant": 4
+                }
+              },
+              {
+                "eliminate": "y",
+                "multipliers": [
+                  1,
+                  3
+                ],
+                "operation": "subtract",
+                "scaled": [
+                  {
+                    "x": 1,
+                    "y": 3,
+                    "constant": 10
+                  },
+                  {
+                    "x": 3,
+                    "y": 3,
+                    "constant": 18
+                  }
+                ],
+                "reduced": {
+                  "x": -2,
+                  "y": 0,
+                  "constant": -8
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "simultaneousAllocation": 4
+}
