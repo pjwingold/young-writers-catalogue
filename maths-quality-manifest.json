@@ -1,0 +1,281 @@
+[
+  {
+    "contractVersion": 1,
+    "contentId": "maths_2026-W48_level_5_schema_1",
+    "contentType": "maths",
+    "contentVersion": "1",
+    "contentHash": "5b1fab2e1b43102fc78fe36534525e89823600a285d3d3ac1adf7655c7c4b615",
+    "validatorVersion": "maths-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "maths-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "maths_catalogue",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-catalogue-validator"
+        ]
+      },
+      {
+        "check": "maths_semantic_coverage",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-semantic-manifest"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-22T23:50:18.019Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "maths_2026-W48_level_6_schema_1",
+    "contentType": "maths",
+    "contentVersion": "1",
+    "contentHash": "584b7144f5bded9e67e97539b1362a47afcf71114ebf474fffde6dfbbd0a711e",
+    "validatorVersion": "maths-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "maths-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "maths_catalogue",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-catalogue-validator"
+        ]
+      },
+      {
+        "check": "maths_semantic_coverage",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-semantic-manifest"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-22T23:52:27.177Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "maths_2026-W48_level_7_schema_1",
+    "contentType": "maths",
+    "contentVersion": "1",
+    "contentHash": "0023b2018119b17b8c78d99aec620e8d6b3a7aab8fe9d046db0950ab118bfb4f",
+    "validatorVersion": "maths-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "maths-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "maths_catalogue",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-catalogue-validator"
+        ]
+      },
+      {
+        "check": "maths_semantic_coverage",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-semantic-manifest"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-22T23:53:40.837Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "maths_2026-W48_level_8_schema_1",
+    "contentType": "maths",
+    "contentVersion": "1",
+    "contentHash": "9b5da8c6e47f65e63dae7c66a272c055ddcdde5968d626e7f5a323a7e8bd448e",
+    "validatorVersion": "maths-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "maths-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "maths_catalogue",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-catalogue-validator"
+        ]
+      },
+      {
+        "check": "maths_semantic_coverage",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-semantic-manifest"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-22T23:54:48.540Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "maths_2026-W48_level_9_schema_1",
+    "contentType": "maths",
+    "contentVersion": "1",
+    "contentHash": "39dbe2e3641e1feffd7435975819e2189e191304e5764c73e697c6d8e43757e7",
+    "validatorVersion": "maths-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "maths-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "maths_catalogue",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-catalogue-validator"
+        ]
+      },
+      {
+        "check": "maths_semantic_coverage",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-semantic-manifest"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-22T23:57:43.482Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "maths_2026-W48_level_9_schema_2",
+    "contentType": "maths",
+    "contentVersion": "1",
+    "contentHash": "369396644126aa7ec9af1d5c63d31d652bc271d662ac16a1b7ad5623a96293c9",
+    "validatorVersion": "maths-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "maths-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "maths_catalogue",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-catalogue-validator"
+        ]
+      },
+      {
+        "check": "maths_semantic_coverage",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-semantic-manifest"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-22T23:58:53.418Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "maths_2026-W48_level_8_schema_3",
+    "contentType": "maths",
+    "contentVersion": "1",
+    "contentHash": "43a03c64b4749425af7dfff939c753a5db70ca81c9410a04e8419591a39b3024",
+    "validatorVersion": "maths-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "maths-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "maths_catalogue",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-catalogue-validator"
+        ]
+      },
+      {
+        "check": "maths_semantic_coverage",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-semantic-manifest"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-22T23:59:05.609Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "maths_2026-W48_level_8_schema_4",
+    "contentType": "maths",
+    "contentVersion": "1",
+    "contentHash": "e3a665206fa96033df87e14334a4938c045fdf6e17c1428975009da9658feaf5",
+    "validatorVersion": "maths-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "maths-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "maths_catalogue",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-catalogue-validator"
+        ]
+      },
+      {
+        "check": "maths_semantic_coverage",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-semantic-manifest"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-22T23:59:12.937Z"
+  },
+  {
+    "contractVersion": 1,
+    "contentId": "maths_2026-W48_level_9_schema_5",
+    "contentType": "maths",
+    "contentVersion": "1",
+    "contentHash": "90f6be82b4c75e1e7a2e6c9c0a644a83b68e4d6806dc1770b297ea471af005b8",
+    "validatorVersion": "maths-publication-v1:gemini:gemini-3.5-flash-lite",
+    "policyVersion": "maths-publication-v1",
+    "outcome": "PASS",
+    "publicationEligible": true,
+    "publicationStatus": "APPROVED",
+    "evidence": [
+      {
+        "check": "maths_catalogue",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-catalogue-validator"
+        ]
+      },
+      {
+        "check": "maths_semantic_coverage",
+        "outcome": "PASS",
+        "required": true,
+        "evidenceRefs": [
+          "maths-semantic-manifest"
+        ]
+      }
+    ],
+    "validatedAt": "2026-11-23T00:00:07.146Z"
+  }
+]
